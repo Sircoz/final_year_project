@@ -1,0 +1,1000 @@
+SELECT id FROM data WHERE educationnum != 9 and hoursperweek > 48 and workclass > 3 and capitalloss <= 36 
+SELECT id FROM data WHERE workclass > 4 
+SELECT id FROM data WHERE maritalstatus = 0 
+SELECT id FROM data WHERE capitalloss != 73 and nativecountry > 8 and (TRUE) and occupation = 3 and capitalgain != 28 
+SELECT id FROM data WHERE maritalstatus <= 0 and educationnum != 3 and nativecountry >= 4 and education > 7 and age > 5 
+SELECT id FROM data WHERE maritalstatus != 5 and sex > 0 and race >= 1 and race >= 3 and maritalstatus = 4 and nativecountry > 21 
+SELECT id FROM data WHERE occupation = 1 
+SELECT id FROM data WHERE nativecountry != 23 and education >= 12 and relationship = 0 
+SELECT id FROM data WHERE maritalstatus < 1 and maritalstatus < 2 and age != 39 
+SELECT id FROM data WHERE race <= 2 
+SELECT id FROM data WHERE education > 14 and race != 2 and workclass >= 4 
+SELECT id FROM data WHERE relationship >= 4 
+SELECT id FROM data WHERE educationnum != 8 and occupation > 8 and educationnum >= 10 
+SELECT id FROM data WHERE nativecountry > 22 and occupation < 4 and relationship < 1 and nativecountry != 21 
+SELECT id FROM data WHERE relationship >= 4 
+SELECT id FROM data WHERE maritalstatus != 2 and maritalstatus < 1 and capitalgain < 21 and nativecountry > 29 
+SELECT id FROM data WHERE maritalstatus >= 3 and (TRUE) and sex >= 0 and educationnum <= 9 and relationship >= 2 
+SELECT id FROM data WHERE race > 2 and hoursperweek > 45 
+SELECT id FROM data WHERE relationship = 3 and (TRUE) and educationnum < 10 
+SELECT id FROM data WHERE hoursperweek != 76 and workclass < 4 and capitalgain < 46 
+SELECT id FROM data WHERE maritalstatus = 4 and sex != 0 and nativecountry > 9 and capitalloss != 27 
+SELECT id FROM data WHERE education > 0 and relationship > 0 and race <= 3 
+SELECT id FROM data WHERE occupation < 3 and capitalloss != 43 and capitalgain < 19 and occupation < 13 and education < 13 and capitalgain < 57 
+SELECT id FROM data WHERE hoursperweek != 83 and occupation <= 5 and age < 19 
+SELECT id FROM data WHERE occupation = 3 and capitalloss <= 72 
+SELECT id FROM data WHERE hoursperweek >= 12 and sex != 0 and occupation != 3 and hoursperweek >= 48 
+SELECT id FROM data WHERE capitalgain < 36 and education < 9 
+SELECT id FROM data WHERE occupation = 1 
+SELECT id FROM data WHERE maritalstatus <= 1 and age < 57 
+SELECT id FROM data WHERE educationnum >= 1 and educationnum != 0 and workclass > 5 
+SELECT id FROM data WHERE workclass != 4 and workclass < 5 and education <= 13 and education <= 14 
+SELECT id FROM data WHERE workclass < 4 and sex >= 0 and capitalloss < 25 and race > 1 
+SELECT id FROM data WHERE workclass != 0 and educationnum != 1 and sex = 0 and maritalstatus > 3 and relationship > 0 
+SELECT id FROM data WHERE hoursperweek <= 38 and occupation < 11 and hoursperweek != 93 
+SELECT id FROM data WHERE relationship < 2 and relationship != 3 and sex = 0 
+SELECT id FROM data WHERE (sex = 0 and relationship >= 1 and nativecountry != 9 ) and workclass = 4 and occupation <= 11 
+SELECT id FROM data WHERE race >= 1 and hoursperweek <= 24 and capitalloss != 82 
+SELECT id FROM data WHERE education != 8 and maritalstatus <= 3 and sex = 0 and hoursperweek != 60 
+SELECT id FROM data WHERE age > 33 and nativecountry > 33 and hoursperweek != 60 
+SELECT id FROM data WHERE workclass < 3 and nativecountry >= 7 
+SELECT id FROM data WHERE relationship >= 1 and hoursperweek < 43 and educationnum > 9 
+SELECT id FROM data WHERE sex >= 0 and maritalstatus <= 1 and workclass >= 1 
+SELECT id FROM data WHERE relationship != 0 and race != 3 and relationship = 3 
+SELECT id FROM data WHERE relationship != 1 and age > 34 and maritalstatus = 2 
+SELECT id FROM data WHERE education != 2 and education != 11 and occupation >= 8 and age >= 18 
+SELECT id FROM data WHERE relationship >= 0 and nativecountry != 14 and maritalstatus = 0 
+SELECT id FROM data WHERE educationnum <= 6 
+SELECT id FROM data WHERE nativecountry > 24 and relationship = 0 and occupation > 5 
+SELECT id FROM data WHERE nativecountry >= 11 and occupation >= 1 and capitalgain < 66 and relationship < 1 and capitalloss < 43 and education < 11 
+SELECT id FROM data WHERE sex != 0 and education != 6 and hoursperweek <= 61 and capitalgain != 5 and education < 9 
+SELECT id FROM data WHERE race >= 1 and educationnum != 1 and race <= 3 and hoursperweek <= 42 
+SELECT id FROM data WHERE age > 26 and occupation = 10 and sex <= 0 and hoursperweek > 79
+SELECT id FROM data WHERE workclass >= 2 and education != 6 and race = 2 and capitalgain >= 71 and capitalloss < 90 and hoursperweek < 32 and nativecountry = 37
+SELECT id FROM data WHERE education >= 8
+SELECT id FROM data WHERE sex >= 0 and workclass != 3 and relationship != 0 and maritalstatus >= 0 
+SELECT id FROM data WHERE age <= 6 and education >= 6 and maritalstatus <= 4 and capitalloss <= 30 and hoursperweek != 14 and nativecountry > 25
+SELECT id FROM data WHERE sex >= 0 and capitalloss = 49
+SELECT id FROM data WHERE workclass <= 7 and occupation <= 2 and capitalgain != 24 and capitalloss = 75
+SELECT id FROM data WHERE age != 31 and educationnum <= 6 and occupation >= 14 and race <= 1 and nativecountry > 31
+SELECT id FROM data WHERE age <= 72 and educationnum < 0 and relationship = 5 and race < 0 and capitalgain = 119 and hoursperweek > 43 and nativecountry = 37
+SELECT id FROM data WHERE educationnum > 11 and maritalstatus > 4 and race <= 3 and sex >= 1
+SELECT id FROM data WHERE capitalloss < 44
+SELECT id FROM data WHERE occupation <= 1 and sex > 1 and nativecountry <= 6
+SELECT id FROM data WHERE workclass = 7 and educationnum = 11
+SELECT id FROM data WHERE workclass < 6 and capitalgain != 8
+SELECT id FROM data WHERE workclass = 5 and educationnum <= 11 and occupation >= 6 and relationship < 4 and race >= 0 and capitalloss >= 12
+SELECT id FROM data WHERE age < 1 and workclass > 6 and maritalstatus != 1 and race = 3
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and race > 3 and sex > 1
+SELECT id FROM data WHERE capitalloss >= 61 and hoursperweek >= 59
+SELECT id FROM data WHERE workclass >= 0 and hoursperweek <= 72 and capitalloss != 1 and relationship > 1 and workclass > 0 
+SELECT id FROM data WHERE workclass != 6 and educationnum = 5 and relationship >= 0
+SELECT id FROM data WHERE age >= 4 and education != 10 and sex <= 1 and capitalgain < 112
+SELECT id FROM data WHERE education < 10 and occupation <= 7 and relationship >= 0 and capitalgain >= 11 and capitalloss <= 49 and nativecountry > 19
+SELECT id FROM data WHERE sex > 1 and capitalgain >= 59 and hoursperweek < 16
+SELECT id FROM data WHERE maritalstatus >= 2 and relationship <= 3
+SELECT id FROM data WHERE workclass < 5 and sex <= 1 and hoursperweek > 9 and nativecountry < 4
+SELECT id FROM data WHERE age >= 20 and educationnum > 12 and capitalgain < 76
+SELECT id FROM data WHERE sex = 0 and hoursperweek = 84
+SELECT id FROM data WHERE educationnum >= 13
+SELECT id FROM data WHERE age = 23 and relationship != 5
+SELECT id FROM data WHERE relationship >= 2 and capitalgain < 25 and capitalloss <= 24 and nativecountry <= 7
+SELECT id FROM data WHERE relationship < 4 and age < 17 and capitalgain != 25 
+SELECT id FROM data WHERE age <= 45 and educationnum != 14 and hoursperweek < 74
+SELECT id FROM data WHERE sex > 0 and maritalstatus >= 3 
+SELECT id FROM data WHERE workclass != 5 and relationship = 1 and capitalgain != 69 and capitalloss >= 43
+SELECT id FROM data WHERE educationnum > 0 and race <= 4 and sex <= 0 and hoursperweek != 62
+SELECT id FROM data WHERE age < 63 and workclass != 6 and occupation != 7
+SELECT id FROM data WHERE relationship < 1 and sex >= 0 and educationnum >= 9 
+SELECT id FROM data WHERE sex < 0
+SELECT id FROM data WHERE age = 66 and maritalstatus <= 5 and race != 4 and sex != 0 and hoursperweek <= 83
+SELECT id FROM data WHERE workclass <= 0 and education != 11 and race <= 0 and sex >= 0 and hoursperweek >= 13
+SELECT id FROM data WHERE age < 51 and workclass = 7 and education < 9 and sex > 1
+SELECT id FROM data WHERE capitalloss <= 75 and sex <= 0 
+SELECT id FROM data WHERE education < 4 and educationnum > 15 and relationship != 0 and capitalloss >= 66 and hoursperweek != 87
+SELECT id FROM data WHERE age != 33 and workclass < 4 and maritalstatus <= 5 and capitalloss <= 92
+SELECT id FROM data WHERE workclass < 3 and educationnum <= 15 and relationship = 0 and hoursperweek >= 95 and nativecountry != 18
+SELECT id FROM data
+SELECT id FROM data WHERE workclass >= 5 and education > 1 and hoursperweek <= 35 and nativecountry <= 38
+SELECT id FROM data WHERE education < 5 and educationnum <= 3
+SELECT id FROM data WHERE maritalstatus <= 3 and capitalloss = 32
+SELECT id FROM data WHERE age = 34 and maritalstatus < 1 and sex > 1
+SELECT id FROM data WHERE maritalstatus = 5 and race != 2 and capitalgain != 53 and nativecountry <= 0
+SELECT id FROM data WHERE occupation < 1 and sex <= 1 and capitalloss < 98
+SELECT id FROM data WHERE age != 27 and relationship <= 1 and race < 4 and capitalgain < 39 and capitalloss = 2 and nativecountry >= 2
+SELECT id FROM data WHERE education <= 12 and maritalstatus <= 5 and capitalgain <= 116 and capitalloss < 18
+SELECT id FROM data WHERE workclass > 7 and sex != 1
+SELECT id FROM data WHERE age = 55 and occupation > 8 and sex > 1
+SELECT id FROM data WHERE educationnum <= 0 and occupation <= 9 and sex >= 1 and capitalloss <= 50
+SELECT id FROM data WHERE age < 31 and education = 0 and race > 4
+SELECT id FROM data WHERE education >= 4 and occupation != 1 and hoursperweek = 43 and nativecountry = 41
+SELECT id FROM data WHERE sex <= 0 and hoursperweek <= 83 and maritalstatus <= 5 
+SELECT id FROM data WHERE educationnum > 10 and race > 3 and nativecountry > 4 and race > 0 
+SELECT id FROM data WHERE educationnum = 1 and capitalloss != 70 and nativecountry < 41
+SELECT id FROM data WHERE age > 55 and workclass > 2 and education < 13 and educationnum > 15 and capitalloss > 35 and hoursperweek != 6
+SELECT id FROM data WHERE age > 19 and educationnum >= 12 and relationship != 1 and sex = 1 and nativecountry > 19
+SELECT id FROM data WHERE workclass >= 2 and education < 13 and relationship > 4 and race < 2 and sex < 0 and hoursperweek <= 28
+SELECT id FROM data
+SELECT id FROM data WHERE age != 35 and educationnum > 14 and relationship > 4 and capitalgain <= 17
+SELECT id FROM data WHERE education != 6 and maritalstatus != 4 and relationship >= 5 and sex = 0 and capitalloss != 20 and nativecountry = 2
+SELECT id FROM data WHERE age <= 64 and education = 6 and relationship < 0
+SELECT id FROM data WHERE hoursperweek <= 46 and race != 3 and sex != 0 
+SELECT id FROM data WHERE relationship = 2 and race != 1 and capitalgain <= 58 and nativecountry >= 23
+SELECT id FROM data WHERE education = 13 and relationship < 2 and capitalloss <= 44
+SELECT id FROM data WHERE educationnum != 1 and maritalstatus <= 5 and relationship >= 0
+SELECT id FROM data WHERE educationnum >= 10 and sex = 0
+SELECT id FROM data WHERE age = 45 and race > 4 and capitalgain != 23 and capitalloss >= 53 and hoursperweek > 91
+SELECT id FROM data WHERE maritalstatus = 2 and capitalgain <= 69 
+SELECT id FROM data WHERE workclass != 4 and relationship <= 2 and hoursperweek > 90
+SELECT id FROM data WHERE maritalstatus != 6 and occupation = 0
+SELECT id FROM data WHERE age > 4 and workclass <= 0 and educationnum >= 12 and maritalstatus = 1 and capitalgain >= 95 and nativecountry != 35
+SELECT id FROM data WHERE maritalstatus >= 1 and relationship < 5
+SELECT id FROM data WHERE age >= 3 and workclass <= 7 and maritalstatus = 5
+SELECT id FROM data WHERE age != 57 and educationnum >= 7 and capitalloss = 49 and nativecountry > 4
+SELECT id FROM data WHERE age > 8 and educationnum = 10 and occupation < 0 and relationship > 2 and sex < 0 and capitalloss = 71 and hoursperweek > 80
+SELECT id FROM data WHERE education = 11 and occupation > 11 and capitalgain > 111 and hoursperweek = 22 and nativecountry >= 23
+SELECT id FROM data WHERE sex >= 0 and sex >= 0 and relationship < 1 
+SELECT id FROM data WHERE education != 12 and capitalloss = 18 and nativecountry >= 7
+SELECT id FROM data WHERE education = 3 and maritalstatus != 5
+SELECT id FROM data WHERE hoursperweek >= 80 and nativecountry > 40
+SELECT id FROM data WHERE age = 25 and workclass >= 8 and relationship > 0 and sex >= 1 and hoursperweek >= 74
+SELECT id FROM data WHERE workclass > 7 and sex >= 1 and nativecountry < 4
+SELECT id FROM data WHERE workclass < 7 and capitalloss < 59 and nativecountry < 17
+SELECT id FROM data WHERE educationnum != 4 and maritalstatus >= 4 and occupation >= 8 and relationship >= 4 and sex = 0
+SELECT id FROM data WHERE age <= 60 and education = 12 and educationnum <= 11 and relationship < 0
+SELECT id FROM data WHERE workclass = 1 and race >= 2 and capitalgain != 29
+SELECT id FROM data WHERE education <= 14 and educationnum > 8 and maritalstatus > 1 and sex <= 1
+SELECT id FROM data WHERE age != 48 and educationnum = 0 and hoursperweek = 4
+SELECT id FROM data WHERE age >= 35 and workclass >= 6 and education >= 8 and maritalstatus >= 4 and relationship = 0 and capitalloss = 65
+SELECT id FROM data WHERE relationship < 1 and capitalloss < 60 and age < 30 
+SELECT id FROM data WHERE education = 1 and maritalstatus <= 5 and occupation <= 6 and race <= 1
+SELECT id FROM data WHERE education != 6 and relationship = 0 and capitalgain < 95 and hoursperweek < 85
+SELECT id FROM data WHERE hoursperweek < 66 and capitalloss <= 58 and educationnum < 9 
+SELECT id FROM data WHERE age < 33 and education = 7 and race > 2 and hoursperweek >= 15
+SELECT id FROM data WHERE workclass < 8 and maritalstatus < 4 and relationship > 3 and sex != 1
+SELECT id FROM data WHERE workclass != 4 and sex >= 0
+SELECT id FROM data WHERE relationship >= 3 and capitalloss != 77 and educationnum > 2 
+SELECT id FROM data WHERE race != 1 and hoursperweek = 91 and nativecountry != 10
+SELECT id FROM data WHERE age >= 25 and education = 6 and educationnum > 14 and occupation = 0 and nativecountry = 3
+SELECT id FROM data WHERE workclass >= 0 and educationnum <= 12 and maritalstatus >= 4 and race = 1 and sex >= 0 and capitalloss = 23
+SELECT id FROM data WHERE education = 11 and workclass != 7 and age < 27 
+SELECT id FROM data WHERE workclass > 3 and education <= 4 and sex <= 0 and nativecountry >= 38
+SELECT id FROM data WHERE sex < 0 and hoursperweek = 21 and nativecountry < 10
+SELECT id FROM data WHERE education <= 4 and educationnum != 13 and race <= 0 and capitalgain = 96
+SELECT id FROM data WHERE nativecountry > 20 and maritalstatus < 3 and sex != 0 and nativecountry > 3 
+SELECT id FROM data WHERE age >= 31 and capitalloss != 62 
+SELECT id FROM data WHERE age <= 27 and workclass > 3 and capitalgain < 29 and capitalloss != 19
+SELECT id FROM data WHERE educationnum != 6 and maritalstatus < 6 and occupation = 11 and race != 0 and capitalloss <= 93 and hoursperweek = 18 and nativecountry > 14
+SELECT id FROM data WHERE occupation != 8 and race != 3 and sex = 0 and nativecountry <= 12
+SELECT id FROM data WHERE sex = 0 and capitalloss >= 28
+SELECT id FROM data WHERE education >= 4 and sex != 0 and capitalgain >= 51 and capitalloss <= 3
+SELECT id FROM data WHERE education <= 9 and sex > 0 and hoursperweek != 13
+SELECT id FROM data WHERE age < 72 and educationnum != 8 and occupation > 3 and relationship <= 2 and race < 1 and capitalloss > 85
+SELECT id FROM data WHERE race != 3 and capitalgain > 33
+SELECT id FROM data WHERE age <= 10 and educationnum > 13 and nativecountry >= 12
+SELECT id FROM data WHERE educationnum = 0 and capitalloss > 83 and hoursperweek = 45
+SELECT id FROM data WHERE age > 48 and education > 3 and educationnum != 10 and capitalloss <= 9
+SELECT id FROM data WHERE workclass < 2 and educationnum < 12 and race <= 0 and sex != 1 and capitalgain = 111 and capitalloss <= 68
+SELECT id FROM data WHERE educationnum != 9 and maritalstatus <= 1 and occupation < 8 and relationship >= 5
+SELECT id FROM data WHERE education >= 6 and educationnum = 12 and relationship < 4 and race != 0 and hoursperweek > 93 and nativecountry < 24
+SELECT id FROM data WHERE age = 10 and education < 1 and sex > 1 and capitalloss > 93
+SELECT id FROM data WHERE race <= 2 and capitalgain >= 121 and capitalloss != 0
+SELECT id FROM data WHERE workclass >= 5 and relationship < 0 and race = 4 and hoursperweek > 9
+SELECT id FROM data WHERE workclass <= 5 and maritalstatus != 2 and relationship < 1 and sex > 0 and capitalloss = 18 and nativecountry != 28
+SELECT id FROM data WHERE workclass <= 1 and education >= 6 and maritalstatus >= 6 and occupation != 2 and sex < 0 and capitalgain > 4 and nativecountry <= 0
+SELECT id FROM data WHERE relationship > 1 
+SELECT id FROM data WHERE age >= 11 and capitalgain <= 86
+SELECT id FROM data WHERE age >= 20 and education = 13 and race = 2
+SELECT id FROM data WHERE workclass <= 7 and relationship <= 3 and sex >= 1
+SELECT id FROM data WHERE age = 63 and occupation <= 9 and race < 2 and nativecountry = 17
+SELECT id FROM data WHERE age != 6 and education = 10 and occupation > 8 and relationship < 3 and sex >= 0 and hoursperweek = 86
+SELECT id FROM data WHERE age > 38 and educationnum = 11 and occupation = 1 and relationship != 1 and capitalloss = 51 and hoursperweek = 59 and nativecountry = 37
+SELECT id FROM data WHERE sex = 0 
+SELECT id FROM data WHERE occupation != 9 and capitalloss = 46
+SELECT id FROM data WHERE maritalstatus != 3 and occupation != 11 and hoursperweek < 48
+SELECT id FROM data WHERE capitalgain <= 34 and maritalstatus >= 3 and hoursperweek != 89 
+SELECT id FROM data WHERE workclass <= 3 and education < 5 and relationship >= 3
+SELECT id FROM data WHERE age = 25 and occupation > 10 and capitalgain = 105 and capitalloss > 3 and nativecountry <= 2
+SELECT id FROM data WHERE capitalgain = 102 and nativecountry < 4
+SELECT id FROM data WHERE age = 15 and education > 11 and educationnum <= 6 and sex >= 0 and capitalgain > 83
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and sex = 0
+SELECT id FROM data WHERE education != 10 and educationnum >= 2 and occupation <= 2 and capitalgain != 23
+SELECT id FROM data WHERE occupation != 3 and capitalgain <= 47 and capitalloss <= 7
+SELECT id FROM data WHERE educationnum != 10 and capitalloss > 50
+SELECT id FROM data WHERE age != 70 and workclass < 1 and maritalstatus = 3 and relationship != 3 and race != 1 and nativecountry <= 0
+SELECT id FROM data WHERE workclass < 8 and educationnum > 5 and maritalstatus > 3 and sex > 0 and capitalgain <= 66
+SELECT id FROM data WHERE workclass > 1 and education <= 10 and educationnum < 4 and maritalstatus = 5 and relationship = 1 and capitalloss != 48
+SELECT id FROM data WHERE maritalstatus < 5 and occupation <= 5 and sex = 0 and capitalloss <= 38
+SELECT id FROM data WHERE education >= 13 and relationship >= 4 and capitalloss <= 66 and nativecountry > 40
+SELECT id FROM data WHERE workclass != 8 and education >= 14 and relationship > 5 and capitalgain = 86 and nativecountry >= 5
+SELECT id FROM data WHERE age > 64 and maritalstatus = 3 and occupation = 14 and sex > 1 and capitalgain < 114 and capitalloss >= 11
+SELECT id FROM data WHERE age > 32 and educationnum > 12 and occupation != 5 and race = 0 and capitalgain = 113 and hoursperweek != 54
+SELECT id FROM data WHERE education > 5 and relationship <= 1 and capitalgain >= 27 and capitalloss > 72
+SELECT id FROM data WHERE workclass <= 7 and education >= 1 and sex < 1 and hoursperweek >= 56
+SELECT id FROM data WHERE age >= 22 and educationnum = 10 and relationship != 3 and hoursperweek != 53
+SELECT id FROM data WHERE sex = 0 
+SELECT id FROM data WHERE capitalloss != 62
+SELECT id FROM data WHERE capitalloss < 94 and relationship >= 3 
+SELECT id FROM data WHERE education > 6 and sex >= 1 and nativecountry > 37
+SELECT id FROM data WHERE relationship < 5 and race <= 3
+SELECT id FROM data WHERE age > 33 and educationnum <= 10 and maritalstatus = 0 and hoursperweek = 82
+SELECT id FROM data WHERE age >= 16 and educationnum >= 10 and occupation != 10 and capitalgain != 35
+SELECT id FROM data WHERE race <= 4 and capitalloss = 86
+SELECT id FROM data WHERE education <= 9 and educationnum < 8 and race <= 2 and sex > 0 and hoursperweek < 38
+SELECT id FROM data WHERE age > 26 and educationnum >= 10 and maritalstatus > 3 and occupation = 3 and capitalloss < 47
+SELECT id FROM data WHERE workclass < 4 and educationnum >= 14 and maritalstatus >= 1 and occupation = 14 and race > 1 and sex != 0 and capitalgain != 90
+SELECT id FROM data WHERE age <= 20 and educationnum >= 2 and occupation != 9 and race >= 3 and sex < 0
+SELECT id FROM data WHERE workclass != 6
+SELECT id FROM data WHERE nativecountry > 30 and maritalstatus >= 4 
+SELECT id FROM data WHERE workclass > 6 and maritalstatus < 2 and occupation < 5 and relationship > 0 and nativecountry = 20
+SELECT id FROM data WHERE workclass < 7
+SELECT id FROM data WHERE age != 10 and workclass <= 5 and maritalstatus > 4 and occupation <= 1
+SELECT id FROM data WHERE maritalstatus = 6 and capitalgain < 82
+SELECT id FROM data WHERE education = 3 and capitalloss > 55
+SELECT id FROM data WHERE capitalgain <= 15 and relationship <= 1 
+SELECT id FROM data WHERE educationnum >= 4 and educationnum > 8 
+SELECT id FROM data WHERE sex <= 0 and capitalloss <= 42 and workclass >= 3 and capitalloss < 93 
+SELECT id FROM data WHERE age >= 21 and workclass <= 8 and maritalstatus = 4 and race = 4
+SELECT id FROM data WHERE age >= 11 and education > 9 and educationnum >= 10 and occupation = 10 and race <= 3
+SELECT id FROM data WHERE education >= 7 and race = 0 and capitalloss < 70 and hoursperweek <= 67 and nativecountry >= 0
+SELECT id FROM data WHERE education != 1 and relationship <= 1 and race > 3
+SELECT id FROM data WHERE occupation != 1 and sex < 1 and nativecountry != 14
+SELECT id FROM data WHERE education < 11 and relationship >= 5
+SELECT id FROM data WHERE education >= 3 and sex >= 0 and occupation <= 3 
+SELECT id FROM data WHERE age != 25 and workclass >= 5 and maritalstatus <= 2 and relationship < 1 and hoursperweek > 60
+SELECT id FROM data WHERE workclass >= 3 and education > 11 and occupation > 6 and race < 1 and capitalgain != 95
+SELECT id FROM data WHERE education = 0 and maritalstatus >= 1 and race <= 0 and sex > 0
+SELECT id FROM data WHERE age < 12 and sex >= 0 and capitalgain <= 103 and nativecountry = 41
+SELECT id FROM data WHERE maritalstatus < 6 and relationship != 2 and race > 2 and sex != 1
+SELECT id FROM data WHERE workclass = 6 and education > 12 and educationnum <= 14 and relationship = 3 and race >= 2
+SELECT id FROM data WHERE maritalstatus != 5 and nativecountry <= 30
+SELECT id FROM data WHERE workclass >= 3 and educationnum >= 2 and maritalstatus <= 2 and race != 1 and sex = 0 and capitalloss <= 72 and hoursperweek = 73
+SELECT id FROM data WHERE workclass != 4 and maritalstatus < 5 and relationship <= 0 and capitalgain <= 33
+SELECT id FROM data WHERE age != 53 and maritalstatus > 2 and relationship >= 1 and race <= 4 and hoursperweek >= 53
+SELECT id FROM data WHERE education <= 0 and educationnum <= 8 and occupation >= 8 and race > 2 and hoursperweek != 13
+SELECT id FROM data WHERE workclass <= 5 and education <= 10
+SELECT id FROM data WHERE workclass > 6 and maritalstatus != 4 and occupation <= 12 and nativecountry = 0
+SELECT id FROM data WHERE workclass >= 8 and occupation >= 10 and relationship = 2 and capitalgain >= 91 and nativecountry != 14
+SELECT id FROM data WHERE occupation >= 4 and maritalstatus != 2 
+SELECT id FROM data WHERE educationnum = 10 and maritalstatus <= 3 and occupation != 3 and race <= 2
+SELECT id FROM data WHERE relationship <= 0 and race != 1
+SELECT id FROM data WHERE age < 26 and workclass != 1 and maritalstatus != 3 and relationship < 0
+SELECT id FROM data WHERE age != 17 and education >= 5 and occupation >= 2 and capitalloss > 31 and hoursperweek < 56
+SELECT id FROM data WHERE age != 55 and workclass <= 1 and race < 4 and capitalgain < 66
+SELECT id FROM data WHERE maritalstatus = 2 and capitalgain <= 118
+SELECT id FROM data WHERE age != 30 and education = 12 and maritalstatus >= 5 and sex >= 1
+SELECT id FROM data WHERE capitalgain = 59 and nativecountry >= 12
+SELECT id FROM data WHERE education >= 8 and maritalstatus != 2 and capitalgain <= 35 
+SELECT id FROM data WHERE workclass != 2 and educationnum > 6 and relationship <= 1 and race < 4 and capitalloss > 22 and nativecountry = 2
+SELECT id FROM data WHERE workclass < 4 and nativecountry > 4
+SELECT id FROM data WHERE workclass < 1 and maritalstatus <= 6 and relationship = 5 and capitalgain > 58
+SELECT id FROM data WHERE educationnum <= 15 and maritalstatus = 5 and sex <= 1 and nativecountry >= 33
+SELECT id FROM data WHERE workclass > 2 and maritalstatus != 3 and capitalgain != 21 and capitalloss != 26 and hoursperweek = 33
+SELECT id FROM data WHERE maritalstatus <= 4 and nativecountry >= 34 and capitalgain <= 70 and educationnum = 8 
+SELECT id FROM data WHERE age = 43 and education <= 10 and educationnum >= 1 and occupation < 5 and race <= 0 and capitalgain >= 41
+SELECT id FROM data WHERE age >= 35 and workclass != 0 and education >= 2 and maritalstatus >= 5 and race > 4 and hoursperweek >= 2
+SELECT id FROM data WHERE age <= 29 and sex <= 1 and nativecountry = 7
+SELECT id FROM data WHERE workclass != 8 and educationnum > 8 and capitalloss = 85 and nativecountry >= 27
+SELECT id FROM data WHERE workclass < 0 and relationship != 3 and race = 0 and capitalloss = 95 and hoursperweek <= 15
+SELECT id FROM data WHERE educationnum != 9 and maritalstatus < 4 and occupation <= 8 and race <= 0
+SELECT id FROM data WHERE age > 19
+SELECT id FROM data WHERE education > 3 and relationship != 1 and capitalloss > 56 and hoursperweek >= 42
+SELECT id FROM data WHERE workclass <= 3 and occupation >= 5
+SELECT id FROM data WHERE capitalgain != 11 and occupation != 3 and capitalloss <= 22 and relationship >= 3 
+SELECT id FROM data WHERE education = 6 and educationnum = 4 and maritalstatus = 0 and nativecountry > 8
+SELECT id FROM data WHERE age > 17 and educationnum = 13 and maritalstatus = 1 and relationship > 3 and race > 3 and capitalgain >= 113 and hoursperweek != 43 and nativecountry != 5
+SELECT id FROM data WHERE capitalgain = 62 and hoursperweek < 10
+SELECT id FROM data WHERE age < 24 and maritalstatus <= 0 and relationship <= 4 and race >= 0 and capitalloss != 51
+SELECT id FROM data WHERE sex = 0 and capitalgain != 45
+SELECT id FROM data WHERE education >= 9 and educationnum < 8 and race = 2 and capitalgain = 66
+SELECT id FROM data WHERE education >= 0 and capitalloss < 96
+SELECT id FROM data WHERE education != 7 and educationnum != 3 and relationship > 1 and capitalgain >= 101 and hoursperweek != 83
+SELECT id FROM data WHERE education <= 6 and relationship != 4 and capitalgain <= 7 and nativecountry <= 41
+SELECT id FROM data WHERE educationnum = 11 and relationship > 4
+SELECT id FROM data WHERE workclass = 4 and education >= 15 and capitalgain = 23 and hoursperweek != 73 and nativecountry = 9
+SELECT id FROM data WHERE educationnum = 10 and capitalgain != 87
+SELECT id FROM data WHERE workclass < 0 and occupation >= 14
+SELECT id FROM data WHERE age <= 66 and workclass != 1 and education <= 13 and maritalstatus = 6 and occupation <= 11 and sex = 1
+SELECT id FROM data WHERE workclass <= 7 and occupation = 1 and relationship < 2 and race <= 0 and capitalgain != 50 and capitalloss = 85
+SELECT id FROM data WHERE age < 73
+SELECT id FROM data WHERE occupation != 9 and nativecountry > 31 and workclass <= 6 and relationship < 4 and relationship = 1 
+SELECT id FROM data WHERE age <= 68 and race > 1 and sex > 0 and nativecountry != 10
+SELECT id FROM data WHERE workclass >= 8 and education >= 10 and maritalstatus <= 5 and occupation < 11 and relationship < 4 and race = 0 and sex >= 1 and capitalloss < 6
+SELECT id FROM data WHERE age <= 52 and hoursperweek = 48
+SELECT id FROM data WHERE workclass <= 5 and educationnum > 12 and sex != 0 and capitalgain != 2
+SELECT id FROM data WHERE workclass <= 5 and occupation < 3 and relationship > 2 and capitalloss = 95
+SELECT id FROM data WHERE sex = 0 and workclass >= 3 and hoursperweek >= 19 and education > 7 
+SELECT id FROM data WHERE race != 1 and relationship < 4 and race != 1 and relationship >= 1 
+SELECT id FROM data WHERE relationship > 4 and nativecountry <= 30
+SELECT id FROM data WHERE age < 35 and education < 4 and educationnum < 15 and capitalloss >= 11 and hoursperweek > 68
+SELECT id FROM data WHERE educationnum < 10 and race <= 0 and sex >= 1 and hoursperweek = 2
+SELECT id FROM data WHERE race > 2 and capitalloss != 21
+SELECT id FROM data WHERE workclass >= 0 and educationnum = 13 and maritalstatus <= 6 and capitalgain <= 69 and capitalloss = 16 and hoursperweek = 1
+SELECT id FROM data WHERE educationnum = 5 and sex != 0 and capitalloss < 38 and hoursperweek = 80
+SELECT id FROM data WHERE educationnum >= 12 and race <= 0 and sex <= 0
+SELECT id FROM data WHERE maritalstatus <= 6 and race > 2 and hoursperweek = 25 and nativecountry != 23
+SELECT id FROM data WHERE workclass <= 0 and occupation != 7 and relationship != 5 and nativecountry < 14
+SELECT id FROM data WHERE age = 50 and education <= 7 and occupation = 8 and sex >= 0
+SELECT id FROM data WHERE workclass > 3 and sex > 1
+SELECT id FROM data WHERE maritalstatus < 3 and relationship > 4 and capitalgain > 23 and capitalloss <= 72 and nativecountry >= 26
+SELECT id FROM data WHERE age < 60 and workclass = 4 and education >= 2 and race >= 4
+SELECT id FROM data WHERE nativecountry < 40 and sex >= 0 and maritalstatus >= 3 
+SELECT id FROM data WHERE relationship = 1 and capitalgain > 103
+SELECT id FROM data WHERE age = 5 and education >= 9 and maritalstatus > 4 and occupation <= 12 and race = 1 and nativecountry > 41
+SELECT id FROM data WHERE maritalstatus = 3 and race > 2
+SELECT id FROM data WHERE educationnum = 7 and occupation != 3 and relationship > 2
+SELECT id FROM data WHERE maritalstatus < 3 and educationnum < 9 
+SELECT id FROM data WHERE workclass <= 8 and occupation <= 4 and capitalgain != 69 and hoursperweek > 10
+SELECT id FROM data WHERE age <= 6 and education <= 5 and educationnum < 0 and relationship = 3 and sex <= 0
+SELECT id FROM data WHERE age < 70 and maritalstatus = 5 and relationship < 4
+SELECT id FROM data WHERE maritalstatus > 4 and relationship >= 5 and sex < 1
+SELECT id FROM data WHERE workclass = 2 and race <= 0 and capitalgain <= 1 and capitalloss > 89 and nativecountry <= 40
+SELECT id FROM data WHERE maritalstatus >= 3 and relationship = 2
+SELECT id FROM data WHERE age < 44 and educationnum != 0 and relationship > 4 and sex != 1 and capitalgain < 17 and capitalloss <= 61 and hoursperweek >= 11 and nativecountry <= 27
+SELECT id FROM data WHERE maritalstatus < 4 and capitalgain > 117
+SELECT id FROM data WHERE workclass <= 7 and hoursperweek <= 77 and nativecountry = 35
+SELECT id FROM data WHERE age != 52 and educationnum <= 8 and occupation <= 0
+SELECT id FROM data WHERE education <= 11 and relationship < 2 and capitalloss < 7 and hoursperweek != 67 and nativecountry != 29
+SELECT id FROM data WHERE relationship <= 1 and race > 2 and sex < 0 and capitalloss <= 22
+SELECT id FROM data WHERE capitalgain != 71
+SELECT id FROM data WHERE occupation = 14 and relationship <= 5 and capitalgain <= 9 and capitalloss < 2 and nativecountry != 18
+SELECT id FROM data WHERE occupation > 5 and race >= 4
+SELECT id FROM data WHERE age <= 2 and maritalstatus = 1 and race <= 2 and capitalgain >= 37 and capitalloss > 29
+SELECT id FROM data WHERE workclass < 5 and capitalgain < 56 and sex > 0 and maritalstatus != 2 
+SELECT id FROM data WHERE age < 6 and educationnum >= 14 and maritalstatus >= 3 and capitalgain >= 34 and nativecountry >= 22
+SELECT id FROM data WHERE age != 4 and race = 3 and capitalloss != 38 and hoursperweek < 87
+SELECT id FROM data WHERE workclass = 3
+SELECT id FROM data WHERE workclass < 5 and maritalstatus >= 4 and relationship <= 1 and sex >= 0 and hoursperweek <= 10
+SELECT id FROM data WHERE age = 5 and occupation = 3 and sex >= 1 and capitalloss >= 38
+SELECT id FROM data WHERE occupation != 13 and sex <= 1 and capitalgain < 62
+SELECT id FROM data WHERE age >= 24 and education <= 4 and educationnum = 14 and relationship != 1 and hoursperweek = 63
+SELECT id FROM data WHERE age >= 26 and education <= 3 and maritalstatus != 3 and capitalgain > 87 and nativecountry > 39
+SELECT id FROM data WHERE workclass > 1 and educationnum != 0 and maritalstatus != 2 and capitalloss = 77 and nativecountry > 13
+SELECT id FROM data WHERE occupation != 4 and capitalgain >= 7 and capitalloss > 19
+SELECT id FROM data WHERE maritalstatus <= 5 and capitalgain != 72 and hoursperweek > 23 and nativecountry >= 33
+SELECT id FROM data WHERE workclass = 4
+SELECT id FROM data WHERE workclass > 8 and relationship = 5 and capitalgain < 18
+SELECT id FROM data WHERE education <= 11
+SELECT id FROM data WHERE educationnum <= 14 and relationship > 4 and race <= 3 and sex >= 0 and capitalgain > 68
+SELECT id FROM data WHERE race <= 0 and hoursperweek = 64 and nativecountry <= 13
+SELECT id FROM data WHERE age > 20 and workclass = 6 and capitalloss > 26
+SELECT id FROM data WHERE workclass != 4 and relationship != 0 and hoursperweek <= 70 and nativecountry = 35
+SELECT id FROM data WHERE workclass <= 2 and educationnum > 7 and relationship >= 0 and sex <= 1
+SELECT id FROM data WHERE age <= 49 and workclass <= 2 and educationnum >= 3 and relationship = 3 and capitalgain = 11
+SELECT id FROM data WHERE sex = 0 and sex >= 0 and occupation != 3 
+SELECT id FROM data WHERE occupation >= 5 and nativecountry > 36
+SELECT id FROM data WHERE workclass > 6 and relationship <= 3 and sex <= 1 and hoursperweek <= 71
+SELECT id FROM data WHERE maritalstatus = 5 and capitalloss <= 32
+SELECT id FROM data WHERE occupation < 3 and nativecountry > 26
+SELECT id FROM data WHERE occupation = 12 and relationship != 1 and nativecountry > 7
+SELECT id FROM data WHERE age != 16 and maritalstatus != 4 and relationship >= 5 and race != 4 and hoursperweek <= 6
+SELECT id FROM data WHERE maritalstatus > 0 and capitalgain < 117 and occupation > 5 
+SELECT id FROM data WHERE age < 34 and workclass != 6 and education != 11 and race != 1
+SELECT id FROM data WHERE age > 58 and workclass <= 1 and education <= 2 and maritalstatus < 6 and occupation >= 5 and capitalgain = 90
+SELECT id FROM data WHERE education > 1 and educationnum > 1 and sex = 0 and capitalgain <= 111 and nativecountry >= 2
+SELECT id FROM data WHERE workclass != 0 and education < 13 and maritalstatus <= 4 and race = 0
+SELECT id FROM data WHERE maritalstatus != 0 and race >= 3
+SELECT id FROM data WHERE age = 39 and workclass != 5 and education < 11 and occupation != 5 and relationship != 4 and capitalgain > 53 and capitalloss > 7
+SELECT id FROM data WHERE maritalstatus >= 6 and race < 3 and sex = 0 and capitalgain >= 98 and hoursperweek = 9 and nativecountry >= 16
+SELECT id FROM data WHERE educationnum >= 13 and maritalstatus >= 4 and occupation >= 4 and capitalloss > 71
+SELECT id FROM data WHERE workclass <= 2 and educationnum != 9 and maritalstatus != 5
+SELECT id FROM data WHERE hoursperweek < 13
+SELECT id FROM data WHERE relationship < 3 and hoursperweek > 73 and nativecountry >= 4
+SELECT id FROM data WHERE relationship != 0 
+SELECT id FROM data WHERE relationship = 0 and race = 4 and sex >= 1 and capitalgain <= 39 and capitalloss = 13
+SELECT id FROM data WHERE education >= 2 and maritalstatus < 3
+SELECT id FROM data WHERE workclass >= 5 and race > 0 and sex != 1 and capitalloss = 42 and hoursperweek <= 46
+SELECT id FROM data WHERE age >= 50 and workclass <= 6 and maritalstatus > 3 and relationship > 0 and race >= 0
+SELECT id FROM data WHERE age <= 46 and capitalloss <= 94 and hoursperweek <= 55 and nativecountry > 40
+SELECT id FROM data WHERE education >= 1 and capitalloss = 83 and nativecountry >= 37
+SELECT id FROM data WHERE age != 18 and relationship != 3 and relationship >= 1 
+SELECT id FROM data WHERE education >= 14 and occupation > 11 and capitalloss < 4 and nativecountry > 37
+SELECT id FROM data WHERE age = 65 and educationnum >= 15 and relationship > 1 and sex <= 0 and capitalloss > 87
+SELECT id FROM data WHERE relationship != 5 and capitalgain != 112
+SELECT id FROM data WHERE workclass <= 4 and maritalstatus = 1 and relationship >= 4
+SELECT id FROM data WHERE education >= 2 and occupation > 9 and relationship <= 2 and capitalgain != 30
+SELECT id FROM data WHERE education <= 3 and educationnum <= 7 and maritalstatus = 2 and occupation != 2 and capitalloss <= 57
+SELECT id FROM data WHERE age <= 20 and education != 3 and occupation < 10 and capitalgain > 77 and capitalloss = 16 and hoursperweek != 39 and nativecountry <= 13
+SELECT id FROM data WHERE age > 13 and workclass >= 5 and educationnum <= 14 and capitalgain >= 74 and capitalloss = 1 and nativecountry <= 7
+SELECT id FROM data WHERE race = 2 and nativecountry > 22
+SELECT id FROM data WHERE age != 35 and workclass != 8 and educationnum <= 5 and capitalloss <= 22
+SELECT id FROM data WHERE age != 68 and occupation >= 6 and sex >= 0 and capitalgain < 51 and hoursperweek < 16
+SELECT id FROM data WHERE education = 6 and educationnum != 10 and maritalstatus < 4 and relationship = 2 and capitalgain < 8 and capitalloss != 64 and hoursperweek > 64 and nativecountry <= 12
+SELECT id FROM data WHERE educationnum >= 0 and occupation > 6 and relationship >= 2 and race < 2 and capitalgain >= 21
+SELECT id FROM data WHERE age < 45 and education > 10 and nativecountry <= 36
+SELECT id FROM data WHERE educationnum < 0 and capitalloss != 76 and nativecountry > 31
+SELECT id FROM data WHERE workclass != 2 and race > 0 and sex != 0 and capitalloss >= 47
+SELECT id FROM data WHERE workclass = 4 and educationnum <= 15 and occupation > 11 and relationship >= 2 and race != 0
+SELECT id FROM data WHERE age != 71 and workclass != 1 and maritalstatus < 4 and relationship = 3 and capitalloss < 47
+SELECT id FROM data WHERE age != 15 and workclass >= 7 and maritalstatus > 0 and race != 4
+SELECT id FROM data WHERE workclass < 0 and occupation != 14 and relationship = 0 and capitalloss >= 30
+SELECT id FROM data WHERE maritalstatus >= 2 and occupation != 6 and nativecountry < 31
+SELECT id FROM data WHERE educationnum >= 12 and nativecountry < 16
+SELECT id FROM data WHERE workclass != 7 and education = 14 and educationnum >= 5 and sex != 0
+SELECT id FROM data WHERE education != 13 and relationship > 2 and race < 3 and capitalgain >= 46
+SELECT id FROM data WHERE workclass >= 3 and educationnum >= 1 and hoursperweek < 19
+SELECT id FROM data WHERE age != 51 and education <= 1 and capitalgain != 52 and nativecountry != 16
+SELECT id FROM data WHERE maritalstatus < 6 and sex <= 0 and capitalloss != 73
+SELECT id FROM data WHERE age != 3 and capitalgain != 57 and capitalloss <= 29
+SELECT id FROM data WHERE maritalstatus < 3 and race <= 1 and sex != 0
+SELECT id FROM data WHERE age != 9 and workclass < 6 and race <= 1 and sex <= 0
+SELECT id FROM data WHERE workclass = 2 and capitalloss > 8
+SELECT id FROM data WHERE maritalstatus != 4 and relationship < 4 and race >= 1 and sex < 0
+SELECT id FROM data WHERE race != 0
+SELECT id FROM data WHERE education > 2 and educationnum > 13 and sex > 1
+SELECT id FROM data WHERE workclass <= 8 and education != 12 and occupation != 10 and capitalloss > 24 and nativecountry = 11
+SELECT id FROM data WHERE age > 28 and education >= 2 and occupation <= 10 and race >= 1 and hoursperweek <= 84
+SELECT id FROM data WHERE educationnum > 7 and maritalstatus != 4 and race != 4 and capitalloss != 20
+SELECT id FROM data WHERE age != 61 and occupation > 6 and relationship <= 1 and sex < 0 and capitalgain = 120 and nativecountry > 10
+SELECT id FROM data WHERE age <= 24 and occupation > 10 and relationship <= 1 and capitalloss > 45
+SELECT id FROM data WHERE age = 24 and educationnum <= 1 and occupation >= 14 and nativecountry <= 21
+SELECT id FROM data WHERE workclass <= 8 and education > 0 and maritalstatus = 4 and sex <= 0
+SELECT id FROM data WHERE workclass >= 4 and maritalstatus < 2 and occupation >= 13 and sex > 1 and hoursperweek = 62
+SELECT id FROM data WHERE workclass >= 1 and occupation > 7 and capitalgain < 75 and capitalloss != 56 and hoursperweek < 7
+SELECT id FROM data WHERE age >= 66 and workclass >= 5 and educationnum <= 15 and maritalstatus = 4 and sex > 1
+SELECT id FROM data WHERE occupation < 6 and sex >= 1
+SELECT id FROM data WHERE age != 61 and workclass != 0 and occupation > 3 and nativecountry > 36
+SELECT id FROM data WHERE educationnum != 8 and capitalgain != 101 and capitalloss > 97 and nativecountry != 9
+SELECT id FROM data WHERE maritalstatus > 4
+SELECT id FROM data WHERE education >= 7 and educationnum = 15 and race <= 2 and sex >= 1 and capitalloss = 20
+SELECT id FROM data WHERE workclass != 2 and occupation = 11 and capitalgain > 105 and capitalloss < 60 and nativecountry > 9
+SELECT id FROM data WHERE workclass <= 6 and occupation <= 11 and nativecountry >= 13
+SELECT id FROM data WHERE hoursperweek > 18 and nativecountry = 35
+SELECT id FROM data WHERE occupation != 8 and capitalloss <= 64
+SELECT id FROM data WHERE education >= 6 and maritalstatus = 6 and relationship >= 3 and hoursperweek < 47 and nativecountry <= 7
+SELECT id FROM data WHERE education = 10 and relationship > 1 and sex >= 1
+SELECT id FROM data WHERE workclass <= 5 and occupation < 3
+SELECT id FROM data WHERE maritalstatus != 4 and relationship = 5 and nativecountry != 39
+SELECT id FROM data WHERE educationnum <= 4 and maritalstatus >= 1 and nativecountry != 33
+SELECT id FROM data WHERE education <= 10 and educationnum >= 12 and maritalstatus < 5 and race <= 0
+SELECT id FROM data WHERE workclass != 4 and education != 9 and educationnum < 0 and maritalstatus = 4 and occupation > 2 and race < 2
+SELECT id FROM data WHERE maritalstatus != 3 and race < 0 and sex <= 0 and hoursperweek > 26
+SELECT id FROM data WHERE education >= 4 and race >= 4
+SELECT id FROM data WHERE age <= 14 and educationnum > 2 and nativecountry >= 1
+SELECT id FROM data WHERE relationship <= 0 and nativecountry = 11
+SELECT id FROM data WHERE age > 64 and occupation = 9 and relationship = 5 and capitalgain >= 64
+SELECT id FROM data WHERE workclass != 4 and occupation <= 2 and capitalloss > 4 and nativecountry >= 12
+SELECT id FROM data WHERE hoursperweek > 61 and nativecountry <= 34
+SELECT id FROM data WHERE age = 12 and workclass < 3 and education < 3 and race > 3 and capitalgain >= 71 and capitalloss >= 23
+SELECT id FROM data WHERE relationship > 3 and race = 1 and sex >= 0 and hoursperweek = 39
+SELECT id FROM data WHERE age >= 32 
+SELECT id FROM data WHERE education > 1 and education > 3 and educationnum >= 12 
+SELECT id FROM data WHERE age >= 72 and educationnum < 10
+SELECT id FROM data WHERE workclass >= 3 and educationnum < 10 and maritalstatus != 4 and nativecountry > 38
+SELECT id FROM data WHERE age > 17 and educationnum != 7 and relationship = 4 and sex >= 0 and capitalloss = 14
+SELECT id FROM data WHERE workclass != 2 and educationnum <= 8 
+SELECT id FROM data WHERE maritalstatus = 2 and race >= 0 and relationship = 0 
+SELECT id FROM data WHERE workclass > 4 and maritalstatus = 4 and capitalloss <= 93
+SELECT id FROM data WHERE age = 51 and occupation = 10 and sex <= 1
+SELECT id FROM data WHERE education >= 14 and race = 2 and sex <= 1 and nativecountry >= 17
+SELECT id FROM data WHERE workclass > 6 and relationship >= 5 and sex != 1 and hoursperweek <= 3 and nativecountry <= 3
+SELECT id FROM data WHERE age <= 35 and educationnum != 7 and hoursperweek != 91 and nativecountry > 20
+SELECT id FROM data WHERE age < 28 and workclass = 1 and relationship < 4 and race = 4 and hoursperweek >= 21
+SELECT id FROM data WHERE educationnum != 10 and sex <= 1 and nativecountry < 21
+SELECT id FROM data WHERE relationship < 3 and workclass = 4 
+SELECT id FROM data WHERE occupation != 10 and sex = 1 and hoursperweek >= 12 and nativecountry = 11
+SELECT id FROM data WHERE workclass >= 0 and sex > 1
+SELECT id FROM data WHERE workclass > 5 and education = 4 and educationnum = 6
+SELECT id FROM data WHERE age = 63 and education > 11 and educationnum < 9 and race >= 2 and nativecountry > 20
+SELECT id FROM data WHERE workclass > 2 and maritalstatus != 5 and race > 3 and capitalgain != 38 and nativecountry <= 8
+SELECT id FROM data WHERE age = 52 and educationnum >= 4 and maritalstatus != 4 and occupation <= 14 and capitalgain = 102 and hoursperweek <= 65
+SELECT id FROM data WHERE workclass < 7 and maritalstatus >= 4 and nativecountry > 10
+SELECT id FROM data WHERE maritalstatus >= 2 and race >= 0 and sex < 0 and capitalgain > 34 and capitalloss > 75 and nativecountry > 39
+SELECT id FROM data WHERE educationnum != 8 and occupation != 1 and relationship = 0 and sex >= 0
+SELECT id FROM data WHERE age = 36 and workclass = 0 and occupation = 4 and sex <= 0
+SELECT id FROM data WHERE age < 71 and education >= 8 and educationnum < 6 and capitalloss <= 39
+SELECT id FROM data WHERE maritalstatus >= 2 and occupation = 0 and race <= 2
+SELECT id FROM data WHERE occupation > 4 and relationship <= 4 and race > 0 and capitalloss < 10 and nativecountry >= 15
+SELECT id FROM data WHERE education = 12 and sex < 0 and capitalgain < 39 and capitalloss < 14 and nativecountry <= 16
+SELECT id FROM data WHERE age <= 57 and capitalloss <= 79
+SELECT id FROM data WHERE sex = 0 and capitalgain = 22
+SELECT id FROM data WHERE educationnum != 13 and age < 68 and maritalstatus <= 2 
+SELECT id FROM data WHERE age > 25 and maritalstatus = 4 and occupation < 7 and race != 1 and capitalgain <= 10 and capitalloss < 90 and hoursperweek != 88
+SELECT id FROM data WHERE age > 12 and maritalstatus = 6 and occupation > 8 and relationship != 5 and race != 1 and sex >= 0 and capitalgain > 31
+SELECT id FROM data WHERE maritalstatus < 1 and occupation = 1 and hoursperweek < 54 and nativecountry = 3
+SELECT id FROM data WHERE occupation > 7 and race > 0 and hoursperweek < 79 and capitalloss <= 91 
+SELECT id FROM data WHERE educationnum > 0 and relationship >= 2 
+SELECT id FROM data WHERE workclass >= 8 and education > 9 and relationship > 4 and nativecountry = 3
+SELECT id FROM data WHERE age >= 68 and educationnum > 3 and occupation >= 9
+SELECT id FROM data WHERE age != 11 and educationnum > 5 and relationship < 1 and race < 3 and nativecountry <= 18
+SELECT id FROM data WHERE age < 13 and occupation = 2 and sex != 1 and hoursperweek < 86
+SELECT id FROM data WHERE age > 23 and workclass != 1 and relationship > 2 and sex <= 0 and capitalloss != 64 and hoursperweek > 75
+SELECT id FROM data WHERE sex >= 0 and hoursperweek < 85 and nativecountry >= 10
+SELECT id FROM data WHERE capitalloss < 13 and capitalloss < 50 and sex = 0 and race != 2 
+SELECT id FROM data WHERE race >= 3 and occupation <= 4 and educationnum > 4 
+SELECT id FROM data WHERE occupation >= 8 and race != 3 
+SELECT id FROM data WHERE race != 2 and capitalgain = 56
+SELECT id FROM data WHERE age > 49 and workclass != 3 and occupation != 1 and race > 4 and capitalgain >= 52 and hoursperweek < 51 and nativecountry > 26
+SELECT id FROM data WHERE race > 3 and sex <= 0 
+SELECT id FROM data WHERE occupation > 10
+SELECT id FROM data WHERE occupation != 14 and race > 2 and capitalgain = 98 and hoursperweek <= 77 and nativecountry >= 26
+SELECT id FROM data WHERE workclass > 8 and occupation > 10 and nativecountry != 36
+SELECT id FROM data WHERE age > 71 and educationnum < 7 and occupation = 14 and relationship <= 4 and hoursperweek <= 12 and nativecountry < 5
+SELECT id FROM data WHERE workclass >= 2 and education >= 0 and occupation < 14 and race < 1 and capitalloss < 9
+SELECT id FROM data WHERE education != 2 and relationship >= 3 and capitalloss < 33 and hoursperweek <= 62
+SELECT id FROM data WHERE age != 16 and educationnum >= 15 and sex >= 0 and capitalgain >= 46
+SELECT id FROM data WHERE education < 6 and educationnum < 15 and race <= 2 and hoursperweek = 14
+SELECT id FROM data WHERE age = 65 and workclass > 0 and maritalstatus < 3 and relationship < 4 and sex != 0 and capitalloss != 49
+SELECT id FROM data WHERE educationnum > 4 and occupation = 5 and hoursperweek > 90 and nativecountry > 20
+SELECT id FROM data WHERE age > 64 and race < 1
+SELECT id FROM data WHERE sex <= 1 and hoursperweek >= 89 and nativecountry = 21
+SELECT id FROM data WHERE occupation <= 3 
+SELECT id FROM data WHERE workclass <= 2 and maritalstatus >= 3 and occupation = 0 and race < 1 and capitalgain = 95
+SELECT id FROM data WHERE age >= 59 and workclass != 1 and education >= 6 and maritalstatus < 6 and occupation < 3 and capitalloss <= 44 and nativecountry < 12
+SELECT id FROM data WHERE workclass > 0 and maritalstatus != 1 and occupation <= 2 and race > 2 and nativecountry != 14
+SELECT id FROM data WHERE education >= 7 and maritalstatus < 6 and capitalloss < 17 and hoursperweek <= 75
+SELECT id FROM data WHERE workclass > 2 and occupation <= 10
+SELECT id FROM data WHERE age = 64 and workclass != 2 and educationnum < 8 and relationship != 3 and nativecountry <= 40
+SELECT id FROM data WHERE capitalloss <= 45 and educationnum < 9 
+SELECT id FROM data WHERE education = 1 and race != 4 and sex > 0 and capitalgain < 15
+SELECT id FROM data WHERE workclass != 0 and education >= 11 and educationnum > 13 and relationship = 4 and hoursperweek > 68
+SELECT id FROM data WHERE occupation != 7 and occupation != 10 and sex > 0 and educationnum > 1 and sex != 0 
+SELECT id FROM data WHERE race != 3 and capitalgain != 111 and capitalloss != 21 and nativecountry <= 15
+SELECT id FROM data WHERE workclass > 0 and occupation != 0 and capitalgain != 1 and hoursperweek >= 55
+SELECT id FROM data WHERE educationnum >= 6 and relationship >= 2 
+SELECT id FROM data WHERE education > 7 and educationnum < 1 and relationship != 2 and hoursperweek >= 54 and nativecountry != 14
+SELECT id FROM data WHERE workclass = 1 and occupation != 10 and relationship = 3 and capitalgain <= 16 and hoursperweek >= 33 and nativecountry >= 9
+SELECT id FROM data WHERE workclass = 6 and race > 4 and capitalgain < 5 and capitalloss = 42 and hoursperweek > 19 and nativecountry < 36
+SELECT id FROM data WHERE maritalstatus <= 2 and capitalgain > 113 and capitalloss >= 35
+SELECT id FROM data WHERE workclass > 6 and maritalstatus > 1 and nativecountry != 14
+SELECT id FROM data WHERE nativecountry >= 31 and relationship > 0 and sex = 0 
+SELECT id FROM data WHERE age < 44 and education <= 13 and relationship != 3 and race > 3
+SELECT id FROM data WHERE education <= 2 and maritalstatus = 4 and relationship = 4
+SELECT id FROM data WHERE educationnum <= 12 and relationship < 0 and nativecountry < 11
+SELECT id FROM data WHERE education > 12 
+SELECT id FROM data WHERE workclass = 4 and relationship <= 1 and capitalgain >= 1
+SELECT id FROM data WHERE age < 70 and education >= 3 and maritalstatus = 3 and sex <= 1 and hoursperweek < 49
+SELECT id FROM data WHERE age <= 73 and education = 13 and educationnum = 1 and nativecountry = 37
+SELECT id FROM data WHERE educationnum != 2 and race < 0 and capitalgain = 18 and capitalloss <= 53 and nativecountry < 16
+SELECT id FROM data WHERE workclass > 1 and educationnum != 5 and maritalstatus <= 1 and race = 1 and capitalgain = 40 and capitalloss >= 49
+SELECT id FROM data WHERE education != 13 and educationnum >= 14 and maritalstatus > 6 and occupation > 14 and sex != 1 and hoursperweek > 63
+SELECT id FROM data WHERE relationship <= 4 and sex <= 1
+SELECT id FROM data WHERE age = 0 and educationnum < 3 and relationship > 3 and race > 4 and capitalloss < 62 and nativecountry != 22
+SELECT id FROM data WHERE relationship != 0 and race != 3 and capitalgain != 83
+SELECT id FROM data WHERE workclass = 0 and occupation < 4 and relationship < 4 and sex > 0
+SELECT id FROM data WHERE relationship != 3 and sex = 0 and hoursperweek >= 50
+SELECT id FROM data WHERE educationnum > 10 and maritalstatus != 2 and occupation = 4
+SELECT id FROM data WHERE age = 35 and workclass = 0 and educationnum <= 8 and relationship > 4
+SELECT id FROM data WHERE age > 33 and maritalstatus <= 3 and race = 0
+SELECT id FROM data WHERE age <= 5 and maritalstatus = 2 and relationship <= 4 and capitalgain < 12
+SELECT id FROM data WHERE nativecountry != 23 and sex > 0 and capitalgain != 32 and occupation > 8 and age != 28 
+SELECT id FROM data WHERE age > 64 and education > 7 and relationship != 2 and race != 4 and capitalgain <= 44 and nativecountry <= 22
+SELECT id FROM data WHERE age = 48 and education != 9 and capitalgain > 18 and hoursperweek >= 60
+SELECT id FROM data WHERE age > 11 and nativecountry > 4 and education != 10 and sex != 0 
+SELECT id FROM data WHERE occupation > 9 
+SELECT id FROM data WHERE educationnum >= 10 
+SELECT id FROM data WHERE education >= 14
+SELECT id FROM data WHERE maritalstatus <= 4 and capitalgain <= 2 and hoursperweek <= 90 and nativecountry > 11
+SELECT id FROM data WHERE educationnum >= 15 and race = 4 and sex < 1
+SELECT id FROM data WHERE workclass <= 1 and educationnum <= 4 and race <= 0 and capitalgain > 23 and hoursperweek != 93 and nativecountry >= 35
+SELECT id FROM data WHERE education <= 15 and occupation > 3 and relationship >= 5 and capitalloss <= 91 and nativecountry <= 37
+SELECT id FROM data WHERE age >= 73 and maritalstatus >= 0 and race = 1 and capitalgain = 115 and capitalloss != 73 and hoursperweek <= 91
+SELECT id FROM data WHERE workclass = 0 and capitalgain = 19 and hoursperweek = 89
+SELECT id FROM data WHERE workclass > 5 and education >= 13 and educationnum != 9 and sex < 0 and capitalgain <= 54 and capitalloss >= 87 and nativecountry > 1
+SELECT id FROM data WHERE age < 50 and educationnum > 15 and occupation < 13 and relationship < 0 and capitalloss = 91
+SELECT id FROM data WHERE educationnum < 13 and maritalstatus >= 3 and occupation > 4 and race >= 4 and sex < 1
+SELECT id FROM data WHERE education <= 0 and race < 1 and sex < 0 and capitalgain > 57 and nativecountry != 27
+SELECT id FROM data WHERE age >= 24 and occupation != 2 and relationship <= 5 and capitalgain >= 62 and capitalloss >= 36
+SELECT id FROM data WHERE age >= 26 and occupation != 9 and hoursperweek >= 42
+SELECT id FROM data WHERE workclass != 3 and educationnum >= 1 and maritalstatus = 1
+SELECT id FROM data WHERE educationnum != 10 and relationship <= 4 and race != 4 and capitalloss = 77 and hoursperweek < 12 and nativecountry != 18
+SELECT id FROM data WHERE occupation > 0 and relationship <= 2 and race < 4 and sex = 0 and capitalgain <= 39 and capitalloss <= 69
+SELECT id FROM data WHERE educationnum >= 8 and sex > 0 and capitalloss = 78
+SELECT id FROM data WHERE workclass <= 7 and hoursperweek >= 44 and nativecountry >= 23
+SELECT id FROM data WHERE age != 5 and education >= 2 and educationnum != 6 and occupation >= 1 and race <= 0
+SELECT id FROM data WHERE educationnum <= 13 and occupation > 12 and race = 1 and capitalloss < 8 and nativecountry < 13
+SELECT id FROM data WHERE relationship < 5 and race > 0
+SELECT id FROM data WHERE age >= 61 and educationnum <= 1 and maritalstatus != 4 and relationship > 0 and race <= 2 and hoursperweek > 78
+SELECT id FROM data WHERE age != 52 and workclass = 7 and nativecountry <= 9
+SELECT id FROM data WHERE workclass >= 5 and education <= 8 and educationnum > 9 and occupation != 5 and relationship >= 3 and nativecountry < 6
+SELECT id FROM data WHERE occupation >= 2 and capitalgain = 73 and hoursperweek = 79
+SELECT id FROM data WHERE educationnum >= 5 and occupation <= 6 and capitalgain <= 104
+SELECT id FROM data WHERE age >= 17 and capitalloss < 91 and education > 9 and maritalstatus > 0 and nativecountry != 27 
+SELECT id FROM data WHERE education > 13 
+SELECT id FROM data WHERE education = 7 and occupation > 4 and race != 0 and hoursperweek != 91
+SELECT id FROM data WHERE age > 35 and education < 6 and maritalstatus = 2 and occupation <= 13 and relationship <= 3 and sex != 0 and nativecountry >= 17
+SELECT id FROM data WHERE workclass <= 6 and education = 14 and maritalstatus != 0 and occupation != 0 and relationship = 4
+SELECT id FROM data WHERE capitalgain != 73
+SELECT id FROM data WHERE race > 1 and sex != 0 and capitalloss <= 10 and hoursperweek < 85
+SELECT id FROM data WHERE educationnum < 1
+SELECT id FROM data WHERE age != 49 and education < 3 and race = 0 and capitalgain > 54
+SELECT id FROM data WHERE education = 2 and maritalstatus = 6 and capitalgain < 121 and nativecountry >= 35
+SELECT id FROM data WHERE age = 64 and education >= 5 and relationship > 3 and sex <= 0
+SELECT id FROM data WHERE education != 13 and race >= 4 and sex != 0 and capitalloss = 23
+SELECT id FROM data WHERE occupation = 9 and relationship < 0 and sex < 0
+SELECT id FROM data WHERE maritalstatus >= 5 and relationship < 1 and nativecountry <= 28
+SELECT id FROM data WHERE age != 25 and education <= 10 and educationnum >= 15 and occupation <= 11 and relationship = 5
+SELECT id FROM data WHERE educationnum != 4 and relationship < 1 and race = 3 and sex = 0
+SELECT id FROM data WHERE workclass >= 7 and educationnum > 8 and capitalloss < 70
+SELECT id FROM data WHERE educationnum = 4 and capitalgain > 97 and hoursperweek < 11 and nativecountry = 38
+SELECT id FROM data WHERE capitalloss != 96 and education != 4 and sex <= 0 and occupation > 1 
+SELECT id FROM data WHERE workclass >= 1 and education = 5 and maritalstatus > 3 and relationship > 2 and race != 1 and capitalloss <= 26 and nativecountry != 38
+SELECT id FROM data WHERE education != 7 and age > 21 and nativecountry > 35 
+SELECT id FROM data WHERE education >= 7 and maritalstatus <= 5 and occupation <= 1 and race < 0 and capitalloss = 12 and hoursperweek != 77
+SELECT id FROM data WHERE workclass > 7 and education <= 12 and educationnum >= 4 and relationship <= 2 and race <= 2 and capitalloss <= 23 and hoursperweek >= 2
+SELECT id FROM data WHERE workclass = 2 and occupation > 0 and relationship < 1 and race < 1
+SELECT id FROM data WHERE relationship >= 4 and sex != 1
+SELECT id FROM data WHERE workclass < 0 and education != 14 and maritalstatus >= 0 and occupation < 0 and relationship >= 3 and sex < 0 and capitalgain >= 12
+SELECT id FROM data WHERE maritalstatus != 0 and relationship < 3 and capitalgain != 110 and capitalloss != 83
+SELECT id FROM data WHERE capitalloss <= 23
+SELECT id FROM data WHERE capitalgain > 41
+SELECT id FROM data WHERE workclass = 5 and education != 14 and maritalstatus != 3 and race < 4 and capitalgain = 100
+SELECT id FROM data WHERE occupation = 9 and sex >= 1 and capitalgain < 115
+SELECT id FROM data WHERE education >= 4 and race >= 4 and capitalgain > 96 and capitalloss > 68
+SELECT id FROM data WHERE education > 6 and occupation != 2 and sex <= 1 and capitalgain < 28 and capitalloss < 20
+SELECT id FROM data WHERE age <= 34 and workclass < 4 and education = 13 and maritalstatus < 1 and sex < 1 and capitalloss > 74 and nativecountry <= 28
+SELECT id FROM data WHERE age >= 17 and age != 40 and maritalstatus >= 0 
+SELECT id FROM data WHERE sex <= 0 and relationship != 1 
+SELECT id FROM data WHERE education <= 12 and educationnum > 11 and race <= 0 and nativecountry > 17
+SELECT id FROM data WHERE occupation < 13 and race <= 0 and capitalloss = 1 and hoursperweek < 87
+SELECT id FROM data WHERE educationnum = 14 and occupation < 9 and sex <= 0 and capitalloss >= 14
+SELECT id FROM data WHERE maritalstatus < 4 and occupation < 2 and sex > 1 and capitalloss < 75
+SELECT id FROM data WHERE workclass > 0 and education != 11 and hoursperweek = 11 and nativecountry <= 6
+SELECT id FROM data WHERE workclass > 2 and education >= 13 and capitalgain <= 112
+SELECT id FROM data WHERE age < 46 and educationnum < 12 and relationship <= 5 and race <= 2 and sex < 1 and nativecountry < 22
+SELECT id FROM data WHERE workclass != 5 and education > 2 and maritalstatus >= 6 and capitalgain > 107 and hoursperweek > 16
+SELECT id FROM data WHERE age <= 40 and occupation = 9
+SELECT id FROM data WHERE workclass <= 5 and capitalgain <= 89 and nativecountry <= 23
+SELECT id FROM data WHERE hoursperweek = 81
+SELECT id FROM data WHERE workclass > 8 and education = 1 and maritalstatus < 4 and occupation < 8 and relationship > 0 and nativecountry >= 17
+SELECT id FROM data WHERE relationship = 4 and race >= 4 and sex < 1
+SELECT id FROM data WHERE educationnum > 0 and occupation >= 7 and relationship < 5 and capitalgain = 32 and capitalloss >= 59 and hoursperweek >= 54
+SELECT id FROM data WHERE workclass != 6 and relationship = 3 and sex < 0 and hoursperweek < 61 and nativecountry != 39
+SELECT id FROM data WHERE workclass < 7 and education > 6 and maritalstatus <= 1 and relationship < 5 and race < 1 and capitalloss < 8
+SELECT id FROM data WHERE workclass >= 5 and occupation > 4 and race = 4
+SELECT id FROM data WHERE education = 5 and maritalstatus > 5 and sex != 0 and hoursperweek <= 60 and nativecountry > 16
+SELECT id FROM data WHERE educationnum < 15 and race >= 4 and capitalgain >= 44 and hoursperweek < 33 and nativecountry != 19
+SELECT id FROM data WHERE age >= 23 and workclass != 4 and educationnum >= 2 and maritalstatus < 6 and occupation >= 4 and relationship > 2 and capitalgain != 106 and nativecountry >= 39
+SELECT id FROM data WHERE age = 42 and race >= 4 and sex < 1
+SELECT id FROM data WHERE age < 71 and maritalstatus >= 6 and race <= 1
+SELECT id FROM data WHERE educationnum < 8 and occupation <= 13 and hoursperweek = 49
+SELECT id FROM data WHERE educationnum = 11 and capitalgain < 56 and hoursperweek <= 63 and nativecountry > 10
+SELECT id FROM data WHERE maritalstatus != 5 and relationship > 3 and race < 2
+SELECT id FROM data WHERE workclass != 3 and education = 14 and educationnum >= 2 and capitalloss >= 71 and hoursperweek < 26
+SELECT id FROM data WHERE age < 17 and relationship >= 5 and hoursperweek != 58
+SELECT id FROM data WHERE maritalstatus = 5 and relationship != 3
+SELECT id FROM data WHERE educationnum = 5 and capitalgain >= 98 and hoursperweek = 8
+SELECT id FROM data WHERE relationship < 2 and race >= 2 and age != 66 and nativecountry != 24 and maritalstatus >= 2 and educationnum < 9 
+SELECT id FROM data WHERE education = 4 and maritalstatus >= 3 and occupation <= 13 and race != 2 and capitalloss > 56 and nativecountry = 6
+SELECT id FROM data WHERE age < 65 and education != 7 and educationnum < 5 and maritalstatus >= 0 and race > 1 and capitalloss = 55 and hoursperweek >= 24 and nativecountry <= 30
+SELECT id FROM data WHERE age >= 26 and workclass > 1 and education = 0 and educationnum < 13 and maritalstatus = 0 and occupation <= 13 and race = 0 and capitalgain < 23 and nativecountry != 7
+SELECT id FROM data WHERE workclass <= 8 and race < 0 and capitalloss < 34
+SELECT id FROM data WHERE race = 2 and capitalloss > 20 and hoursperweek >= 7
+SELECT id FROM data WHERE educationnum >= 6 and occupation != 4 and relationship >= 2 and sex <= 0 and nativecountry < 1
+SELECT id FROM data WHERE occupation = 1 and relationship > 5 and capitalgain != 103
+SELECT id FROM data WHERE age = 21 and maritalstatus = 6 and relationship < 1
+SELECT id FROM data WHERE relationship < 4 and race >= 3
+SELECT id FROM data WHERE workclass >= 8 and education < 9 and relationship > 1 and hoursperweek != 83
+SELECT id FROM data WHERE workclass <= 7 and relationship != 3 and capitalgain >= 87
+SELECT id FROM data WHERE age = 58 and occupation < 11 and relationship <= 1
+SELECT id FROM data WHERE workclass < 7 and education != 2 and educationnum > 6 and occupation != 6 and race < 4 and capitalloss <= 31 and hoursperweek >= 92 and nativecountry <= 19
+SELECT id FROM data WHERE maritalstatus >= 6 and relationship > 1 and capitalgain > 45 and nativecountry > 2
+SELECT id FROM data WHERE workclass = 6 and relationship > 0 and capitalloss >= 27 and nativecountry >= 3
+SELECT id FROM data WHERE sex = 0 and race != 1 
+SELECT id FROM data WHERE educationnum < 1
+SELECT id FROM data WHERE educationnum <= 0 and capitalgain > 64
+SELECT id FROM data WHERE workclass < 0 and educationnum > 6 and maritalstatus != 2 and occupation < 12 and hoursperweek > 83 and nativecountry < 6
+SELECT id FROM data WHERE age > 17 and maritalstatus = 1 and occupation >= 14 and relationship = 2 and race = 1 and sex != 0 and capitalgain != 28 and capitalloss >= 96
+SELECT id FROM data WHERE relationship <= 3 and capitalgain != 119 and capitalloss >= 92
+SELECT id FROM data WHERE relationship <= 4 and sex > 1 and capitalgain = 84 and capitalloss < 21 and hoursperweek >= 68 and nativecountry < 23
+SELECT id FROM data WHERE age < 32 and workclass > 1 and occupation > 11 and capitalgain != 0 and nativecountry = 21
+SELECT id FROM data WHERE education <= 0 and maritalstatus != 5 and occupation > 5 and relationship <= 4
+SELECT id FROM data WHERE capitalloss != 12 and sex = 0 and nativecountry > 6 and education > 5 
+SELECT id FROM data
+SELECT id FROM data WHERE occupation = 3 and sex = 1 and capitalgain > 114 and nativecountry < 28
+SELECT id FROM data WHERE age <= 15 and workclass = 4 and education = 7 and educationnum >= 3 and occupation != 8
+SELECT id FROM data WHERE educationnum = 0 and relationship <= 1 and sex != 0 and hoursperweek != 52
+SELECT id FROM data WHERE educationnum < 6 and sex >= 1 and nativecountry >= 33
+SELECT id FROM data WHERE age = 19 and workclass = 1 and educationnum <= 0 and occupation > 2 and race > 2 and capitalloss > 21 and hoursperweek > 39
+SELECT id FROM data WHERE workclass >= 4 and relationship > 1 and race != 3 and hoursperweek < 27
+SELECT id FROM data WHERE occupation <= 6 and relationship >= 1 and maritalstatus > 0 
+SELECT id FROM data WHERE workclass = 2
+SELECT id FROM data WHERE nativecountry >= 6 and occupation > 5 and occupation < 11 and relationship >= 1 
+SELECT id FROM data WHERE workclass > 0 and educationnum > 9 and maritalstatus < 0 and occupation <= 9 and nativecountry = 8
+SELECT id FROM data WHERE age > 32 and workclass != 3 and education != 6 and educationnum <= 12 and relationship > 0 and nativecountry = 16
+SELECT id FROM data WHERE maritalstatus = 0 and capitalgain <= 101 and capitalloss >= 31
+SELECT id FROM data WHERE age < 24 and workclass >= 1 and education < 5 and relationship > 4 and sex < 1
+SELECT id FROM data WHERE workclass = 1 and race > 4 and sex > 1 and capitalloss != 51 and hoursperweek > 90
+SELECT id FROM data WHERE sex <= 0 and capitalgain < 61 and capitalloss >= 44 and hoursperweek <= 43
+SELECT id FROM data WHERE relationship >= 4 and race >= 4 and hoursperweek > 15
+SELECT id FROM data WHERE workclass < 7 and educationnum > 12 and occupation > 6 and race <= 3 and hoursperweek != 95
+SELECT id FROM data WHERE educationnum != 7 and relationship < 4 and race < 2 and sex >= 0 and capitalloss >= 30
+SELECT id FROM data WHERE age != 72 and education > 12 and occupation = 12 and capitalgain <= 118 and capitalloss <= 47 and nativecountry >= 17
+SELECT id FROM data WHERE workclass < 2 and relationship != 1 and race < 4 and sex > 0 and nativecountry >= 14
+SELECT id FROM data WHERE workclass > 4 and maritalstatus >= 5 and relationship < 4 and sex < 0
+SELECT id FROM data WHERE maritalstatus > 0 and occupation > 4 and sex != 1 and capitalgain < 59 and hoursperweek <= 6
+SELECT id FROM data WHERE workclass < 8 and relationship >= 1
+SELECT id FROM data WHERE education = 10 and maritalstatus > 5 and sex = 0
+SELECT id FROM data WHERE sex <= 0 and capitalgain != 112
+SELECT id FROM data WHERE maritalstatus < 5 and capitalloss <= 78 and occupation <= 3 
+SELECT id FROM data WHERE age = 30 and education < 9 and educationnum != 12 and occupation <= 5 and race < 1 and capitalloss <= 40
+SELECT id FROM data WHERE sex > 0 and occupation >= 8 and maritalstatus <= 5 
+SELECT id FROM data WHERE age = 15 and workclass > 4 and educationnum > 10 and maritalstatus = 3 and capitalloss <= 76
+SELECT id FROM data WHERE educationnum <= 14 and age < 18 and education > 6 
+SELECT id FROM data WHERE workclass > 7 and education <= 8 and educationnum = 6 and occupation > 7 and relationship < 0 and race <= 4 and capitalgain >= 11 and capitalloss = 32
+SELECT id FROM data WHERE race <= 0 and sex = 1
+SELECT id FROM data WHERE workclass >= 2 and educationnum != 6 and maritalstatus < 3 and capitalloss = 17 and nativecountry > 10
+SELECT id FROM data WHERE relationship = 1 and capitalloss < 51 and maritalstatus < 5 
+SELECT id FROM data WHERE age != 45 and workclass <= 7 and educationnum > 0 and capitalloss = 51
+SELECT id FROM data WHERE age != 53 and maritalstatus > 1 and capitalloss > 32 and hoursperweek < 11
+SELECT id FROM data WHERE age > 32 and workclass >= 1 and capitalloss = 21 and hoursperweek >= 71
+SELECT id FROM data WHERE educationnum = 9 and sex <= 0 and nativecountry > 20
+SELECT id FROM data WHERE age >= 57 and sex > 1 and nativecountry != 28
+SELECT id FROM data WHERE age < 61 and workclass != 2 and occupation <= 14 and sex != 1
+SELECT id FROM data WHERE age > 19 and occupation != 5 and relationship >= 2 and nativecountry >= 39
+SELECT id FROM data WHERE age >= 35 and education != 15 and maritalstatus >= 5 and relationship <= 4 and race <= 4 and capitalloss = 72 and nativecountry > 30
+SELECT id FROM data WHERE workclass > 6 and occupation = 11 and race = 1 and capitalgain > 7 and hoursperweek < 44 and nativecountry >= 4
+SELECT id FROM data WHERE age > 20 and race >= 3 
+SELECT id FROM data WHERE age <= 27 and workclass > 2 and occupation >= 0 and capitalloss != 13
+SELECT id FROM data WHERE workclass != 0 and education <= 2 and maritalstatus < 3 and relationship <= 4 and sex > 1 and hoursperweek > 45
+SELECT id FROM data WHERE age < 45 and educationnum >= 6 and maritalstatus < 0 and sex < 1 and capitalloss > 74 and hoursperweek > 56 and nativecountry = 40
+SELECT id FROM data WHERE race != 3 and age >= 1 and education > 1 and educationnum = 8 and age >= 5 
+SELECT id FROM data WHERE education < 5 and occupation <= 3 and race > 2 and capitalloss = 43
+SELECT id FROM data WHERE age < 27 and maritalstatus >= 2 and relationship > 3 and sex != 0 and capitalgain > 22 and hoursperweek >= 52
+SELECT id FROM data WHERE maritalstatus >= 3 and sex != 0 
+SELECT id FROM data WHERE education <= 0 and occupation > 8
+SELECT id FROM data WHERE workclass >= 0 and capitalgain > 73
+SELECT id FROM data WHERE age <= 73 and education != 7 and relationship = 5
+SELECT id FROM data WHERE age < 69 and education >= 9 and race <= 1 and sex < 1 and hoursperweek != 27 and nativecountry >= 25
+SELECT id FROM data WHERE relationship < 4 and race = 1 and sex != 0 and hoursperweek <= 84
+SELECT id FROM data WHERE educationnum != 13 and maritalstatus > 0 and relationship != 4 and sex > 0
+SELECT id FROM data WHERE education <= 14 and relationship > 1 and race <= 2 and capitalloss != 65 and hoursperweek <= 22 and nativecountry >= 35
+SELECT id FROM data WHERE capitalgain > 106
+SELECT id FROM data WHERE relationship >= 0 and capitalgain = 7 and capitalloss = 98 and hoursperweek = 84
+SELECT id FROM data WHERE sex < 0 and capitalloss != 21
+SELECT id FROM data WHERE age = 54 and workclass >= 8 and education <= 11 and occupation = 1
+SELECT id FROM data WHERE workclass != 2 and relationship > 5 and hoursperweek >= 30 and nativecountry != 16
+SELECT id FROM data WHERE age != 2 and relationship <= 2 and sex < 1
+SELECT id FROM data WHERE race > 1 and capitalgain < 65
+SELECT id FROM data WHERE workclass != 6 and maritalstatus > 3 and capitalgain = 45 and capitalloss < 92 and hoursperweek = 14
+SELECT id FROM data WHERE educationnum != 3 and relationship > 5 and capitalgain != 45 and capitalloss >= 94
+SELECT id FROM data WHERE workclass != 6 and maritalstatus < 5 and race < 4
+SELECT id FROM data WHERE race <= 1 and capitalloss = 7 and nativecountry != 10
+SELECT id FROM data WHERE education = 12 and educationnum > 13 and race > 1 and capitalgain < 110 and capitalloss < 5
+SELECT id FROM data WHERE education <= 13 and capitalloss = 7
+SELECT id FROM data WHERE age > 70 and workclass != 7 and capitalgain >= 114 and capitalloss = 19
+SELECT id FROM data WHERE occupation != 11
+SELECT id FROM data WHERE age > 14
+SELECT id FROM data WHERE occupation <= 6 and occupation <= 9 and race != 2 
+SELECT id FROM data WHERE workclass > 3 and education <= 9 and sex >= 0 and nativecountry >= 23 
+SELECT id FROM data WHERE education != 4 and educationnum = 0 and relationship > 5 and capitalgain >= 68 and hoursperweek > 66
+SELECT id FROM data WHERE maritalstatus != 0 and hoursperweek >= 56 and nativecountry > 20
+SELECT id FROM data WHERE workclass < 4 and occupation > 2 and race >= 3 and hoursperweek < 76 and nativecountry = 9
+SELECT id FROM data WHERE relationship > 4 and capitalgain < 63 and hoursperweek != 25
+SELECT id FROM data WHERE age >= 68 and educationnum >= 3 and nativecountry <= 15
+SELECT id FROM data WHERE workclass < 1 and maritalstatus > 6 and relationship <= 4 and sex >= 1
+SELECT id FROM data WHERE maritalstatus > 5 and capitalgain < 42 and hoursperweek < 29 and nativecountry = 28
+SELECT id FROM data WHERE workclass < 1 and education = 6 and educationnum < 11 and hoursperweek >= 37 and nativecountry != 31
+SELECT id FROM data WHERE education != 1 and relationship = 5 and race != 2 and capitalloss = 30
+SELECT id FROM data WHERE education > 12 and hoursperweek < 70
+SELECT id FROM data WHERE education <= 4 and maritalstatus = 6 and occupation != 14 and capitalloss != 75 and nativecountry < 35
+SELECT id FROM data WHERE workclass = 6 and capitalloss > 12 and hoursperweek < 47
+SELECT id FROM data WHERE education >= 11 and maritalstatus != 3 and sex <= 0 and nativecountry = 29
+SELECT id FROM data WHERE education != 6 and educationnum >= 15 and maritalstatus != 2 and occupation < 2 and sex < 1 and capitalloss >= 21
+SELECT id FROM data WHERE education < 1 and maritalstatus > 5 and relationship < 4 and capitalgain > 81 and hoursperweek < 1
+SELECT id FROM data WHERE age = 25 and education != 11 and educationnum = 1 and maritalstatus = 5 and race <= 2 and sex != 0
+SELECT id FROM data WHERE occupation > 0 and capitalloss != 22
+SELECT id FROM data WHERE educationnum != 1 and maritalstatus <= 3 and occupation >= 8 and race = 2
+SELECT id FROM data WHERE workclass = 8 and education != 3 and maritalstatus < 2 and relationship > 3 and race < 4 and capitalloss >= 11 and nativecountry != 3
+SELECT id FROM data WHERE occupation != 5 and hoursperweek != 83
+SELECT id FROM data WHERE education != 6 and educationnum = 13
+SELECT id FROM data WHERE age <= 65 and workclass >= 4 and maritalstatus = 4 and sex != 1 and hoursperweek != 56
+SELECT id FROM data WHERE education >= 11 and occupation >= 4 
+SELECT id FROM data WHERE age > 73 and education = 4 and capitalgain <= 115
+SELECT id FROM data WHERE workclass != 2 and occupation < 12 and relationship < 2 and sex < 1 and capitalloss > 59
+SELECT id FROM data WHERE education = 11 and sex > 0 
+SELECT id FROM data WHERE occupation <= 3 and race = 2 and capitalloss <= 98 and hoursperweek = 45
+SELECT id FROM data WHERE age >= 56 and maritalstatus = 6 and sex > 0
+SELECT id FROM data WHERE capitalgain <= 36 and capitalgain < 85 and capitalloss != 68 and educationnum > 11 
+SELECT id FROM data WHERE age = 8 and workclass < 8 and occupation <= 10 and race >= 2 and sex != 1 and capitalgain < 66
+SELECT id FROM data WHERE age = 42 and workclass > 3 and race > 3 and capitalloss < 78
+SELECT id FROM data WHERE education != 7 and educationnum = 2 and sex != 1 and capitalgain = 51
+SELECT id FROM data WHERE maritalstatus != 6
+SELECT id FROM data WHERE educationnum > 7 and relationship < 4 and capitalgain = 71 and capitalloss = 65 and hoursperweek <= 51 and nativecountry >= 20
+SELECT id FROM data WHERE age > 53 and sex != 0 and capitalloss > 97 and hoursperweek > 68 and nativecountry = 23
+SELECT id FROM data WHERE age >= 64 and hoursperweek <= 17
+SELECT id FROM data WHERE maritalstatus != 2 and occupation >= 5 and race >= 4 and hoursperweek = 55 and nativecountry >= 18
+SELECT id FROM data WHERE age != 45 and relationship < 2 and race = 3 and capitalloss != 22
+SELECT id FROM data WHERE age < 9 and education >= 15 and educationnum <= 0 and capitalgain > 112 and nativecountry != 9
+SELECT id FROM data WHERE educationnum > 7 and occupation = 5 and capitalgain = 51
+SELECT id FROM data WHERE occupation >= 6 and sex != 0 and capitalloss > 40
+SELECT id FROM data WHERE educationnum < 2 and race <= 4 and capitalgain = 80 and capitalloss >= 34
+SELECT id FROM data WHERE workclass < 8 and occupation >= 8 and hoursperweek = 72 and nativecountry > 41
+SELECT id FROM data WHERE capitalgain = 89
+SELECT id FROM data WHERE age > 12 and occupation < 0 and hoursperweek <= 2 and nativecountry = 11
+SELECT id FROM data WHERE age = 69 and education >= 9 and educationnum != 4 and maritalstatus <= 5 and relationship < 5 and sex >= 1 and hoursperweek >= 49
+SELECT id FROM data WHERE age != 34 and occupation > 1 and hoursperweek = 82
+SELECT id FROM data WHERE education = 10 and occupation != 6 and capitalgain > 87
+SELECT id FROM data WHERE age < 47 and workclass < 6 and maritalstatus >= 5
+SELECT id FROM data WHERE workclass = 3 and race >= 1 and sex <= 1 and hoursperweek != 89
+SELECT id FROM data WHERE age = 34 and maritalstatus != 2 and relationship = 0 and capitalgain <= 48
+SELECT id FROM data WHERE race >= 0 and education <= 9 and occupation != 3 and nativecountry != 1 and occupation > 1 
+SELECT id FROM data WHERE relationship != 5 and race <= 0 and nativecountry > 17
+SELECT id FROM data WHERE age >= 61 and workclass < 4 and sex <= 1
+SELECT id FROM data WHERE workclass = 0 and educationnum != 3 and maritalstatus != 6 and occupation <= 8 and capitalgain <= 118 and capitalloss > 66
+SELECT id FROM data WHERE workclass != 2 and educationnum <= 0 and race <= 4 and capitalgain = 121 and capitalloss >= 92 and hoursperweek >= 69
+SELECT id FROM data WHERE educationnum < 9 and capitalloss < 88 
+SELECT id FROM data WHERE educationnum < 13 and maritalstatus = 0 and occupation <= 13 and relationship <= 0 and capitalgain = 51
+SELECT id FROM data WHERE age = 26 and education <= 3 and educationnum < 7 and maritalstatus = 6 and relationship > 4 and capitalloss < 12
+SELECT id FROM data WHERE workclass < 8 and maritalstatus >= 2 and occupation = 0 and sex < 0 and capitalloss < 30
+SELECT id FROM data WHERE education < 5 and occupation >= 10 and relationship != 1 and race >= 4 and hoursperweek >= 69
+SELECT id FROM data WHERE workclass >= 1 and education < 1 and educationnum < 2 and relationship < 2 and capitalloss < 90 and nativecountry < 41
+SELECT id FROM data WHERE hoursperweek != 39 and relationship < 3 and workclass < 5 
+SELECT id FROM data WHERE age = 36 and education <= 5 and educationnum = 3 and race >= 0 and sex = 1 and capitalgain >= 13
+SELECT id FROM data WHERE age != 25 and workclass >= 7 and educationnum > 10 and race > 2 and sex = 0 and capitalloss > 66
+SELECT id FROM data WHERE education = 0 and educationnum = 8 and maritalstatus < 2 and race <= 3 and capitalloss < 8 and hoursperweek <= 14
+SELECT id FROM data WHERE educationnum != 6 and capitalgain >= 54 and hoursperweek >= 17 and nativecountry > 2
+SELECT id FROM data WHERE workclass != 7 and education > 6 and maritalstatus > 0 and sex != 1
+SELECT id FROM data WHERE occupation <= 13 and maritalstatus < 4 
+SELECT id FROM data WHERE workclass <= 5 and capitalloss <= 20
+SELECT id FROM data WHERE maritalstatus >= 4 and occupation < 13 and capitalloss = 80
+SELECT id FROM data WHERE occupation != 0 and capitalgain >= 119 and hoursperweek >= 73 and nativecountry < 9
+SELECT id FROM data WHERE relationship > 2 and educationnum >= 2 and age < 65 
+SELECT id FROM data WHERE age = 46 and workclass != 5 and educationnum <= 11 and relationship != 4
+SELECT id FROM data WHERE maritalstatus = 4 and educationnum < 10 and hoursperweek <= 53 
+SELECT id FROM data WHERE educationnum >= 4 and maritalstatus < 5 and occupation != 9
+SELECT id FROM data WHERE age >= 61 and education > 4 and maritalstatus >= 2 and occupation <= 8 and relationship = 1 and capitalloss >= 75
+SELECT id FROM data WHERE age != 37 and maritalstatus = 5 and relationship != 1 and race = 2 and capitalgain > 12 and capitalloss != 22 and nativecountry < 32
+SELECT id FROM data WHERE workclass != 1 and maritalstatus >= 5 and sex = 0 and capitalgain = 97 and capitalloss > 74 and hoursperweek != 68
+SELECT id FROM data WHERE sex > 0 and capitalloss > 42 and hoursperweek = 52 and nativecountry >= 2
+SELECT id FROM data WHERE workclass = 8 and capitalloss > 95 and nativecountry >= 33
+SELECT id FROM data WHERE educationnum = 2 and maritalstatus <= 2 and race < 3 and hoursperweek < 1
+SELECT id FROM data WHERE race = 1
+SELECT id FROM data WHERE educationnum > 0 and relationship = 2 and hoursperweek >= 28 and nativecountry >= 38
+SELECT id FROM data WHERE capitalloss < 24 and maritalstatus != 5 and maritalstatus >= 4 and capitalgain <= 27 
+SELECT id FROM data
+SELECT id FROM data WHERE age <= 52 and workclass >= 4 and education >= 15 and maritalstatus < 1 and capitalgain <= 114
+SELECT id FROM data WHERE education >= 2 and educationnum > 7 and maritalstatus >= 5 and race > 3 and sex < 1 and capitalgain != 56 and capitalloss < 12 and hoursperweek > 13
+SELECT id FROM data WHERE age <= 56 and workclass <= 0 and nativecountry < 10
+SELECT id FROM data WHERE workclass = 1 and maritalstatus < 0 and occupation < 1 and race < 2 and sex < 0 and capitalloss > 46
+SELECT id FROM data WHERE workclass <= 2 and relationship <= 3 and race >= 1 and capitalloss >= 7 and nativecountry >= 27
+SELECT id FROM data WHERE maritalstatus > 2 and sex != 0 
+SELECT id FROM data WHERE educationnum >= 7 and maritalstatus != 0 and relationship > 5 and race <= 4 and sex > 0
+SELECT id FROM data WHERE workclass > 5 and education < 6 and relationship > 1 and capitalgain = 93
+SELECT id FROM data WHERE age >= 56 and educationnum >= 9 and sex >= 0
+SELECT id FROM data WHERE education <= 1 and educationnum > 12 and relationship >= 0 and sex >= 1 and hoursperweek != 57
+SELECT id FROM data WHERE education != 4 and race = 4
+SELECT id FROM data
+SELECT id FROM data WHERE education < 10 and relationship < 4
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and race > 3 and capitalloss > 88
+SELECT id FROM data WHERE age < 61 and educationnum >= 13 and capitalgain >= 69
+SELECT id FROM data WHERE occupation < 12 and relationship != 2 and capitalloss >= 0 and nativecountry = 28
+SELECT id FROM data WHERE maritalstatus > 5 and occupation < 12 and race > 0 and sex = 1 and capitalloss = 70 and nativecountry = 2
+SELECT id FROM data WHERE age > 56 and workclass > 2 and maritalstatus <= 1 and capitalloss != 19 and hoursperweek >= 80 and nativecountry >= 20
+SELECT id FROM data WHERE age < 68 and maritalstatus >= 6 and occupation >= 6 and sex = 1 and capitalloss = 66 and hoursperweek = 28 and nativecountry = 35
+SELECT id FROM data WHERE age <= 55 and education = 0 and capitalgain < 29 and nativecountry != 29
+SELECT id FROM data WHERE maritalstatus = 4 and occupation != 2 
+SELECT id FROM data WHERE relationship = 0 and relationship != 2 
+SELECT id FROM data WHERE age != 55 and workclass > 0 and education > 11 and maritalstatus < 5 and relationship > 3 and capitalloss >= 19
+SELECT id FROM data WHERE age <= 55 and capitalloss <= 18 and hoursperweek <= 91
+SELECT id FROM data WHERE maritalstatus > 0 and relationship >= 5
+SELECT id FROM data WHERE maritalstatus <= 0 and relationship <= 5 and race < 0 and capitalgain > 13 and hoursperweek >= 63
+SELECT id FROM data WHERE occupation <= 1 and capitalgain != 95
+SELECT id FROM data WHERE maritalstatus <= 0 and occupation = 3 and relationship > 3 and race > 0
+SELECT id FROM data WHERE education >= 4 and capitalgain <= 23 and educationnum != 7 and occupation >= 7 
+SELECT id FROM data WHERE capitalloss != 13
+SELECT id FROM data WHERE education > 7 and maritalstatus >= 3 and sex >= 1 and hoursperweek < 19
+SELECT id FROM data WHERE education >= 9 and maritalstatus = 5 and capitalgain > 67 and hoursperweek > 86
+SELECT id FROM data WHERE workclass > 2 and education > 6 and sex = 1 and hoursperweek = 74
+SELECT id FROM data WHERE age < 30 and maritalstatus != 4 and hoursperweek = 74
+SELECT id FROM data WHERE age >= 67 and workclass <= 1 and occupation = 9 and capitalgain <= 120 and capitalloss < 55
+SELECT id FROM data WHERE relationship > 3 and capitalgain = 68 and capitalloss != 41 and hoursperweek != 85 and nativecountry >= 0
+SELECT id FROM data WHERE workclass <= 8 and education <= 7 and race != 4
+SELECT id FROM data WHERE workclass >= 1 and race <= 3 and sex > 0 and hoursperweek < 47 and nativecountry = 24
+SELECT id FROM data WHERE workclass >= 6 and educationnum > 7 and maritalstatus <= 3 and sex != 0 and capitalgain != 18 and capitalloss = 85
+SELECT id FROM data WHERE education < 6 and race < 1 and capitalgain > 67
+SELECT id FROM data
+SELECT id FROM data WHERE maritalstatus > 5 and occupation <= 8 and capitalgain >= 31
+SELECT id FROM data WHERE workclass != 8 and education = 2
+SELECT id FROM data WHERE age > 19 and maritalstatus < 6 and race != 2 and sex >= 0
+SELECT id FROM data WHERE age != 65 and capitalgain != 4
+SELECT id FROM data WHERE race != 0 and sex = 0 and capitalloss = 33 and nativecountry < 28
+SELECT id FROM data WHERE occupation = 14 and hoursperweek >= 6 and nativecountry != 22
+SELECT id FROM data WHERE relationship < 0 and hoursperweek = 70
+SELECT id FROM data WHERE educationnum = 0 and maritalstatus >= 1 and capitalloss = 49
+SELECT id FROM data WHERE age >= 66 and occupation < 10 and relationship < 2 and race < 0 and sex <= 1 and capitalgain != 49 and capitalloss < 10
+SELECT id FROM data WHERE educationnum < 15 and capitalloss > 16
+SELECT id FROM data WHERE educationnum != 12 and occupation != 11 and sex < 0 and capitalloss = 79 and hoursperweek <= 33
+SELECT id FROM data WHERE sex >= 0 and relationship > 2 and capitalloss < 45 and workclass <= 4 
+SELECT id FROM data WHERE workclass != 0 and educationnum <= 6 and sex < 1 and capitalloss <= 56 and nativecountry < 35
+SELECT id FROM data WHERE education <= 10 and occupation >= 10
+SELECT id FROM data WHERE age <= 22 and workclass > 1 and capitalgain > 122 and capitalloss >= 86 and hoursperweek >= 38 and nativecountry = 24
+SELECT id FROM data WHERE educationnum > 4 and capitalgain = 23
+SELECT id FROM data WHERE maritalstatus = 6 and relationship < 4 and race <= 0 and hoursperweek < 23
+SELECT id FROM data
+SELECT id FROM data WHERE maritalstatus < 5 and occupation > 8 and capitalgain != 18
+SELECT id FROM data WHERE education > 0 and educationnum < 5 and maritalstatus != 1 and relationship = 2 and race > 1 and sex < 0 and hoursperweek != 92
+SELECT id FROM data WHERE age < 24 and relationship > 3 and race > 0 and nativecountry > 18
+SELECT id FROM data WHERE capitalloss != 46 and educationnum >= 5 and age < 39 and workclass > 3 and maritalstatus = 4 
+SELECT id FROM data WHERE capitalgain >= 110 and capitalloss < 42
+SELECT id FROM data WHERE educationnum != 14 and maritalstatus > 3 and relationship != 4 and race = 4 and capitalgain = 59 and hoursperweek = 50 and nativecountry != 35
+SELECT id FROM data WHERE workclass < 3 and maritalstatus != 5 and occupation <= 9 and sex <= 0 and capitalloss < 98
+SELECT id FROM data WHERE age > 40 and maritalstatus <= 0 and race <= 4 and capitalloss < 3
+SELECT id FROM data WHERE age < 31 and occupation = 9 and relationship != 5 and race >= 2 and capitalloss >= 19
+SELECT id FROM data WHERE age != 18 and education = 0 and occupation = 2 and race < 2 and sex <= 1 and hoursperweek <= 45
+SELECT id FROM data WHERE workclass = 0 and occupation >= 10 and capitalgain != 19 and capitalloss < 65 and hoursperweek >= 86
+SELECT id FROM data WHERE age <= 41 and maritalstatus > 5 and occupation = 0 and capitalgain >= 112
+SELECT id FROM data WHERE educationnum = 13
+SELECT id FROM data WHERE age >= 39 and workclass = 6 and race > 3 and nativecountry = 20
+SELECT id FROM data WHERE maritalstatus >= 3 and relationship >= 1 and education > 3 
+SELECT id FROM data WHERE workclass >= 7 and maritalstatus = 1 and capitalloss != 9 and nativecountry >= 1
+SELECT id FROM data WHERE age < 58 and maritalstatus <= 2 and relationship >= 3 and capitalloss < 20 and nativecountry != 15
+SELECT id FROM data WHERE occupation >= 11 
+SELECT id FROM data WHERE age = 56 and workclass <= 3 and capitalgain > 25 and nativecountry <= 20
+SELECT id FROM data WHERE workclass < 7 and relationship > 3 and sex > 1 and capitalgain > 37 and hoursperweek <= 38
+SELECT id FROM data WHERE education <= 3 and maritalstatus = 0 and occupation < 7 and race != 4
+SELECT id FROM data WHERE age = 61 and educationnum <= 2 and occupation >= 1 and sex > 1 and capitalgain != 12 and capitalloss = 14 and hoursperweek <= 35
+SELECT id FROM data WHERE maritalstatus < 2 and capitalloss > 49
+SELECT id FROM data WHERE workclass >= 3 and maritalstatus != 3 and relationship >= 0 and race > 4 and sex = 1 and nativecountry != 22
+SELECT id FROM data WHERE education > 5 and educationnum = 15 and capitalloss > 69 and hoursperweek <= 67
+SELECT id FROM data WHERE age >= 18 and age != 32 
+SELECT id FROM data WHERE educationnum < 5 and maritalstatus = 1 and race > 1 and capitalgain = 106 and nativecountry >= 36
+SELECT id FROM data WHERE maritalstatus < 2 and relationship <= 2 and hoursperweek <= 32 and nativecountry <= 17
+SELECT id FROM data WHERE workclass >= 5 and education != 9 and educationnum <= 4 and capitalloss = 79
+SELECT id FROM data WHERE nativecountry >= 29 and maritalstatus > 3 and relationship != 3 and maritalstatus >= 2 and relationship != 3 
+SELECT id FROM data WHERE education > 12 and educationnum < 5 and maritalstatus = 6 and relationship = 1 and race = 4 and sex != 0 and nativecountry <= 27
+SELECT id FROM data WHERE age = 38 and workclass != 0 and educationnum != 2 and maritalstatus != 4
+SELECT id FROM data WHERE educationnum <= 9 and maritalstatus > 3 and relationship = 0 and nativecountry <= 0
+SELECT id FROM data WHERE age = 15 and relationship > 1 and race < 1 and sex < 1
+SELECT id FROM data WHERE age >= 28 and workclass >= 8 and educationnum < 15 and maritalstatus = 2 and nativecountry > 31
+SELECT id FROM data WHERE age != 3 and maritalstatus < 1
+SELECT id FROM data WHERE capitalgain != 59 and nativecountry <= 18
+SELECT id FROM data WHERE education > 14 and maritalstatus = 4 and race >= 2 and sex > 0
+SELECT id FROM data WHERE education = 3 and occupation >= 12 and capitalgain < 94 and capitalloss >= 82
+SELECT id FROM data WHERE relationship >= 3 and hoursperweek <= 54 
+SELECT id FROM data WHERE education = 11 and relationship != 4 and capitalloss < 92 and hoursperweek >= 52 and nativecountry > 6
+SELECT id FROM data WHERE age != 10 and education != 6 and maritalstatus >= 1 and occupation = 3 and capitalloss <= 5 and nativecountry > 17
+SELECT id FROM data WHERE workclass >= 8 and education = 6 and maritalstatus <= 3 and occupation > 6 and capitalgain <= 32 and nativecountry > 10
+SELECT id FROM data WHERE sex >= 0 and maritalstatus >= 3 and age < 55 
+SELECT id FROM data WHERE workclass <= 8 and education <= 1 and educationnum > 9 and relationship < 2
+SELECT id FROM data WHERE educationnum = 7 and maritalstatus = 4 and relationship != 1 and race >= 1
+SELECT id FROM data WHERE age != 71 and educationnum < 9 and maritalstatus = 1 and occupation > 12 and race < 2 and capitalgain >= 2
+SELECT id FROM data WHERE sex > 1 and capitalgain = 106
+SELECT id FROM data WHERE education <= 9 
+SELECT id FROM data WHERE occupation > 7 and capitalgain < 98 
+SELECT id FROM data WHERE workclass > 7 and educationnum = 10 and relationship != 1
+SELECT id FROM data WHERE age <= 34 and maritalstatus >= 6 and occupation = 14 and race >= 2 and capitalgain <= 17 and capitalloss != 33
+SELECT id FROM data WHERE workclass > 4 and occupation <= 0 and relationship <= 0 and capitalgain >= 69 and capitalloss > 55
+SELECT id FROM data WHERE age >= 45 and education >= 9 and occupation <= 11 and relationship <= 2 and capitalgain <= 72 and capitalloss <= 8 and hoursperweek != 76
+SELECT id FROM data WHERE age > 20 and workclass <= 7 and occupation < 4 and sex >= 1 and capitalloss > 40 and nativecountry <= 13
+SELECT id FROM data WHERE workclass = 6 and educationnum >= 5 and relationship >= 3 and capitalloss != 14
+SELECT id FROM data WHERE capitalloss > 63
+SELECT id FROM data WHERE educationnum > 6 and maritalstatus != 6 and occupation < 2 and race <= 2 and sex = 1
+SELECT id FROM data WHERE capitalloss != 25 and occupation <= 5 
+SELECT id FROM data WHERE relationship < 2 and workclass != 4 
+SELECT id FROM data WHERE race > 4 and nativecountry = 5
+SELECT id FROM data WHERE educationnum > 2 and maritalstatus < 3 and sex < 0
+SELECT id FROM data WHERE education >= 7 and hoursperweek <= 37 and nativecountry > 0
+SELECT id FROM data WHERE occupation > 5 and sex > 1 and nativecountry < 25
+SELECT id FROM data WHERE maritalstatus != 5 and occupation = 8
+SELECT id FROM data WHERE maritalstatus > 0 and occupation = 12 and capitalloss <= 77 and hoursperweek >= 2 and nativecountry < 28
+SELECT id FROM data WHERE maritalstatus != 3 and hoursperweek = 29 and nativecountry > 27
+SELECT id FROM data WHERE age <= 62 and educationnum >= 6 and hoursperweek != 16 and nativecountry > 18
+SELECT id FROM data WHERE maritalstatus < 6 and occupation = 1 and race > 4 and capitalgain >= 107
+SELECT id FROM data WHERE workclass >= 3 and educationnum < 8 and race > 4
+SELECT id FROM data WHERE age >= 44 and occupation > 3 and relationship < 1 and race < 3 and sex <= 1 and hoursperweek = 87 and nativecountry >= 6
+SELECT id FROM data WHERE age > 13 and workclass >= 3 and education >= 5 and educationnum > 3 and maritalstatus = 1
+SELECT id FROM data WHERE workclass > 2 and educationnum != 8 and occupation != 8 and capitalloss > 83
+SELECT id FROM data WHERE age > 70 and education <= 13 and maritalstatus >= 0 and occupation >= 2 and relationship >= 2 and sex >= 1 and nativecountry = 23
+SELECT id FROM data WHERE workclass >= 3 and nativecountry != 31
+SELECT id FROM data WHERE workclass > 6 and maritalstatus <= 1 and sex < 1 and capitalloss > 46 and hoursperweek >= 60
+SELECT id FROM data WHERE educationnum > 5 and sex = 0
+SELECT id FROM data WHERE hoursperweek = 69
+SELECT id FROM data WHERE age <= 63 and workclass > 1 and education != 2 and nativecountry < 19
+SELECT id FROM data WHERE maritalstatus != 3 and race > 4 and capitalgain != 71 and hoursperweek < 35
+SELECT id FROM data WHERE race > 1
+SELECT id FROM data WHERE age != 10 and workclass <= 0 and education > 1 and nativecountry < 33
+SELECT id FROM data WHERE workclass != 4 and nativecountry = 39 
+SELECT id FROM data WHERE workclass <= 7 and maritalstatus != 0 and occupation >= 10 and race = 2 and sex <= 0 and capitalloss <= 81 and hoursperweek < 68
+SELECT id FROM data WHERE relationship <= 0 and race > 3 
+SELECT id FROM data WHERE hoursperweek != 39 and nativecountry > 25 
+SELECT id FROM data WHERE educationnum > 11 and capitalgain > 14
+SELECT id FROM data WHERE age > 65 and education <= 6 and sex != 0
+SELECT id FROM data WHERE age > 44 and education < 11 and maritalstatus = 2 and relationship > 1 and sex = 0 and capitalgain <= 91 and hoursperweek = 61
+SELECT id FROM data WHERE workclass < 0 and educationnum < 11 and capitalgain = 22 and nativecountry <= 24
+SELECT id FROM data WHERE educationnum = 13 and race >= 0 and sex = 1 and capitalgain <= 117 and capitalloss = 42 and hoursperweek = 5 and nativecountry >= 31
+SELECT id FROM data WHERE maritalstatus >= 3 
+SELECT id FROM data WHERE maritalstatus >= 3 and age <= 63 and sex > 0 
+SELECT id FROM data WHERE education >= 14 and maritalstatus < 4 and race != 2 and sex = 1 and capitalgain = 36
+SELECT id FROM data WHERE occupation > 9 
+SELECT id FROM data WHERE sex = 0 

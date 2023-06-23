@@ -1,0 +1,3000 @@
+SELECT id FROM data WHERE educationnum != 9 and hoursperweek > 48 and workclass > 3 and capitalloss <= 36  
+compilation time: 1.09376ms
+Execution time: 0.866264ms
+SELECT id FROM data WHERE workclass > 4  
+compilation time: 0.185645ms
+Execution time: 0.548833ms
+SELECT id FROM data WHERE maritalstatus = 0  
+compilation time: 0.163782ms
+Execution time: 0.27776ms
+SELECT id FROM data WHERE capitalloss != 73 and nativecountry > 8 and (TRUE) and occupation = 3 and capitalgain != 28  
+compilation time: 0.735498ms
+Execution time: 0.31594ms
+SELECT id FROM data WHERE maritalstatus <= 0 and educationnum != 3 and nativecountry >= 4 and education > 7 and age > 5  
+compilation time: 0.885308ms
+Execution time: 0.250901ms
+SELECT id FROM data WHERE maritalstatus != 5 and sex > 0 and race >= 1 and race >= 3 and maritalstatus = 4 and nativecountry > 21  
+compilation time: 1.2893ms
+Execution time: 0.440595ms
+SELECT id FROM data WHERE occupation = 1  
+compilation time: 0.130651ms
+Execution time: 0.322567ms
+SELECT id FROM data WHERE nativecountry != 23 and education >= 12 and relationship = 0  
+compilation time: 0.52445ms
+Execution time: 0.235755ms
+SELECT id FROM data WHERE maritalstatus < 1 and maritalstatus < 2 and age != 39  
+compilation time: 0.745611ms
+Execution time: 0.242145ms
+SELECT id FROM data WHERE race <= 2  
+compilation time: 0.130021ms
+Execution time: 0.19926ms
+SELECT id FROM data WHERE education > 14 and race != 2 and workclass >= 4  
+compilation time: 0.502849ms
+Execution time: 0.216539ms
+SELECT id FROM data WHERE relationship >= 4  
+compilation time: 0.119015ms
+Execution time: 0.187467ms
+SELECT id FROM data WHERE educationnum != 8 and occupation > 8 and educationnum >= 10  
+compilation time: 0.497725ms
+Execution time: 0.207968ms
+SELECT id FROM data WHERE nativecountry > 22 and occupation < 4 and relationship < 1 and nativecountry != 21  
+compilation time: 0.678467ms
+Execution time: 0.233989ms
+SELECT id FROM data WHERE relationship >= 4  
+compilation time: 0.125765ms
+Execution time: 0.215443ms
+SELECT id FROM data WHERE maritalstatus != 2 and maritalstatus < 1 and capitalgain < 21 and nativecountry > 29  
+compilation time: 0.713215ms
+Execution time: 0.231414ms
+SELECT id FROM data WHERE maritalstatus >= 3 and (TRUE) and sex >= 0 and educationnum <= 9 and relationship >= 2  
+compilation time: 0.773752ms
+Execution time: 0.303993ms
+SELECT id FROM data WHERE race > 2 and hoursperweek > 45  
+compilation time: 0.333668ms
+Execution time: 0.275106ms
+SELECT id FROM data WHERE relationship = 3 and (TRUE) and educationnum < 10  
+compilation time: 0.405057ms
+Execution time: 0.292655ms
+SELECT id FROM data WHERE hoursperweek != 76 and workclass < 4 and capitalgain < 46  
+compilation time: 0.50774ms
+Execution time: 0.286129ms
+SELECT id FROM data WHERE maritalstatus = 4 and sex != 0 and nativecountry > 9 and capitalloss != 27  
+compilation time: 0.694887ms
+Execution time: 0.295972ms
+SELECT id FROM data WHERE education > 0 and relationship > 0 and race <= 3  
+compilation time: 0.519356ms
+Execution time: 0.272283ms
+SELECT id FROM data WHERE occupation < 3 and capitalloss != 43 and capitalgain < 19 and occupation < 13 and education < 13 and capitalgain < 57  
+compilation time: 1.06366ms
+Execution time: 0.307041ms
+SELECT id FROM data WHERE hoursperweek != 83 and occupation <= 5 and age < 19  
+compilation time: 0.520748ms
+Execution time: 0.223726ms
+SELECT id FROM data WHERE occupation = 3 and capitalloss <= 72  
+compilation time: 0.486486ms
+Execution time: 0.299067ms
+SELECT id FROM data WHERE hoursperweek >= 12 and sex != 0 and occupation != 3 and hoursperweek >= 48  
+compilation time: 0.767646ms
+Execution time: 0.316477ms
+SELECT id FROM data WHERE capitalgain < 36 and education < 9  
+compilation time: 0.337293ms
+Execution time: 0.298279ms
+SELECT id FROM data WHERE occupation = 1  
+compilation time: 0.132507ms
+Execution time: 0.242212ms
+SELECT id FROM data WHERE maritalstatus <= 1 and age < 57  
+compilation time: 0.323946ms
+Execution time: 0.213652ms
+SELECT id FROM data WHERE educationnum >= 1 and educationnum != 0 and workclass > 5  
+compilation time: 0.523124ms
+Execution time: 0.215539ms
+SELECT id FROM data WHERE workclass != 4 and workclass < 5 and education <= 13 and education <= 14  
+compilation time: 0.739998ms
+Execution time: 0.314466ms
+SELECT id FROM data WHERE workclass < 4 and sex >= 0 and capitalloss < 25 and race > 1  
+compilation time: 0.708862ms
+Execution time: 0.284013ms
+SELECT id FROM data WHERE workclass != 0 and educationnum != 1 and sex = 0 and maritalstatus > 3 and relationship > 0  
+compilation time: 0.891003ms
+Execution time: 0.288916ms
+SELECT id FROM data WHERE hoursperweek <= 38 and occupation < 11 and hoursperweek != 93  
+compilation time: 0.538426ms
+Execution time: 0.28311ms
+SELECT id FROM data WHERE relationship < 2 and relationship != 3 and sex = 0  
+compilation time: 0.518045ms
+Execution time: 0.285999ms
+SELECT id FROM data WHERE (sex = 0 and relationship >= 1 and nativecountry != 9 ) and workclass = 4 and occupation <= 11  
+compilation time: 0.895752ms
+Execution time: 0.317195ms
+SELECT id FROM data WHERE race >= 1 and hoursperweek <= 24 and capitalloss != 82  
+compilation time: 0.544663ms
+Execution time: 0.215776ms
+SELECT id FROM data WHERE education != 8 and maritalstatus <= 3 and sex = 0 and hoursperweek != 60  
+compilation time: 0.696987ms
+Execution time: 0.2466ms
+SELECT id FROM data WHERE age > 33 and nativecountry > 33 and hoursperweek != 60  
+compilation time: 0.513321ms
+Execution time: 0.243241ms
+SELECT id FROM data WHERE workclass < 3 and nativecountry >= 7  
+compilation time: 0.327873ms
+Execution time: 0.226344ms
+SELECT id FROM data WHERE relationship >= 1 and hoursperweek < 43 and educationnum > 9  
+compilation time: 0.514115ms
+Execution time: 0.277234ms
+SELECT id FROM data WHERE sex >= 0 and maritalstatus <= 1 and workclass >= 1  
+compilation time: 0.678587ms
+Execution time: 0.338167ms
+SELECT id FROM data WHERE relationship != 0 and race != 3 and relationship = 3  
+compilation time: 0.524852ms
+Execution time: 0.285156ms
+SELECT id FROM data WHERE relationship != 1 and age > 34 and maritalstatus = 2  
+compilation time: 0.505357ms
+Execution time: 0.224317ms
+SELECT id FROM data WHERE education != 2 and education != 11 and occupation >= 8 and age >= 18  
+compilation time: 0.747717ms
+Execution time: 0.263854ms
+SELECT id FROM data WHERE relationship >= 0 and nativecountry != 14 and maritalstatus = 0  
+compilation time: 0.516669ms
+Execution time: 0.22433ms
+SELECT id FROM data WHERE educationnum <= 6  
+compilation time: 0.147466ms
+Execution time: 0.202661ms
+SELECT id FROM data WHERE nativecountry > 24 and relationship = 0 and occupation > 5  
+compilation time: 0.498835ms
+Execution time: 0.389308ms
+SELECT id FROM data WHERE nativecountry >= 11 and occupation >= 1 and capitalgain < 66 and relationship < 1 and capitalloss < 43 and education < 11  
+compilation time: 1.02558ms
+Execution time: 0.247984ms
+SELECT id FROM data WHERE sex != 0 and education != 6 and hoursperweek <= 61 and capitalgain != 5 and education < 9  
+compilation time: 0.847728ms
+Execution time: 0.243599ms
+SELECT id FROM data WHERE race >= 1 and educationnum != 1 and race <= 3 and hoursperweek <= 42  
+compilation time: 0.677016ms
+Execution time: 0.297563ms
+SELECT id FROM data WHERE age > 26 and occupation = 10 and sex <= 0 and hoursperweek > 79 
+compilation time: 0.752754ms
+Execution time: 0.335388ms
+SELECT id FROM data WHERE workclass >= 2 and education != 6 and race = 2 and capitalgain >= 71 and capitalloss < 90 and hoursperweek < 32 and nativecountry = 37 
+compilation time: 1.17587ms
+Execution time: 0.358263ms
+SELECT id FROM data WHERE education >= 8 
+compilation time: 0.191228ms
+Execution time: 0.330393ms
+SELECT id FROM data WHERE sex >= 0 and workclass != 3 and relationship != 0 and maritalstatus >= 0  
+compilation time: 0.65809ms
+Execution time: 0.300751ms
+SELECT id FROM data WHERE age <= 6 and education >= 6 and maritalstatus <= 4 and capitalloss <= 30 and hoursperweek != 14 and nativecountry > 25 
+compilation time: 1.02363ms
+Execution time: 0.236762ms
+SELECT id FROM data WHERE sex >= 0 and capitalloss = 49 
+compilation time: 0.313352ms
+Execution time: 0.201898ms
+SELECT id FROM data WHERE workclass <= 7 and occupation <= 2 and capitalgain != 24 and capitalloss = 75 
+compilation time: 0.672434ms
+Execution time: 0.304894ms
+SELECT id FROM data WHERE age != 31 and educationnum <= 6 and occupation >= 14 and race <= 1 and nativecountry > 31 
+compilation time: 0.876689ms
+Execution time: 0.253497ms
+SELECT id FROM data WHERE age <= 72 and educationnum < 0 and relationship = 5 and race < 0 and capitalgain = 119 and hoursperweek > 43 and nativecountry = 37 
+compilation time: 1.17339ms
+Execution time: 0.242386ms
+SELECT id FROM data WHERE educationnum > 11 and maritalstatus > 4 and race <= 3 and sex >= 1 
+compilation time: 0.661721ms
+Execution time: 0.224028ms
+SELECT id FROM data WHERE capitalloss < 44 
+compilation time: 0.156382ms
+Execution time: 0.346358ms
+SELECT id FROM data WHERE occupation <= 1 and sex > 1 and nativecountry <= 6 
+compilation time: 0.504352ms
+Execution time: 0.208662ms
+SELECT id FROM data WHERE workclass = 7 and educationnum = 11 
+compilation time: 0.306417ms
+Execution time: 0.236754ms
+SELECT id FROM data WHERE workclass < 6 and capitalgain != 8 
+compilation time: 0.297723ms
+Execution time: 0.154827ms
+SELECT id FROM data WHERE workclass = 5 and educationnum <= 11 and occupation >= 6 and relationship < 4 and race >= 0 and capitalloss >= 12 
+compilation time: 1.11351ms
+Execution time: 0.235702ms
+SELECT id FROM data WHERE age < 1 and workclass > 6 and maritalstatus != 1 and race = 3 
+compilation time: 0.674927ms
+Execution time: 0.214698ms
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and race > 3 and sex > 1 
+compilation time: 0.662922ms
+Execution time: 0.247385ms
+SELECT id FROM data WHERE capitalloss >= 61 and hoursperweek >= 59 
+compilation time: 0.320585ms
+Execution time: 0.194523ms
+SELECT id FROM data WHERE workclass >= 0 and hoursperweek <= 72 and capitalloss != 1 and relationship > 1 and workclass > 0  
+compilation time: 0.837092ms
+Execution time: 0.338394ms
+SELECT id FROM data WHERE workclass != 6 and educationnum = 5 and relationship >= 0 
+compilation time: 0.546275ms
+Execution time: 0.212243ms
+SELECT id FROM data WHERE age >= 4 and education != 10 and sex <= 1 and capitalgain < 112 
+compilation time: 0.672849ms
+Execution time: 0.334337ms
+SELECT id FROM data WHERE education < 10 and occupation <= 7 and relationship >= 0 and capitalgain >= 11 and capitalloss <= 49 and nativecountry > 19 
+compilation time: 1.10381ms
+Execution time: 0.352471ms
+SELECT id FROM data WHERE sex > 1 and capitalgain >= 59 and hoursperweek < 16 
+compilation time: 0.513963ms
+Execution time: 0.246584ms
+SELECT id FROM data WHERE maritalstatus >= 2 and relationship <= 3 
+compilation time: 0.339986ms
+Execution time: 0.332618ms
+SELECT id FROM data WHERE workclass < 5 and sex <= 1 and hoursperweek > 9 and nativecountry < 4 
+compilation time: 0.700034ms
+Execution time: 0.334895ms
+SELECT id FROM data WHERE age >= 20 and educationnum > 12 and capitalgain < 76 
+compilation time: 0.606002ms
+Execution time: 0.321536ms
+SELECT id FROM data WHERE sex = 0 and hoursperweek = 84 
+compilation time: 0.346736ms
+Execution time: 0.311229ms
+SELECT id FROM data WHERE educationnum >= 13 
+compilation time: 0.194951ms
+Execution time: 0.17711ms
+SELECT id FROM data WHERE age = 23 and relationship != 5 
+compilation time: 0.319741ms
+Execution time: 0.187964ms
+SELECT id FROM data WHERE relationship >= 2 and capitalgain < 25 and capitalloss <= 24 and nativecountry <= 7 
+compilation time: 0.716683ms
+Execution time: 0.375731ms
+SELECT id FROM data WHERE relationship < 4 and age < 17 and capitalgain != 25  
+compilation time: 0.516468ms
+Execution time: 0.301818ms
+SELECT id FROM data WHERE age <= 45 and educationnum != 14 and hoursperweek < 74 
+compilation time: 0.500591ms
+Execution time: 0.230776ms
+SELECT id FROM data WHERE sex > 0 and maritalstatus >= 3  
+compilation time: 0.328249ms
+Execution time: 0.229873ms
+SELECT id FROM data WHERE workclass != 5 and relationship = 1 and capitalgain != 69 and capitalloss >= 43 
+compilation time: 0.667715ms
+Execution time: 0.263029ms
+SELECT id FROM data WHERE educationnum > 0 and race <= 4 and sex <= 0 and hoursperweek != 62 
+compilation time: 0.782196ms
+Execution time: 0.322958ms
+SELECT id FROM data WHERE age < 63 and workclass != 6 and occupation != 7 
+compilation time: 0.644338ms
+Execution time: 0.263208ms
+SELECT id FROM data WHERE relationship < 1 and sex >= 0 and educationnum >= 9  
+compilation time: 0.522573ms
+Execution time: 0.226628ms
+SELECT id FROM data WHERE sex < 0 
+compilation time: 0.146985ms
+Execution time: 0.199769ms
+SELECT id FROM data WHERE age = 66 and maritalstatus <= 5 and race != 4 and sex != 0 and hoursperweek <= 83 
+compilation time: 0.850713ms
+Execution time: 0.20512ms
+SELECT id FROM data WHERE workclass <= 0 and education != 11 and race <= 0 and sex >= 0 and hoursperweek >= 13 
+compilation time: 0.841287ms
+Execution time: 0.283518ms
+SELECT id FROM data WHERE age < 51 and workclass = 7 and education < 9 and sex > 1 
+compilation time: 0.668302ms
+Execution time: 0.235062ms
+SELECT id FROM data WHERE capitalloss <= 75 and sex <= 0  
+compilation time: 0.328881ms
+Execution time: 0.215291ms
+SELECT id FROM data WHERE education < 4 and educationnum > 15 and relationship != 0 and capitalloss >= 66 and hoursperweek != 87 
+compilation time: 0.90369ms
+Execution time: 0.296156ms
+SELECT id FROM data WHERE age != 33 and workclass < 4 and maritalstatus <= 5 and capitalloss <= 92 
+compilation time: 0.693637ms
+Execution time: 0.303626ms
+SELECT id FROM data WHERE workclass < 3 and educationnum <= 15 and relationship = 0 and hoursperweek >= 95 and nativecountry != 18 
+compilation time: 0.842451ms
+Execution time: 0.336823ms
+SELECT id FROM data 
+compilation time: 0.000634ms
+Execution time: 0.350715ms
+SELECT id FROM data WHERE workclass >= 5 and education > 1 and hoursperweek <= 35 and nativecountry <= 38 
+compilation time: 0.687991ms
+Execution time: 0.242818ms
+SELECT id FROM data WHERE education < 5 and educationnum <= 3 
+compilation time: 0.324118ms
+Execution time: 0.216055ms
+SELECT id FROM data WHERE maritalstatus <= 3 and capitalloss = 32 
+compilation time: 0.325186ms
+Execution time: 0.200666ms
+SELECT id FROM data WHERE age = 34 and maritalstatus < 1 and sex > 1 
+compilation time: 0.56426ms
+Execution time: 0.223995ms
+SELECT id FROM data WHERE maritalstatus = 5 and race != 2 and capitalgain != 53 and nativecountry <= 0 
+compilation time: 0.663054ms
+Execution time: 0.235868ms
+SELECT id FROM data WHERE occupation < 1 and sex <= 1 and capitalloss < 98 
+compilation time: 0.504567ms
+Execution time: 0.224251ms
+SELECT id FROM data WHERE age != 27 and relationship <= 1 and race < 4 and capitalgain < 39 and capitalloss = 2 and nativecountry >= 2 
+compilation time: 1.01127ms
+Execution time: 0.254472ms
+SELECT id FROM data WHERE education <= 12 and maritalstatus <= 5 and capitalgain <= 116 and capitalloss < 18 
+compilation time: 0.734114ms
+Execution time: 0.241453ms
+SELECT id FROM data WHERE workclass > 7 and sex != 1 
+compilation time: 0.326498ms
+Execution time: 0.216169ms
+SELECT id FROM data WHERE age = 55 and occupation > 8 and sex > 1 
+compilation time: 0.50304ms
+Execution time: 0.224376ms
+SELECT id FROM data WHERE educationnum <= 0 and occupation <= 9 and sex >= 1 and capitalloss <= 50 
+compilation time: 0.729304ms
+Execution time: 0.325745ms
+SELECT id FROM data WHERE age < 31 and education = 0 and race > 4 
+compilation time: 0.511977ms
+Execution time: 0.321534ms
+SELECT id FROM data WHERE education >= 4 and occupation != 1 and hoursperweek = 43 and nativecountry = 41 
+compilation time: 0.720304ms
+Execution time: 0.307865ms
+SELECT id FROM data WHERE sex <= 0 and hoursperweek <= 83 and maritalstatus <= 5  
+compilation time: 0.509813ms
+Execution time: 0.187697ms
+SELECT id FROM data WHERE educationnum > 10 and race > 3 and nativecountry > 4 and race > 0  
+compilation time: 0.654061ms
+Execution time: 0.227842ms
+SELECT id FROM data WHERE educationnum = 1 and capitalloss != 70 and nativecountry < 41 
+compilation time: 0.495162ms
+Execution time: 0.223309ms
+SELECT id FROM data WHERE age > 55 and workclass > 2 and education < 13 and educationnum > 15 and capitalloss > 35 and hoursperweek != 6 
+compilation time: 1.06152ms
+Execution time: 0.246297ms
+SELECT id FROM data WHERE age > 19 and educationnum >= 12 and relationship != 1 and sex = 1 and nativecountry > 19 
+compilation time: 0.841963ms
+Execution time: 0.244037ms
+SELECT id FROM data WHERE workclass >= 2 and education < 13 and relationship > 4 and race < 2 and sex < 0 and hoursperweek <= 28 
+compilation time: 1.01107ms
+Execution time: 0.257892ms
+SELECT id FROM data 
+compilation time: 0.000831ms
+Execution time: 0.188755ms
+SELECT id FROM data WHERE age != 35 and educationnum > 14 and relationship > 4 and capitalgain <= 17 
+compilation time: 0.685625ms
+Execution time: 0.346622ms
+SELECT id FROM data WHERE education != 6 and maritalstatus != 4 and relationship >= 5 and sex = 0 and capitalloss != 20 and nativecountry = 2 
+compilation time: 0.987425ms
+Execution time: 0.310894ms
+SELECT id FROM data WHERE age <= 64 and education = 6 and relationship < 0 
+compilation time: 0.516243ms
+Execution time: 0.319194ms
+SELECT id FROM data WHERE hoursperweek <= 46 and race != 3 and sex != 0  
+compilation time: 0.523237ms
+Execution time: 0.318369ms
+SELECT id FROM data WHERE relationship = 2 and race != 1 and capitalgain <= 58 and nativecountry >= 23 
+compilation time: 0.733321ms
+Execution time: 0.333711ms
+SELECT id FROM data WHERE education = 13 and relationship < 2 and capitalloss <= 44 
+compilation time: 0.526954ms
+Execution time: 0.383991ms
+SELECT id FROM data WHERE educationnum != 1 and maritalstatus <= 5 and relationship >= 0 
+compilation time: 0.542844ms
+Execution time: 0.33855ms
+SELECT id FROM data WHERE educationnum >= 10 and sex = 0 
+compilation time: 0.34476ms
+Execution time: 0.252942ms
+SELECT id FROM data WHERE age = 45 and race > 4 and capitalgain != 23 and capitalloss >= 53 and hoursperweek > 91 
+compilation time: 0.840024ms
+Execution time: 0.348377ms
+SELECT id FROM data WHERE maritalstatus = 2 and capitalgain <= 69  
+compilation time: 0.322362ms
+Execution time: 0.174214ms
+SELECT id FROM data WHERE workclass != 4 and relationship <= 2 and hoursperweek > 90 
+compilation time: 0.498909ms
+Execution time: 0.331198ms
+SELECT id FROM data WHERE maritalstatus != 6 and occupation = 0 
+compilation time: 0.356314ms
+Execution time: 0.31536ms
+SELECT id FROM data WHERE age > 4 and workclass <= 0 and educationnum >= 12 and maritalstatus = 1 and capitalgain >= 95 and nativecountry != 35 
+compilation time: 1.04361ms
+Execution time: 0.311348ms
+SELECT id FROM data WHERE maritalstatus >= 1 and relationship < 5 
+compilation time: 0.398964ms
+Execution time: 0.358569ms
+SELECT id FROM data WHERE age >= 3 and workclass <= 7 and maritalstatus = 5 
+compilation time: 0.498702ms
+Execution time: 0.224954ms
+SELECT id FROM data WHERE age != 57 and educationnum >= 7 and capitalloss = 49 and nativecountry > 4 
+compilation time: 0.671579ms
+Execution time: 0.24492ms
+SELECT id FROM data WHERE age > 8 and educationnum = 10 and occupation < 0 and relationship > 2 and sex < 0 and capitalloss = 71 and hoursperweek > 80 
+compilation time: 1.17538ms
+Execution time: 0.25603ms
+SELECT id FROM data WHERE education = 11 and occupation > 11 and capitalgain > 111 and hoursperweek = 22 and nativecountry >= 23 
+compilation time: 0.883215ms
+Execution time: 0.247545ms
+SELECT id FROM data WHERE sex >= 0 and sex >= 0 and relationship < 1  
+compilation time: 0.505733ms
+Execution time: 0.254203ms
+SELECT id FROM data WHERE education != 12 and capitalloss = 18 and nativecountry >= 7 
+compilation time: 0.495956ms
+Execution time: 0.292587ms
+SELECT id FROM data WHERE education = 3 and maritalstatus != 5 
+compilation time: 0.337103ms
+Execution time: 0.280984ms
+SELECT id FROM data WHERE hoursperweek >= 80 and nativecountry > 40 
+compilation time: 0.321967ms
+Execution time: 0.192012ms
+SELECT id FROM data WHERE age = 25 and workclass >= 8 and relationship > 0 and sex >= 1 and hoursperweek >= 74 
+compilation time: 0.904034ms
+Execution time: 0.229033ms
+SELECT id FROM data WHERE workclass > 7 and sex >= 1 and nativecountry < 4 
+compilation time: 0.504052ms
+Execution time: 0.225232ms
+SELECT id FROM data WHERE workclass < 7 and capitalloss < 59 and nativecountry < 17 
+compilation time: 0.506537ms
+Execution time: 0.215138ms
+SELECT id FROM data WHERE educationnum != 4 and maritalstatus >= 4 and occupation >= 8 and relationship >= 4 and sex = 0 
+compilation time: 0.831189ms
+Execution time: 0.231151ms
+SELECT id FROM data WHERE age <= 60 and education = 12 and educationnum <= 11 and relationship < 0 
+compilation time: 0.703263ms
+Execution time: 0.219792ms
+SELECT id FROM data WHERE workclass = 1 and race >= 2 and capitalgain != 29 
+compilation time: 0.484374ms
+Execution time: 0.214887ms
+SELECT id FROM data WHERE education <= 14 and educationnum > 8 and maritalstatus > 1 and sex <= 1 
+compilation time: 0.657899ms
+Execution time: 0.222047ms
+SELECT id FROM data WHERE age != 48 and educationnum = 0 and hoursperweek = 4 
+compilation time: 0.495689ms
+Execution time: 0.324333ms
+SELECT id FROM data WHERE age >= 35 and workclass >= 6 and education >= 8 and maritalstatus >= 4 and relationship = 0 and capitalloss = 65 
+compilation time: 1.04596ms
+Execution time: 0.255891ms
+SELECT id FROM data WHERE relationship < 1 and capitalloss < 60 and age < 30  
+compilation time: 0.507809ms
+Execution time: 0.200432ms
+SELECT id FROM data WHERE education = 1 and maritalstatus <= 5 and occupation <= 6 and race <= 1 
+compilation time: 0.666955ms
+Execution time: 0.327651ms
+SELECT id FROM data WHERE education != 6 and relationship = 0 and capitalgain < 95 and hoursperweek < 85 
+compilation time: 0.696917ms
+Execution time: 0.328971ms
+SELECT id FROM data WHERE hoursperweek < 66 and capitalloss <= 58 and educationnum < 9  
+compilation time: 0.51167ms
+Execution time: 0.201505ms
+SELECT id FROM data WHERE age < 33 and education = 7 and race > 2 and hoursperweek >= 15 
+compilation time: 0.711292ms
+Execution time: 0.209745ms
+SELECT id FROM data WHERE workclass < 8 and maritalstatus < 4 and relationship > 3 and sex != 1 
+compilation time: 0.722894ms
+Execution time: 0.200367ms
+SELECT id FROM data WHERE workclass != 4 and sex >= 0 
+compilation time: 0.328985ms
+Execution time: 0.321469ms
+SELECT id FROM data WHERE relationship >= 3 and capitalloss != 77 and educationnum > 2  
+compilation time: 0.487687ms
+Execution time: 0.188388ms
+SELECT id FROM data WHERE race != 1 and hoursperweek = 91 and nativecountry != 10 
+compilation time: 0.493554ms
+Execution time: 0.289234ms
+SELECT id FROM data WHERE age >= 25 and education = 6 and educationnum > 14 and occupation = 0 and nativecountry = 3 
+compilation time: 0.821378ms
+Execution time: 0.351376ms
+SELECT id FROM data WHERE workclass >= 0 and educationnum <= 12 and maritalstatus >= 4 and race = 1 and sex >= 0 and capitalloss = 23 
+compilation time: 1.00612ms
+Execution time: 0.225606ms
+SELECT id FROM data WHERE education = 11 and workclass != 7 and age < 27  
+compilation time: 0.49317ms
+Execution time: 0.199234ms
+SELECT id FROM data WHERE workclass > 3 and education <= 4 and sex <= 0 and nativecountry >= 38 
+compilation time: 0.673234ms
+Execution time: 0.28384ms
+SELECT id FROM data WHERE sex < 0 and hoursperweek = 21 and nativecountry < 10 
+compilation time: 0.518301ms
+Execution time: 0.199695ms
+SELECT id FROM data WHERE education <= 4 and educationnum != 13 and race <= 0 and capitalgain = 96 
+compilation time: 0.666966ms
+Execution time: 0.211269ms
+SELECT id FROM data WHERE nativecountry > 20 and maritalstatus < 3 and sex != 0 and nativecountry > 3  
+compilation time: 0.674926ms
+Execution time: 0.206371ms
+SELECT id FROM data WHERE age >= 31 and capitalloss != 62  
+compilation time: 0.324232ms
+Execution time: 0.208472ms
+SELECT id FROM data WHERE age <= 27 and workclass > 3 and capitalgain < 29 and capitalloss != 19 
+compilation time: 0.670492ms
+Execution time: 0.302006ms
+SELECT id FROM data WHERE educationnum != 6 and maritalstatus < 6 and occupation = 11 and race != 0 and capitalloss <= 93 and hoursperweek = 18 and nativecountry > 14 
+compilation time: 1.17071ms
+Execution time: 0.369156ms
+SELECT id FROM data WHERE occupation != 8 and race != 3 and sex = 0 and nativecountry <= 12 
+compilation time: 0.697128ms
+Execution time: 0.23393ms
+SELECT id FROM data WHERE sex = 0 and capitalloss >= 28 
+compilation time: 0.326438ms
+Execution time: 0.215514ms
+SELECT id FROM data WHERE education >= 4 and sex != 0 and capitalgain >= 51 and capitalloss <= 3 
+compilation time: 0.735644ms
+Execution time: 0.235047ms
+SELECT id FROM data WHERE education <= 9 and sex > 0 and hoursperweek != 13 
+compilation time: 0.504713ms
+Execution time: 0.393091ms
+SELECT id FROM data WHERE age < 72 and educationnum != 8 and occupation > 3 and relationship <= 2 and race < 1 and capitalloss > 85 
+compilation time: 1.02242ms
+Execution time: 0.352022ms
+SELECT id FROM data WHERE race != 3 and capitalgain > 33 
+compilation time: 0.344464ms
+Execution time: 0.194867ms
+SELECT id FROM data WHERE age <= 10 and educationnum > 13 and nativecountry >= 12 
+compilation time: 0.505047ms
+Execution time: 0.261861ms
+SELECT id FROM data WHERE educationnum = 0 and capitalloss > 83 and hoursperweek = 45 
+compilation time: 0.507461ms
+Execution time: 0.228399ms
+SELECT id FROM data WHERE age > 48 and education > 3 and educationnum != 10 and capitalloss <= 9 
+compilation time: 0.672985ms
+Execution time: 0.248135ms
+SELECT id FROM data WHERE workclass < 2 and educationnum < 12 and race <= 0 and sex != 1 and capitalgain = 111 and capitalloss <= 68 
+compilation time: 1.0131ms
+Execution time: 0.246659ms
+SELECT id FROM data WHERE educationnum != 9 and maritalstatus <= 1 and occupation < 8 and relationship >= 5 
+compilation time: 0.679167ms
+Execution time: 0.275269ms
+SELECT id FROM data WHERE education >= 6 and educationnum = 12 and relationship < 4 and race != 0 and hoursperweek > 93 and nativecountry < 24 
+compilation time: 1.01287ms
+Execution time: 0.357707ms
+SELECT id FROM data WHERE age = 10 and education < 1 and sex > 1 and capitalloss > 93 
+compilation time: 0.679151ms
+Execution time: 0.328927ms
+SELECT id FROM data WHERE race <= 2 and capitalgain >= 121 and capitalloss != 0 
+compilation time: 0.54258ms
+Execution time: 0.201169ms
+SELECT id FROM data WHERE workclass >= 5 and relationship < 0 and race = 4 and hoursperweek > 9 
+compilation time: 0.713992ms
+Execution time: 0.234729ms
+SELECT id FROM data WHERE workclass <= 5 and maritalstatus != 2 and relationship < 1 and sex > 0 and capitalloss = 18 and nativecountry != 28 
+compilation time: 1.01116ms
+Execution time: 0.251264ms
+SELECT id FROM data WHERE workclass <= 1 and education >= 6 and maritalstatus >= 6 and occupation != 2 and sex < 0 and capitalgain > 4 and nativecountry <= 0 
+compilation time: 1.18684ms
+Execution time: 0.253465ms
+SELECT id FROM data WHERE relationship > 1  
+compilation time: 0.148107ms
+Execution time: 0.200176ms
+SELECT id FROM data WHERE age >= 11 and capitalgain <= 86 
+compilation time: 0.329707ms
+Execution time: 0.35501ms
+SELECT id FROM data WHERE age >= 20 and education = 13 and race = 2 
+compilation time: 0.510529ms
+Execution time: 0.333669ms
+SELECT id FROM data WHERE workclass <= 7 and relationship <= 3 and sex >= 1 
+compilation time: 0.529805ms
+Execution time: 0.340589ms
+SELECT id FROM data WHERE age = 63 and occupation <= 9 and race < 2 and nativecountry = 17 
+compilation time: 0.767951ms
+Execution time: 0.227022ms
+SELECT id FROM data WHERE age != 6 and education = 10 and occupation > 8 and relationship < 3 and sex >= 0 and hoursperweek = 86 
+compilation time: 0.979173ms
+Execution time: 0.288912ms
+SELECT id FROM data WHERE age > 38 and educationnum = 11 and occupation = 1 and relationship != 1 and capitalloss = 51 and hoursperweek = 59 and nativecountry = 37 
+compilation time: 1.15266ms
+Execution time: 0.355368ms
+SELECT id FROM data WHERE sex = 0  
+compilation time: 0.182708ms
+Execution time: 0.298667ms
+SELECT id FROM data WHERE occupation != 9 and capitalloss = 46 
+compilation time: 0.344408ms
+Execution time: 0.330013ms
+SELECT id FROM data WHERE maritalstatus != 3 and occupation != 11 and hoursperweek < 48 
+compilation time: 0.51181ms
+Execution time: 0.311531ms
+SELECT id FROM data WHERE capitalgain <= 34 and maritalstatus >= 3 and hoursperweek != 89  
+compilation time: 0.524442ms
+Execution time: 0.225228ms
+SELECT id FROM data WHERE workclass <= 3 and education < 5 and relationship >= 3 
+compilation time: 0.506572ms
+Execution time: 0.225413ms
+SELECT id FROM data WHERE age = 25 and occupation > 10 and capitalgain = 105 and capitalloss > 3 and nativecountry <= 2 
+compilation time: 0.836517ms
+Execution time: 0.2453ms
+SELECT id FROM data WHERE capitalgain = 102 and nativecountry < 4 
+compilation time: 0.32589ms
+Execution time: 0.280031ms
+SELECT id FROM data WHERE age = 15 and education > 11 and educationnum <= 6 and sex >= 0 and capitalgain > 83 
+compilation time: 0.900222ms
+Execution time: 0.340628ms
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and sex = 0 
+compilation time: 0.520605ms
+Execution time: 0.197844ms
+SELECT id FROM data WHERE education != 10 and educationnum >= 2 and occupation <= 2 and capitalgain != 23 
+compilation time: 0.660293ms
+Execution time: 0.23411ms
+SELECT id FROM data WHERE occupation != 3 and capitalgain <= 47 and capitalloss <= 7 
+compilation time: 0.500808ms
+Execution time: 0.22824ms
+SELECT id FROM data WHERE educationnum != 10 and capitalloss > 50 
+compilation time: 0.326407ms
+Execution time: 0.216369ms
+SELECT id FROM data WHERE age != 70 and workclass < 1 and maritalstatus = 3 and relationship != 3 and race != 1 and nativecountry <= 0 
+compilation time: 1.04276ms
+Execution time: 0.249496ms
+SELECT id FROM data WHERE workclass < 8 and educationnum > 5 and maritalstatus > 3 and sex > 0 and capitalgain <= 66 
+compilation time: 0.846268ms
+Execution time: 0.246615ms
+SELECT id FROM data WHERE workclass > 1 and education <= 10 and educationnum < 4 and maritalstatus = 5 and relationship = 1 and capitalloss != 48 
+compilation time: 1.00361ms
+Execution time: 0.27592ms
+SELECT id FROM data WHERE maritalstatus < 5 and occupation <= 5 and sex = 0 and capitalloss <= 38 
+compilation time: 0.675972ms
+Execution time: 0.244418ms
+SELECT id FROM data WHERE education >= 13 and relationship >= 4 and capitalloss <= 66 and nativecountry > 40 
+compilation time: 0.679924ms
+Execution time: 0.321192ms
+SELECT id FROM data WHERE workclass != 8 and education >= 14 and relationship > 5 and capitalgain = 86 and nativecountry >= 5 
+compilation time: 0.863341ms
+Execution time: 0.341681ms
+SELECT id FROM data WHERE age > 64 and maritalstatus = 3 and occupation = 14 and sex > 1 and capitalgain < 114 and capitalloss >= 11 
+compilation time: 1.01728ms
+Execution time: 0.355769ms
+SELECT id FROM data WHERE age > 32 and educationnum > 12 and occupation != 5 and race = 0 and capitalgain = 113 and hoursperweek != 54 
+compilation time: 1.03848ms
+Execution time: 0.344767ms
+SELECT id FROM data WHERE education > 5 and relationship <= 1 and capitalgain >= 27 and capitalloss > 72 
+compilation time: 0.697474ms
+Execution time: 0.370614ms
+SELECT id FROM data WHERE workclass <= 7 and education >= 1 and sex < 1 and hoursperweek >= 56 
+compilation time: 0.697449ms
+Execution time: 0.330009ms
+SELECT id FROM data WHERE age >= 22 and educationnum = 10 and relationship != 3 and hoursperweek != 53 
+compilation time: 0.714141ms
+Execution time: 0.343688ms
+SELECT id FROM data WHERE sex = 0  
+compilation time: 0.176304ms
+Execution time: 0.294115ms
+SELECT id FROM data WHERE capitalloss != 62 
+compilation time: 0.173516ms
+Execution time: 0.309826ms
+SELECT id FROM data WHERE capitalloss < 94 and relationship >= 3  
+compilation time: 0.340527ms
+Execution time: 0.213525ms
+SELECT id FROM data WHERE education > 6 and sex >= 1 and nativecountry > 37 
+compilation time: 0.487798ms
+Execution time: 0.229021ms
+SELECT id FROM data WHERE relationship < 5 and race <= 3 
+compilation time: 0.327925ms
+Execution time: 0.216367ms
+SELECT id FROM data WHERE age > 33 and educationnum <= 10 and maritalstatus = 0 and hoursperweek = 82 
+compilation time: 0.66844ms
+Execution time: 0.29934ms
+SELECT id FROM data WHERE age >= 16 and educationnum >= 10 and occupation != 10 and capitalgain != 35 
+compilation time: 0.812257ms
+Execution time: 0.329747ms
+SELECT id FROM data WHERE race <= 4 and capitalloss = 86 
+compilation time: 0.298532ms
+Execution time: 0.275523ms
+SELECT id FROM data WHERE education <= 9 and educationnum < 8 and race <= 2 and sex > 0 and hoursperweek < 38 
+compilation time: 0.829293ms
+Execution time: 0.268246ms
+SELECT id FROM data WHERE age > 26 and educationnum >= 10 and maritalstatus > 3 and occupation = 3 and capitalloss < 47 
+compilation time: 0.950975ms
+Execution time: 0.245436ms
+SELECT id FROM data WHERE workclass < 4 and educationnum >= 14 and maritalstatus >= 1 and occupation = 14 and race > 1 and sex != 0 and capitalgain != 90 
+compilation time: 1.21419ms
+Execution time: 0.259662ms
+SELECT id FROM data WHERE age <= 20 and educationnum >= 2 and occupation != 9 and race >= 3 and sex < 0 
+compilation time: 0.82748ms
+Execution time: 0.238416ms
+SELECT id FROM data WHERE workclass != 6 
+compilation time: 0.115157ms
+Execution time: 0.270571ms
+SELECT id FROM data WHERE nativecountry > 30 and maritalstatus >= 4  
+compilation time: 0.299034ms
+Execution time: 0.281085ms
+SELECT id FROM data WHERE workclass > 6 and maritalstatus < 2 and occupation < 5 and relationship > 0 and nativecountry = 20 
+compilation time: 0.825448ms
+Execution time: 0.244466ms
+SELECT id FROM data WHERE workclass < 7 
+compilation time: 0.14347ms
+Execution time: 0.201833ms
+SELECT id FROM data WHERE age != 10 and workclass <= 5 and maritalstatus > 4 and occupation <= 1 
+compilation time: 0.644998ms
+Execution time: 0.209975ms
+SELECT id FROM data WHERE maritalstatus = 6 and capitalgain < 82 
+compilation time: 0.28824ms
+Execution time: 0.215156ms
+SELECT id FROM data WHERE education = 3 and capitalloss > 55 
+compilation time: 0.292602ms
+Execution time: 0.227591ms
+SELECT id FROM data WHERE capitalgain <= 15 and relationship <= 1  
+compilation time: 0.296987ms
+Execution time: 0.256849ms
+SELECT id FROM data WHERE educationnum >= 4 and educationnum > 8  
+compilation time: 0.297586ms
+Execution time: 0.218381ms
+SELECT id FROM data WHERE sex <= 0 and capitalloss <= 42 and workclass >= 3 and capitalloss < 93  
+compilation time: 0.643953ms
+Execution time: 0.233972ms
+SELECT id FROM data WHERE age >= 21 and workclass <= 8 and maritalstatus = 4 and race = 4 
+compilation time: 0.636932ms
+Execution time: 0.236118ms
+SELECT id FROM data WHERE age >= 11 and education > 9 and educationnum >= 10 and occupation = 10 and race <= 3 
+compilation time: 0.812112ms
+Execution time: 0.291449ms
+SELECT id FROM data WHERE education >= 7 and race = 0 and capitalloss < 70 and hoursperweek <= 67 and nativecountry >= 0 
+compilation time: 0.860019ms
+Execution time: 0.235324ms
+SELECT id FROM data WHERE education != 1 and relationship <= 1 and race > 3 
+compilation time: 0.683227ms
+Execution time: 0.329424ms
+SELECT id FROM data WHERE occupation != 1 and sex < 1 and nativecountry != 14 
+compilation time: 0.472217ms
+Execution time: 0.223134ms
+SELECT id FROM data WHERE education < 11 and relationship >= 5 
+compilation time: 0.298446ms
+Execution time: 0.217114ms
+SELECT id FROM data WHERE education >= 3 and sex >= 0 and occupation <= 3  
+compilation time: 0.469666ms
+Execution time: 0.245588ms
+SELECT id FROM data WHERE age != 25 and workclass >= 5 and maritalstatus <= 2 and relationship < 1 and hoursperweek > 60 
+compilation time: 0.87092ms
+Execution time: 0.343709ms
+SELECT id FROM data WHERE workclass >= 3 and education > 11 and occupation > 6 and race < 1 and capitalgain != 95 
+compilation time: 0.842747ms
+Execution time: 0.316137ms
+SELECT id FROM data WHERE education = 0 and maritalstatus >= 1 and race <= 0 and sex > 0 
+compilation time: 0.660515ms
+Execution time: 0.233491ms
+SELECT id FROM data WHERE age < 12 and sex >= 0 and capitalgain <= 103 and nativecountry = 41 
+compilation time: 0.657423ms
+Execution time: 0.268466ms
+SELECT id FROM data WHERE maritalstatus < 6 and relationship != 2 and race > 2 and sex != 1 
+compilation time: 0.641971ms
+Execution time: 0.29027ms
+SELECT id FROM data WHERE workclass = 6 and education > 12 and educationnum <= 14 and relationship = 3 and race >= 2 
+compilation time: 0.826498ms
+Execution time: 0.224225ms
+SELECT id FROM data WHERE maritalstatus != 5 and nativecountry <= 30 
+compilation time: 0.318452ms
+Execution time: 0.216581ms
+SELECT id FROM data WHERE workclass >= 3 and educationnum >= 2 and maritalstatus <= 2 and race != 1 and sex = 0 and capitalloss <= 72 and hoursperweek = 73 
+compilation time: 1.09933ms
+Execution time: 0.278553ms
+SELECT id FROM data WHERE workclass != 4 and maritalstatus < 5 and relationship <= 0 and capitalgain <= 33 
+compilation time: 0.643781ms
+Execution time: 0.218241ms
+SELECT id FROM data WHERE age != 53 and maritalstatus > 2 and relationship >= 1 and race <= 4 and hoursperweek >= 53 
+compilation time: 0.801534ms
+Execution time: 0.202606ms
+SELECT id FROM data WHERE education <= 0 and educationnum <= 8 and occupation >= 8 and race > 2 and hoursperweek != 13 
+compilation time: 0.788117ms
+Execution time: 0.222626ms
+SELECT id FROM data WHERE workclass <= 5 and education <= 10 
+compilation time: 0.330215ms
+Execution time: 0.266193ms
+SELECT id FROM data WHERE workclass > 6 and maritalstatus != 4 and occupation <= 12 and nativecountry = 0 
+compilation time: 0.672133ms
+Execution time: 0.259729ms
+SELECT id FROM data WHERE workclass >= 8 and occupation >= 10 and relationship = 2 and capitalgain >= 91 and nativecountry != 14 
+compilation time: 0.800824ms
+Execution time: 0.292604ms
+SELECT id FROM data WHERE occupation >= 4 and maritalstatus != 2  
+compilation time: 0.331314ms
+Execution time: 0.199673ms
+SELECT id FROM data WHERE educationnum = 10 and maritalstatus <= 3 and occupation != 3 and race <= 2 
+compilation time: 0.634246ms
+Execution time: 0.222205ms
+SELECT id FROM data WHERE relationship <= 0 and race != 1 
+compilation time: 0.308716ms
+Execution time: 0.177254ms
+SELECT id FROM data WHERE age < 26 and workclass != 1 and maritalstatus != 3 and relationship < 0 
+compilation time: 0.761367ms
+Execution time: 0.28818ms
+SELECT id FROM data WHERE age != 17 and education >= 5 and occupation >= 2 and capitalloss > 31 and hoursperweek < 56 
+compilation time: 0.797952ms
+Execution time: 0.289124ms
+SELECT id FROM data WHERE age != 55 and workclass <= 1 and race < 4 and capitalgain < 66 
+compilation time: 0.641553ms
+Execution time: 0.190228ms
+SELECT id FROM data WHERE maritalstatus = 2 and capitalgain <= 118 
+compilation time: 0.295621ms
+Execution time: 0.198053ms
+SELECT id FROM data WHERE age != 30 and education = 12 and maritalstatus >= 5 and sex >= 1 
+compilation time: 0.69932ms
+Execution time: 0.192514ms
+SELECT id FROM data WHERE capitalgain = 59 and nativecountry >= 12 
+compilation time: 0.294966ms
+Execution time: 0.174676ms
+SELECT id FROM data WHERE education >= 8 and maritalstatus != 2 and capitalgain <= 35  
+compilation time: 0.461688ms
+Execution time: 0.225996ms
+SELECT id FROM data WHERE workclass != 2 and educationnum > 6 and relationship <= 1 and race < 4 and capitalloss > 22 and nativecountry = 2 
+compilation time: 0.956839ms
+Execution time: 0.238498ms
+SELECT id FROM data WHERE workclass < 4 and nativecountry > 4 
+compilation time: 0.373023ms
+Execution time: 0.198239ms
+SELECT id FROM data WHERE workclass < 1 and maritalstatus <= 6 and relationship = 5 and capitalgain > 58 
+compilation time: 0.720051ms
+Execution time: 0.220473ms
+SELECT id FROM data WHERE educationnum <= 15 and maritalstatus = 5 and sex <= 1 and nativecountry >= 33 
+compilation time: 0.637593ms
+Execution time: 0.28893ms
+SELECT id FROM data WHERE workclass > 2 and maritalstatus != 3 and capitalgain != 21 and capitalloss != 26 and hoursperweek = 33 
+compilation time: 0.795617ms
+Execution time: 0.227708ms
+SELECT id FROM data WHERE maritalstatus <= 4 and nativecountry >= 34 and capitalgain <= 70 and educationnum = 8  
+compilation time: 0.637916ms
+Execution time: 0.193128ms
+SELECT id FROM data WHERE age = 43 and education <= 10 and educationnum >= 1 and occupation < 5 and race <= 0 and capitalgain >= 41 
+compilation time: 1.00664ms
+Execution time: 0.227939ms
+SELECT id FROM data WHERE age >= 35 and workclass != 0 and education >= 2 and maritalstatus >= 5 and race > 4 and hoursperweek >= 2 
+compilation time: 0.966904ms
+Execution time: 0.228922ms
+SELECT id FROM data WHERE age <= 29 and sex <= 1 and nativecountry = 7 
+compilation time: 0.546489ms
+Execution time: 0.274366ms
+SELECT id FROM data WHERE workclass != 8 and educationnum > 8 and capitalloss = 85 and nativecountry >= 27 
+compilation time: 0.726004ms
+Execution time: 0.311276ms
+SELECT id FROM data WHERE workclass < 0 and relationship != 3 and race = 0 and capitalloss = 95 and hoursperweek <= 15 
+compilation time: 0.836569ms
+Execution time: 0.196657ms
+SELECT id FROM data WHERE educationnum != 9 and maritalstatus < 4 and occupation <= 8 and race <= 0 
+compilation time: 0.682745ms
+Execution time: 0.189121ms
+SELECT id FROM data WHERE age > 19 
+compilation time: 0.12977ms
+Execution time: 0.395968ms
+SELECT id FROM data WHERE education > 3 and relationship != 1 and capitalloss > 56 and hoursperweek >= 42 
+compilation time: 0.661586ms
+Execution time: 0.313939ms
+SELECT id FROM data WHERE workclass <= 3 and occupation >= 5 
+compilation time: 0.323163ms
+Execution time: 0.200347ms
+SELECT id FROM data WHERE capitalgain != 11 and occupation != 3 and capitalloss <= 22 and relationship >= 3  
+compilation time: 0.701174ms
+Execution time: 0.236983ms
+SELECT id FROM data WHERE education = 6 and educationnum = 4 and maritalstatus = 0 and nativecountry > 8 
+compilation time: 0.632606ms
+Execution time: 0.235703ms
+SELECT id FROM data WHERE age > 17 and educationnum = 13 and maritalstatus = 1 and relationship > 3 and race > 3 and capitalgain >= 113 and hoursperweek != 43 and nativecountry != 5 
+compilation time: 1.64645ms
+Execution time: 0.26978ms
+SELECT id FROM data WHERE capitalgain = 62 and hoursperweek < 10 
+compilation time: 0.328964ms
+Execution time: 0.316577ms
+SELECT id FROM data WHERE age < 24 and maritalstatus <= 0 and relationship <= 4 and race >= 0 and capitalloss != 51 
+compilation time: 0.863358ms
+Execution time: 0.341182ms
+SELECT id FROM data WHERE sex = 0 and capitalgain != 45 
+compilation time: 0.315428ms
+Execution time: 0.239122ms
+SELECT id FROM data WHERE education >= 9 and educationnum < 8 and race = 2 and capitalgain = 66 
+compilation time: 0.658864ms
+Execution time: 0.236772ms
+SELECT id FROM data WHERE education >= 0 and capitalloss < 96 
+compilation time: 0.316922ms
+Execution time: 0.217273ms
+SELECT id FROM data WHERE education != 7 and educationnum != 3 and relationship > 1 and capitalgain >= 101 and hoursperweek != 83 
+compilation time: 0.859916ms
+Execution time: 0.245724ms
+SELECT id FROM data WHERE education <= 6 and relationship != 4 and capitalgain <= 7 and nativecountry <= 41 
+compilation time: 0.643839ms
+Execution time: 0.26372ms
+SELECT id FROM data WHERE educationnum = 11 and relationship > 4 
+compilation time: 0.316619ms
+Execution time: 0.255692ms
+SELECT id FROM data WHERE workclass = 4 and education >= 15 and capitalgain = 23 and hoursperweek != 73 and nativecountry = 9 
+compilation time: 0.81931ms
+Execution time: 0.245117ms
+SELECT id FROM data WHERE educationnum = 10 and capitalgain != 87 
+compilation time: 0.315022ms
+Execution time: 0.189268ms
+SELECT id FROM data WHERE workclass < 0 and occupation >= 14 
+compilation time: 0.310949ms
+Execution time: 0.208654ms
+SELECT id FROM data WHERE age <= 66 and workclass != 1 and education <= 13 and maritalstatus = 6 and occupation <= 11 and sex = 1 
+compilation time: 1.01667ms
+Execution time: 0.253516ms
+SELECT id FROM data WHERE workclass <= 7 and occupation = 1 and relationship < 2 and race <= 0 and capitalgain != 50 and capitalloss = 85 
+compilation time: 0.975592ms
+Execution time: 0.251457ms
+SELECT id FROM data WHERE age < 73 
+compilation time: 0.157395ms
+Execution time: 0.203529ms
+SELECT id FROM data WHERE occupation != 9 and nativecountry > 31 and workclass <= 6 and relationship < 4 and relationship = 1  
+compilation time: 0.864065ms
+Execution time: 0.242366ms
+SELECT id FROM data WHERE age <= 68 and race > 1 and sex > 0 and nativecountry != 10 
+compilation time: 0.645073ms
+Execution time: 0.242069ms
+SELECT id FROM data WHERE workclass >= 8 and education >= 10 and maritalstatus <= 5 and occupation < 11 and relationship < 4 and race = 0 and sex >= 1 and capitalloss < 6 
+compilation time: 1.3767ms
+Execution time: 0.350901ms
+SELECT id FROM data WHERE age <= 52 and hoursperweek = 48 
+compilation time: 0.355274ms
+Execution time: 0.23132ms
+SELECT id FROM data WHERE workclass <= 5 and educationnum > 12 and sex != 0 and capitalgain != 2 
+compilation time: 0.677977ms
+Execution time: 0.22562ms
+SELECT id FROM data WHERE workclass <= 5 and occupation < 3 and relationship > 2 and capitalloss = 95 
+compilation time: 0.660679ms
+Execution time: 0.230552ms
+SELECT id FROM data WHERE sex = 0 and workclass >= 3 and hoursperweek >= 19 and education > 7  
+compilation time: 0.656295ms
+Execution time: 0.228119ms
+SELECT id FROM data WHERE race != 1 and relationship < 4 and race != 1 and relationship >= 1  
+compilation time: 0.656552ms
+Execution time: 0.340847ms
+SELECT id FROM data WHERE relationship > 4 and nativecountry <= 30 
+compilation time: 0.368069ms
+Execution time: 0.301976ms
+SELECT id FROM data WHERE age < 35 and education < 4 and educationnum < 15 and capitalloss >= 11 and hoursperweek > 68 
+compilation time: 0.854555ms
+Execution time: 0.304874ms
+SELECT id FROM data WHERE educationnum < 10 and race <= 0 and sex >= 1 and hoursperweek = 2 
+compilation time: 0.709063ms
+Execution time: 0.318328ms
+SELECT id FROM data WHERE race > 2 and capitalloss != 21 
+compilation time: 0.364483ms
+Execution time: 0.270752ms
+SELECT id FROM data WHERE workclass >= 0 and educationnum = 13 and maritalstatus <= 6 and capitalgain <= 69 and capitalloss = 16 and hoursperweek = 1 
+compilation time: 1.03708ms
+Execution time: 0.329579ms
+SELECT id FROM data WHERE educationnum = 5 and sex != 0 and capitalloss < 38 and hoursperweek = 80 
+compilation time: 0.684155ms
+Execution time: 0.238375ms
+SELECT id FROM data WHERE educationnum >= 12 and race <= 0 and sex <= 0 
+compilation time: 0.498482ms
+Execution time: 0.232114ms
+SELECT id FROM data WHERE maritalstatus <= 6 and race > 2 and hoursperweek = 25 and nativecountry != 23 
+compilation time: 0.681381ms
+Execution time: 0.234026ms
+SELECT id FROM data WHERE workclass <= 0 and occupation != 7 and relationship != 5 and nativecountry < 14 
+compilation time: 0.686544ms
+Execution time: 0.307239ms
+SELECT id FROM data WHERE age = 50 and education <= 7 and occupation = 8 and sex >= 0 
+compilation time: 0.681008ms
+Execution time: 0.312275ms
+SELECT id FROM data WHERE workclass > 3 and sex > 1 
+compilation time: 0.329639ms
+Execution time: 0.2954ms
+SELECT id FROM data WHERE maritalstatus < 3 and relationship > 4 and capitalgain > 23 and capitalloss <= 72 and nativecountry >= 26 
+compilation time: 0.86007ms
+Execution time: 0.311149ms
+SELECT id FROM data WHERE age < 60 and workclass = 4 and education >= 2 and race >= 4 
+compilation time: 0.715935ms
+Execution time: 0.322376ms
+SELECT id FROM data WHERE nativecountry < 40 and sex >= 0 and maritalstatus >= 3  
+compilation time: 0.503875ms
+Execution time: 0.36708ms
+SELECT id FROM data WHERE relationship = 1 and capitalgain > 103 
+compilation time: 0.313177ms
+Execution time: 0.22571ms
+SELECT id FROM data WHERE age = 5 and education >= 9 and maritalstatus > 4 and occupation <= 12 and race = 1 and nativecountry > 41 
+compilation time: 1.13788ms
+Execution time: 0.2632ms
+SELECT id FROM data WHERE maritalstatus = 3 and race > 2 
+compilation time: 0.312074ms
+Execution time: 0.222167ms
+SELECT id FROM data WHERE educationnum = 7 and occupation != 3 and relationship > 2 
+compilation time: 0.508863ms
+Execution time: 0.23116ms
+SELECT id FROM data WHERE maritalstatus < 3 and educationnum < 9  
+compilation time: 0.315182ms
+Execution time: 0.307246ms
+SELECT id FROM data WHERE workclass <= 8 and occupation <= 4 and capitalgain != 69 and hoursperweek > 10 
+compilation time: 0.685437ms
+Execution time: 0.365486ms
+SELECT id FROM data WHERE age <= 6 and education <= 5 and educationnum < 0 and relationship = 3 and sex <= 0 
+compilation time: 0.852206ms
+Execution time: 0.230761ms
+SELECT id FROM data WHERE age < 70 and maritalstatus = 5 and relationship < 4 
+compilation time: 0.486133ms
+Execution time: 0.209786ms
+SELECT id FROM data WHERE maritalstatus > 4 and relationship >= 5 and sex < 1 
+compilation time: 0.489166ms
+Execution time: 0.228598ms
+SELECT id FROM data WHERE workclass = 2 and race <= 0 and capitalgain <= 1 and capitalloss > 89 and nativecountry <= 40 
+compilation time: 0.863246ms
+Execution time: 0.250571ms
+SELECT id FROM data WHERE maritalstatus >= 3 and relationship = 2 
+compilation time: 0.312269ms
+Execution time: 0.215691ms
+SELECT id FROM data WHERE age < 44 and educationnum != 0 and relationship > 4 and sex != 1 and capitalgain < 17 and capitalloss <= 61 and hoursperweek >= 11 and nativecountry <= 27 
+compilation time: 1.4322ms
+Execution time: 0.262862ms
+SELECT id FROM data WHERE maritalstatus < 4 and capitalgain > 117 
+compilation time: 0.304973ms
+Execution time: 0.209006ms
+SELECT id FROM data WHERE workclass <= 7 and hoursperweek <= 77 and nativecountry = 35 
+compilation time: 0.483895ms
+Execution time: 0.217842ms
+SELECT id FROM data WHERE age != 52 and educationnum <= 8 and occupation <= 0 
+compilation time: 0.484231ms
+Execution time: 0.216794ms
+SELECT id FROM data WHERE education <= 11 and relationship < 2 and capitalloss < 7 and hoursperweek != 67 and nativecountry != 29 
+compilation time: 0.843382ms
+Execution time: 0.351023ms
+SELECT id FROM data WHERE relationship <= 1 and race > 2 and sex < 0 and capitalloss <= 22 
+compilation time: 0.69792ms
+Execution time: 0.288507ms
+SELECT id FROM data WHERE capitalgain != 71 
+compilation time: 0.130824ms
+Execution time: 0.286069ms
+SELECT id FROM data WHERE occupation = 14 and relationship <= 5 and capitalgain <= 9 and capitalloss < 2 and nativecountry != 18 
+compilation time: 0.845362ms
+Execution time: 0.302896ms
+SELECT id FROM data WHERE occupation > 5 and race >= 4 
+compilation time: 0.335358ms
+Execution time: 0.199118ms
+SELECT id FROM data WHERE age <= 2 and maritalstatus = 1 and race <= 2 and capitalgain >= 37 and capitalloss > 29 
+compilation time: 0.844033ms
+Execution time: 0.321157ms
+SELECT id FROM data WHERE workclass < 5 and capitalgain < 56 and sex > 0 and maritalstatus != 2  
+compilation time: 0.696056ms
+Execution time: 0.308568ms
+SELECT id FROM data WHERE age < 6 and educationnum >= 14 and maritalstatus >= 3 and capitalgain >= 34 and nativecountry >= 22 
+compilation time: 0.862855ms
+Execution time: 0.213183ms
+SELECT id FROM data WHERE age != 4 and race = 3 and capitalloss != 38 and hoursperweek < 87 
+compilation time: 0.657939ms
+Execution time: 0.329374ms
+SELECT id FROM data WHERE workclass = 3 
+compilation time: 0.176957ms
+Execution time: 0.294319ms
+SELECT id FROM data WHERE workclass < 5 and maritalstatus >= 4 and relationship <= 1 and sex >= 0 and hoursperweek <= 10 
+compilation time: 0.919808ms
+Execution time: 0.337711ms
+SELECT id FROM data WHERE age = 5 and occupation = 3 and sex >= 1 and capitalloss >= 38 
+compilation time: 0.689138ms
+Execution time: 0.225428ms
+SELECT id FROM data WHERE occupation != 13 and sex <= 1 and capitalgain < 62 
+compilation time: 0.505113ms
+Execution time: 0.230751ms
+SELECT id FROM data WHERE age >= 24 and education <= 4 and educationnum = 14 and relationship != 1 and hoursperweek = 63 
+compilation time: 0.875357ms
+Execution time: 0.326823ms
+SELECT id FROM data WHERE age >= 26 and education <= 3 and maritalstatus != 3 and capitalgain > 87 and nativecountry > 39 
+compilation time: 0.931872ms
+Execution time: 0.338993ms
+SELECT id FROM data WHERE workclass > 1 and educationnum != 0 and maritalstatus != 2 and capitalloss = 77 and nativecountry > 13 
+compilation time: 0.858444ms
+Execution time: 0.341328ms
+SELECT id FROM data WHERE occupation != 4 and capitalgain >= 7 and capitalloss > 19 
+compilation time: 0.518085ms
+Execution time: 0.323931ms
+SELECT id FROM data WHERE maritalstatus <= 5 and capitalgain != 72 and hoursperweek > 23 and nativecountry >= 33 
+compilation time: 0.688934ms
+Execution time: 0.282223ms
+SELECT id FROM data WHERE workclass = 4 
+compilation time: 0.195394ms
+Execution time: 0.312418ms
+SELECT id FROM data WHERE workclass > 8 and relationship = 5 and capitalgain < 18 
+compilation time: 0.506847ms
+Execution time: 0.272413ms
+SELECT id FROM data WHERE education <= 11 
+compilation time: 0.182679ms
+Execution time: 0.263562ms
+SELECT id FROM data WHERE educationnum <= 14 and relationship > 4 and race <= 3 and sex >= 0 and capitalgain > 68 
+compilation time: 0.849377ms
+Execution time: 0.205837ms
+SELECT id FROM data WHERE race <= 0 and hoursperweek = 64 and nativecountry <= 13 
+compilation time: 0.506875ms
+Execution time: 0.211689ms
+SELECT id FROM data WHERE age > 20 and workclass = 6 and capitalloss > 26 
+compilation time: 0.485192ms
+Execution time: 0.263371ms
+SELECT id FROM data WHERE workclass != 4 and relationship != 0 and hoursperweek <= 70 and nativecountry = 35 
+compilation time: 0.653739ms
+Execution time: 0.230281ms
+SELECT id FROM data WHERE workclass <= 2 and educationnum > 7 and relationship >= 0 and sex <= 1 
+compilation time: 0.716609ms
+Execution time: 0.232887ms
+SELECT id FROM data WHERE age <= 49 and workclass <= 2 and educationnum >= 3 and relationship = 3 and capitalgain = 11 
+compilation time: 0.841019ms
+Execution time: 0.24054ms
+SELECT id FROM data WHERE sex = 0 and sex >= 0 and occupation != 3  
+compilation time: 0.499305ms
+Execution time: 0.246726ms
+SELECT id FROM data WHERE occupation >= 5 and nativecountry > 36 
+compilation time: 0.364787ms
+Execution time: 0.315088ms
+SELECT id FROM data WHERE workclass > 6 and relationship <= 3 and sex <= 1 and hoursperweek <= 71 
+compilation time: 0.705907ms
+Execution time: 0.252996ms
+SELECT id FROM data WHERE maritalstatus = 5 and capitalloss <= 32 
+compilation time: 0.324712ms
+Execution time: 0.362185ms
+SELECT id FROM data WHERE occupation < 3 and nativecountry > 26 
+compilation time: 0.360151ms
+Execution time: 0.216374ms
+SELECT id FROM data WHERE occupation = 12 and relationship != 1 and nativecountry > 7 
+compilation time: 0.496815ms
+Execution time: 0.254259ms
+SELECT id FROM data WHERE age != 16 and maritalstatus != 4 and relationship >= 5 and race != 4 and hoursperweek <= 6 
+compilation time: 0.934219ms
+Execution time: 0.388987ms
+SELECT id FROM data WHERE maritalstatus > 0 and capitalgain < 117 and occupation > 5  
+compilation time: 0.536005ms
+Execution time: 0.329127ms
+SELECT id FROM data WHERE age < 34 and workclass != 6 and education != 11 and race != 1 
+compilation time: 0.683712ms
+Execution time: 0.395243ms
+SELECT id FROM data WHERE age > 58 and workclass <= 1 and education <= 2 and maritalstatus < 6 and occupation >= 5 and capitalgain = 90 
+compilation time: 1.08889ms
+Execution time: 0.248501ms
+SELECT id FROM data WHERE education > 1 and educationnum > 1 and sex = 0 and capitalgain <= 111 and nativecountry >= 2 
+compilation time: 0.842953ms
+Execution time: 0.348082ms
+SELECT id FROM data WHERE workclass != 0 and education < 13 and maritalstatus <= 4 and race = 0 
+compilation time: 0.697865ms
+Execution time: 0.313343ms
+SELECT id FROM data WHERE maritalstatus != 0 and race >= 3 
+compilation time: 0.353887ms
+Execution time: 0.328506ms
+SELECT id FROM data WHERE age = 39 and workclass != 5 and education < 11 and occupation != 5 and relationship != 4 and capitalgain > 53 and capitalloss > 7 
+compilation time: 1.25497ms
+Execution time: 0.244994ms
+SELECT id FROM data WHERE maritalstatus >= 6 and race < 3 and sex = 0 and capitalgain >= 98 and hoursperweek = 9 and nativecountry >= 16 
+compilation time: 1.00157ms
+Execution time: 0.231795ms
+SELECT id FROM data WHERE educationnum >= 13 and maritalstatus >= 4 and occupation >= 4 and capitalloss > 71 
+compilation time: 0.662966ms
+Execution time: 0.215482ms
+SELECT id FROM data WHERE workclass <= 2 and educationnum != 9 and maritalstatus != 5 
+compilation time: 0.487322ms
+Execution time: 0.237077ms
+SELECT id FROM data WHERE hoursperweek < 13 
+compilation time: 0.190925ms
+Execution time: 0.294909ms
+SELECT id FROM data WHERE relationship < 3 and hoursperweek > 73 and nativecountry >= 4 
+compilation time: 0.511449ms
+Execution time: 0.319202ms
+SELECT id FROM data WHERE relationship != 0  
+compilation time: 0.174517ms
+Execution time: 0.309825ms
+SELECT id FROM data WHERE relationship = 0 and race = 4 and sex >= 1 and capitalgain <= 39 and capitalloss = 13 
+compilation time: 0.838805ms
+Execution time: 0.345079ms
+SELECT id FROM data WHERE education >= 2 and maritalstatus < 3 
+compilation time: 0.377018ms
+Execution time: 0.287139ms
+SELECT id FROM data WHERE workclass >= 5 and race > 0 and sex != 1 and capitalloss = 42 and hoursperweek <= 46 
+compilation time: 0.927042ms
+Execution time: 0.341905ms
+SELECT id FROM data WHERE age >= 50 and workclass <= 6 and maritalstatus > 3 and relationship > 0 and race >= 0 
+compilation time: 0.84935ms
+Execution time: 0.334262ms
+SELECT id FROM data WHERE age <= 46 and capitalloss <= 94 and hoursperweek <= 55 and nativecountry > 40 
+compilation time: 0.708608ms
+Execution time: 0.33025ms
+SELECT id FROM data WHERE education >= 1 and capitalloss = 83 and nativecountry >= 37 
+compilation time: 0.512997ms
+Execution time: 0.184688ms
+SELECT id FROM data WHERE age != 18 and relationship != 3 and relationship >= 1  
+compilation time: 0.518873ms
+Execution time: 0.339813ms
+SELECT id FROM data WHERE education >= 14 and occupation > 11 and capitalloss < 4 and nativecountry > 37 
+compilation time: 0.683835ms
+Execution time: 0.330763ms
+SELECT id FROM data WHERE age = 65 and educationnum >= 15 and relationship > 1 and sex <= 0 and capitalloss > 87 
+compilation time: 0.855366ms
+Execution time: 0.335754ms
+SELECT id FROM data WHERE relationship != 5 and capitalgain != 112 
+compilation time: 0.348859ms
+Execution time: 0.299951ms
+SELECT id FROM data WHERE workclass <= 4 and maritalstatus = 1 and relationship >= 4 
+compilation time: 0.586855ms
+Execution time: 0.322886ms
+SELECT id FROM data WHERE education >= 2 and occupation > 9 and relationship <= 2 and capitalgain != 30 
+compilation time: 0.689035ms
+Execution time: 0.330427ms
+SELECT id FROM data WHERE education <= 3 and educationnum <= 7 and maritalstatus = 2 and occupation != 2 and capitalloss <= 57 
+compilation time: 0.851634ms
+Execution time: 0.340022ms
+SELECT id FROM data WHERE age <= 20 and education != 3 and occupation < 10 and capitalgain > 77 and capitalloss = 16 and hoursperweek != 39 and nativecountry <= 13 
+compilation time: 1.25381ms
+Execution time: 0.328932ms
+SELECT id FROM data WHERE age > 13 and workclass >= 5 and educationnum <= 14 and capitalgain >= 74 and capitalloss = 1 and nativecountry <= 7 
+compilation time: 1.00965ms
+Execution time: 0.224166ms
+SELECT id FROM data WHERE race = 2 and nativecountry > 22 
+compilation time: 0.322313ms
+Execution time: 0.187003ms
+SELECT id FROM data WHERE age != 35 and workclass != 8 and educationnum <= 5 and capitalloss <= 22 
+compilation time: 0.658555ms
+Execution time: 0.22819ms
+SELECT id FROM data WHERE age != 68 and occupation >= 6 and sex >= 0 and capitalgain < 51 and hoursperweek < 16 
+compilation time: 0.874549ms
+Execution time: 0.255081ms
+SELECT id FROM data WHERE education = 6 and educationnum != 10 and maritalstatus < 4 and relationship = 2 and capitalgain < 8 and capitalloss != 64 and hoursperweek > 64 and nativecountry <= 12 
+compilation time: 1.37743ms
+Execution time: 0.286717ms
+SELECT id FROM data WHERE educationnum >= 0 and occupation > 6 and relationship >= 2 and race < 2 and capitalgain >= 21 
+compilation time: 0.848379ms
+Execution time: 0.230853ms
+SELECT id FROM data WHERE age < 45 and education > 10 and nativecountry <= 36 
+compilation time: 0.498838ms
+Execution time: 0.212017ms
+SELECT id FROM data WHERE educationnum < 0 and capitalloss != 76 and nativecountry > 31 
+compilation time: 0.532476ms
+Execution time: 0.211221ms
+SELECT id FROM data WHERE workclass != 2 and race > 0 and sex != 0 and capitalloss >= 47 
+compilation time: 0.65735ms
+Execution time: 0.21363ms
+SELECT id FROM data WHERE workclass = 4 and educationnum <= 15 and occupation > 11 and relationship >= 2 and race != 0 
+compilation time: 0.83157ms
+Execution time: 0.213783ms
+SELECT id FROM data WHERE age != 71 and workclass != 1 and maritalstatus < 4 and relationship = 3 and capitalloss < 47 
+compilation time: 0.826638ms
+Execution time: 0.320136ms
+SELECT id FROM data WHERE age != 15 and workclass >= 7 and maritalstatus > 0 and race != 4 
+compilation time: 0.726478ms
+Execution time: 0.337184ms
+SELECT id FROM data WHERE workclass < 0 and occupation != 14 and relationship = 0 and capitalloss >= 30 
+compilation time: 0.681527ms
+Execution time: 0.205118ms
+SELECT id FROM data WHERE maritalstatus >= 2 and occupation != 6 and nativecountry < 31 
+compilation time: 0.49048ms
+Execution time: 0.337888ms
+SELECT id FROM data WHERE educationnum >= 12 and nativecountry < 16 
+compilation time: 0.344129ms
+Execution time: 0.212385ms
+SELECT id FROM data WHERE workclass != 7 and education = 14 and educationnum >= 5 and sex != 0 
+compilation time: 0.670176ms
+Execution time: 0.364525ms
+SELECT id FROM data WHERE education != 13 and relationship > 2 and race < 3 and capitalgain >= 46 
+compilation time: 0.686233ms
+Execution time: 0.3208ms
+SELECT id FROM data WHERE workclass >= 3 and educationnum >= 1 and hoursperweek < 19 
+compilation time: 0.517827ms
+Execution time: 0.19851ms
+SELECT id FROM data WHERE age != 51 and education <= 1 and capitalgain != 52 and nativecountry != 16 
+compilation time: 0.656295ms
+Execution time: 0.326705ms
+SELECT id FROM data WHERE maritalstatus < 6 and sex <= 0 and capitalloss != 73 
+compilation time: 0.525961ms
+Execution time: 0.211866ms
+SELECT id FROM data WHERE age != 3 and capitalgain != 57 and capitalloss <= 29 
+compilation time: 0.60693ms
+Execution time: 0.226105ms
+SELECT id FROM data WHERE maritalstatus < 3 and race <= 1 and sex != 0 
+compilation time: 0.503499ms
+Execution time: 0.223695ms
+SELECT id FROM data WHERE age != 9 and workclass < 6 and race <= 1 and sex <= 0 
+compilation time: 0.678405ms
+Execution time: 0.232958ms
+SELECT id FROM data WHERE workclass = 2 and capitalloss > 8 
+compilation time: 0.325298ms
+Execution time: 0.213848ms
+SELECT id FROM data WHERE maritalstatus != 4 and relationship < 4 and race >= 1 and sex < 0 
+compilation time: 0.676404ms
+Execution time: 0.295827ms
+SELECT id FROM data WHERE race != 0 
+compilation time: 0.191264ms
+Execution time: 0.364905ms
+SELECT id FROM data WHERE education > 2 and educationnum > 13 and sex > 1 
+compilation time: 0.50744ms
+Execution time: 0.277652ms
+SELECT id FROM data WHERE workclass <= 8 and education != 12 and occupation != 10 and capitalloss > 24 and nativecountry = 11 
+compilation time: 0.850064ms
+Execution time: 0.236937ms
+SELECT id FROM data WHERE age > 28 and education >= 2 and occupation <= 10 and race >= 1 and hoursperweek <= 84 
+compilation time: 0.843556ms
+Execution time: 0.243459ms
+SELECT id FROM data WHERE educationnum > 7 and maritalstatus != 4 and race != 4 and capitalloss != 20 
+compilation time: 0.719821ms
+Execution time: 0.230282ms
+SELECT id FROM data WHERE age != 61 and occupation > 6 and relationship <= 1 and sex < 0 and capitalgain = 120 and nativecountry > 10 
+compilation time: 1.01539ms
+Execution time: 0.238329ms
+SELECT id FROM data WHERE age <= 24 and occupation > 10 and relationship <= 1 and capitalloss > 45 
+compilation time: 0.717605ms
+Execution time: 0.3358ms
+SELECT id FROM data WHERE age = 24 and educationnum <= 1 and occupation >= 14 and nativecountry <= 21 
+compilation time: 0.690271ms
+Execution time: 0.330131ms
+SELECT id FROM data WHERE workclass <= 8 and education > 0 and maritalstatus = 4 and sex <= 0 
+compilation time: 0.699827ms
+Execution time: 0.331826ms
+SELECT id FROM data WHERE workclass >= 4 and maritalstatus < 2 and occupation >= 13 and sex > 1 and hoursperweek = 62 
+compilation time: 0.865522ms
+Execution time: 0.293653ms
+SELECT id FROM data WHERE workclass >= 1 and occupation > 7 and capitalgain < 75 and capitalloss != 56 and hoursperweek < 7 
+compilation time: 0.827456ms
+Execution time: 0.20271ms
+SELECT id FROM data WHERE age >= 66 and workclass >= 5 and educationnum <= 15 and maritalstatus = 4 and sex > 1 
+compilation time: 0.810583ms
+Execution time: 0.408586ms
+SELECT id FROM data WHERE occupation < 6 and sex >= 1 
+compilation time: 0.363402ms
+Execution time: 0.297529ms
+SELECT id FROM data WHERE age != 61 and workclass != 0 and occupation > 3 and nativecountry > 36 
+compilation time: 0.708585ms
+Execution time: 0.336371ms
+SELECT id FROM data WHERE educationnum != 8 and capitalgain != 101 and capitalloss > 97 and nativecountry != 9 
+compilation time: 0.684156ms
+Execution time: 0.200058ms
+SELECT id FROM data WHERE maritalstatus > 4 
+compilation time: 0.120788ms
+Execution time: 0.300481ms
+SELECT id FROM data WHERE education >= 7 and educationnum = 15 and race <= 2 and sex >= 1 and capitalloss = 20 
+compilation time: 0.92988ms
+Execution time: 0.245178ms
+SELECT id FROM data WHERE workclass != 2 and occupation = 11 and capitalgain > 105 and capitalloss < 60 and nativecountry > 9 
+compilation time: 0.878859ms
+Execution time: 0.244604ms
+SELECT id FROM data WHERE workclass <= 6 and occupation <= 11 and nativecountry >= 13 
+compilation time: 0.502074ms
+Execution time: 0.223071ms
+SELECT id FROM data WHERE hoursperweek > 18 and nativecountry = 35 
+compilation time: 0.324511ms
+Execution time: 0.216654ms
+SELECT id FROM data WHERE occupation != 8 and capitalloss <= 64 
+compilation time: 0.327764ms
+Execution time: 0.224032ms
+SELECT id FROM data WHERE education >= 6 and maritalstatus = 6 and relationship >= 3 and hoursperweek < 47 and nativecountry <= 7 
+compilation time: 0.933636ms
+Execution time: 0.3501ms
+SELECT id FROM data WHERE education = 10 and relationship > 1 and sex >= 1 
+compilation time: 0.520437ms
+Execution time: 0.322348ms
+SELECT id FROM data WHERE workclass <= 5 and occupation < 3 
+compilation time: 0.352467ms
+Execution time: 0.310147ms
+SELECT id FROM data WHERE maritalstatus != 4 and relationship = 5 and nativecountry != 39 
+compilation time: 0.505266ms
+Execution time: 0.292036ms
+SELECT id FROM data WHERE educationnum <= 4 and maritalstatus >= 1 and nativecountry != 33 
+compilation time: 0.518227ms
+Execution time: 0.383119ms
+SELECT id FROM data WHERE education <= 10 and educationnum >= 12 and maritalstatus < 5 and race <= 0 
+compilation time: 0.688163ms
+Execution time: 0.332778ms
+SELECT id FROM data WHERE workclass != 4 and education != 9 and educationnum < 0 and maritalstatus = 4 and occupation > 2 and race < 2 
+compilation time: 1.01033ms
+Execution time: 0.335612ms
+SELECT id FROM data WHERE maritalstatus != 3 and race < 0 and sex <= 0 and hoursperweek > 26 
+compilation time: 0.681576ms
+Execution time: 0.196131ms
+SELECT id FROM data WHERE education >= 4 and race >= 4 
+compilation time: 0.300791ms
+Execution time: 0.291825ms
+SELECT id FROM data WHERE age <= 14 and educationnum > 2 and nativecountry >= 1 
+compilation time: 0.503528ms
+Execution time: 0.223255ms
+SELECT id FROM data WHERE relationship <= 0 and nativecountry = 11 
+compilation time: 0.323464ms
+Execution time: 0.218529ms
+SELECT id FROM data WHERE age > 64 and occupation = 9 and relationship = 5 and capitalgain >= 64 
+compilation time: 0.666006ms
+Execution time: 0.231189ms
+SELECT id FROM data WHERE workclass != 4 and occupation <= 2 and capitalloss > 4 and nativecountry >= 12 
+compilation time: 0.67078ms
+Execution time: 0.232527ms
+SELECT id FROM data WHERE hoursperweek > 61 and nativecountry <= 34 
+compilation time: 0.327634ms
+Execution time: 0.194789ms
+SELECT id FROM data WHERE age = 12 and workclass < 3 and education < 3 and race > 3 and capitalgain >= 71 and capitalloss >= 23 
+compilation time: 1.00533ms
+Execution time: 0.399381ms
+SELECT id FROM data WHERE relationship > 3 and race = 1 and sex >= 0 and hoursperweek = 39 
+compilation time: 0.68076ms
+Execution time: 0.344785ms
+SELECT id FROM data WHERE age >= 32  
+compilation time: 0.159792ms
+Execution time: 0.205305ms
+SELECT id FROM data WHERE education > 1 and education > 3 and educationnum >= 12  
+compilation time: 0.501947ms
+Execution time: 0.230877ms
+SELECT id FROM data WHERE age >= 72 and educationnum < 10 
+compilation time: 0.437266ms
+Execution time: 0.218131ms
+SELECT id FROM data WHERE workclass >= 3 and educationnum < 10 and maritalstatus != 4 and nativecountry > 38 
+compilation time: 0.673311ms
+Execution time: 0.299734ms
+SELECT id FROM data WHERE age > 17 and educationnum != 7 and relationship = 4 and sex >= 0 and capitalloss = 14 
+compilation time: 0.853617ms
+Execution time: 0.340382ms
+SELECT id FROM data WHERE workclass != 2 and educationnum <= 8  
+compilation time: 0.344496ms
+Execution time: 0.191777ms
+SELECT id FROM data WHERE maritalstatus = 2 and race >= 0 and relationship = 0  
+compilation time: 0.480357ms
+Execution time: 0.20786ms
+SELECT id FROM data WHERE workclass > 4 and maritalstatus = 4 and capitalloss <= 93 
+compilation time: 0.532667ms
+Execution time: 0.215515ms
+SELECT id FROM data WHERE age = 51 and occupation = 10 and sex <= 1 
+compilation time: 0.48408ms
+Execution time: 0.207618ms
+SELECT id FROM data WHERE education >= 14 and race = 2 and sex <= 1 and nativecountry >= 17 
+compilation time: 0.659491ms
+Execution time: 0.219267ms
+SELECT id FROM data WHERE workclass > 6 and relationship >= 5 and sex != 1 and hoursperweek <= 3 and nativecountry <= 3 
+compilation time: 0.831732ms
+Execution time: 0.22893ms
+SELECT id FROM data WHERE age <= 35 and educationnum != 7 and hoursperweek != 91 and nativecountry > 20 
+compilation time: 0.656109ms
+Execution time: 0.261523ms
+SELECT id FROM data WHERE age < 28 and workclass = 1 and relationship < 4 and race = 4 and hoursperweek >= 21 
+compilation time: 0.828978ms
+Execution time: 0.226233ms
+SELECT id FROM data WHERE educationnum != 10 and sex <= 1 and nativecountry < 21 
+compilation time: 0.492461ms
+Execution time: 0.341604ms
+SELECT id FROM data WHERE relationship < 3 and workclass = 4  
+compilation time: 0.344321ms
+Execution time: 0.305844ms
+SELECT id FROM data WHERE occupation != 10 and sex = 1 and hoursperweek >= 12 and nativecountry = 11 
+compilation time: 0.695827ms
+Execution time: 0.223358ms
+SELECT id FROM data WHERE workclass >= 0 and sex > 1 
+compilation time: 0.348615ms
+Execution time: 0.206192ms
+SELECT id FROM data WHERE workclass > 5 and education = 4 and educationnum = 6 
+compilation time: 0.482022ms
+Execution time: 0.207251ms
+SELECT id FROM data WHERE age = 63 and education > 11 and educationnum < 9 and race >= 2 and nativecountry > 20 
+compilation time: 0.82487ms
+Execution time: 0.232129ms
+SELECT id FROM data WHERE workclass > 2 and maritalstatus != 5 and race > 3 and capitalgain != 38 and nativecountry <= 8 
+compilation time: 0.828153ms
+Execution time: 0.348061ms
+SELECT id FROM data WHERE age = 52 and educationnum >= 4 and maritalstatus != 4 and occupation <= 14 and capitalgain = 102 and hoursperweek <= 65 
+compilation time: 1.04527ms
+Execution time: 0.232411ms
+SELECT id FROM data WHERE workclass < 7 and maritalstatus >= 4 and nativecountry > 10 
+compilation time: 0.494242ms
+Execution time: 0.211957ms
+SELECT id FROM data WHERE maritalstatus >= 2 and race >= 0 and sex < 0 and capitalgain > 34 and capitalloss > 75 and nativecountry > 39 
+compilation time: 0.998721ms
+Execution time: 0.307742ms
+SELECT id FROM data WHERE educationnum != 8 and occupation != 1 and relationship = 0 and sex >= 0 
+compilation time: 0.686114ms
+Execution time: 0.206041ms
+SELECT id FROM data WHERE age = 36 and workclass = 0 and occupation = 4 and sex <= 0 
+compilation time: 0.728398ms
+Execution time: 0.219472ms
+SELECT id FROM data WHERE age < 71 and education >= 8 and educationnum < 6 and capitalloss <= 39 
+compilation time: 0.666995ms
+Execution time: 0.219002ms
+SELECT id FROM data WHERE maritalstatus >= 2 and occupation = 0 and race <= 2 
+compilation time: 0.483306ms
+Execution time: 0.207859ms
+SELECT id FROM data WHERE occupation > 4 and relationship <= 4 and race > 0 and capitalloss < 10 and nativecountry >= 15 
+compilation time: 0.827935ms
+Execution time: 0.227998ms
+SELECT id FROM data WHERE education = 12 and sex < 0 and capitalgain < 39 and capitalloss < 14 and nativecountry <= 16 
+compilation time: 0.909559ms
+Execution time: 0.228077ms
+SELECT id FROM data WHERE age <= 57 and capitalloss <= 79 
+compilation time: 0.314324ms
+Execution time: 0.202789ms
+SELECT id FROM data WHERE sex = 0 and capitalgain = 22 
+compilation time: 0.308582ms
+Execution time: 0.199469ms
+SELECT id FROM data WHERE educationnum != 13 and age < 68 and maritalstatus <= 2  
+compilation time: 0.489078ms
+Execution time: 0.306768ms
+SELECT id FROM data WHERE age > 25 and maritalstatus = 4 and occupation < 7 and race != 1 and capitalgain <= 10 and capitalloss < 90 and hoursperweek != 88 
+compilation time: 1.24046ms
+Execution time: 0.233615ms
+SELECT id FROM data WHERE age > 12 and maritalstatus = 6 and occupation > 8 and relationship != 5 and race != 1 and sex >= 0 and capitalgain > 31 
+compilation time: 1.21301ms
+Execution time: 0.246732ms
+SELECT id FROM data WHERE maritalstatus < 1 and occupation = 1 and hoursperweek < 54 and nativecountry = 3 
+compilation time: 0.655928ms
+Execution time: 0.215632ms
+SELECT id FROM data WHERE occupation > 7 and race > 0 and hoursperweek < 79 and capitalloss <= 91  
+compilation time: 0.674093ms
+Execution time: 0.206056ms
+SELECT id FROM data WHERE educationnum > 0 and relationship >= 2  
+compilation time: 0.314782ms
+Execution time: 0.203232ms
+SELECT id FROM data WHERE workclass >= 8 and education > 9 and relationship > 4 and nativecountry = 3 
+compilation time: 0.701915ms
+Execution time: 0.216762ms
+SELECT id FROM data WHERE age >= 68 and educationnum > 3 and occupation >= 9 
+compilation time: 0.487755ms
+Execution time: 0.211089ms
+SELECT id FROM data WHERE age != 11 and educationnum > 5 and relationship < 1 and race < 3 and nativecountry <= 18 
+compilation time: 0.825702ms
+Execution time: 0.22594ms
+SELECT id FROM data WHERE age < 13 and occupation = 2 and sex != 1 and hoursperweek < 86 
+compilation time: 0.655149ms
+Execution time: 0.293549ms
+SELECT id FROM data WHERE age > 23 and workclass != 1 and relationship > 2 and sex <= 0 and capitalloss != 64 and hoursperweek > 75 
+compilation time: 1.11027ms
+Execution time: 0.345148ms
+SELECT id FROM data WHERE sex >= 0 and hoursperweek < 85 and nativecountry >= 10 
+compilation time: 0.520749ms
+Execution time: 0.323616ms
+SELECT id FROM data WHERE capitalloss < 13 and capitalloss < 50 and sex = 0 and race != 2  
+compilation time: 0.681297ms
+Execution time: 0.328484ms
+SELECT id FROM data WHERE race >= 3 and occupation <= 4 and educationnum > 4  
+compilation time: 0.580207ms
+Execution time: 0.323623ms
+SELECT id FROM data WHERE occupation >= 8 and race != 3  
+compilation time: 0.398051ms
+Execution time: 0.200057ms
+SELECT id FROM data WHERE race != 2 and capitalgain = 56 
+compilation time: 0.311826ms
+Execution time: 0.196087ms
+SELECT id FROM data WHERE age > 49 and workclass != 3 and occupation != 1 and race > 4 and capitalgain >= 52 and hoursperweek < 51 and nativecountry > 26 
+compilation time: 1.15846ms
+Execution time: 0.242679ms
+SELECT id FROM data WHERE race > 3 and sex <= 0  
+compilation time: 0.31631ms
+Execution time: 0.312827ms
+SELECT id FROM data WHERE occupation > 10 
+compilation time: 0.169936ms
+Execution time: 0.183885ms
+SELECT id FROM data WHERE occupation != 14 and race > 2 and capitalgain = 98 and hoursperweek <= 77 and nativecountry >= 26 
+compilation time: 0.908667ms
+Execution time: 0.228376ms
+SELECT id FROM data WHERE workclass > 8 and occupation > 10 and nativecountry != 36 
+compilation time: 0.487599ms
+Execution time: 0.210033ms
+SELECT id FROM data WHERE age > 71 and educationnum < 7 and occupation = 14 and relationship <= 4 and hoursperweek <= 12 and nativecountry < 5 
+compilation time: 0.992833ms
+Execution time: 0.23312ms
+SELECT id FROM data WHERE workclass >= 2 and education >= 0 and occupation < 14 and race < 1 and capitalloss < 9 
+compilation time: 0.832974ms
+Execution time: 0.365875ms
+SELECT id FROM data WHERE education != 2 and relationship >= 3 and capitalloss < 33 and hoursperweek <= 62 
+compilation time: 0.766502ms
+Execution time: 0.300838ms
+SELECT id FROM data WHERE age != 16 and educationnum >= 15 and sex >= 0 and capitalgain >= 46 
+compilation time: 0.683819ms
+Execution time: 0.329766ms
+SELECT id FROM data WHERE education < 6 and educationnum < 15 and race <= 2 and hoursperweek = 14 
+compilation time: 0.692756ms
+Execution time: 0.327885ms
+SELECT id FROM data WHERE age = 65 and workclass > 0 and maritalstatus < 3 and relationship < 4 and sex != 0 and capitalloss != 49 
+compilation time: 1.03388ms
+Execution time: 0.361531ms
+SELECT id FROM data WHERE educationnum > 4 and occupation = 5 and hoursperweek > 90 and nativecountry > 20 
+compilation time: 0.654542ms
+Execution time: 0.273424ms
+SELECT id FROM data WHERE age > 64 and race < 1 
+compilation time: 0.360273ms
+Execution time: 0.311201ms
+SELECT id FROM data WHERE sex <= 1 and hoursperweek >= 89 and nativecountry = 21 
+compilation time: 0.514499ms
+Execution time: 0.320324ms
+SELECT id FROM data WHERE occupation <= 3  
+compilation time: 0.178657ms
+Execution time: 0.293913ms
+SELECT id FROM data WHERE workclass <= 2 and maritalstatus >= 3 and occupation = 0 and race < 1 and capitalgain = 95 
+compilation time: 0.90854ms
+Execution time: 0.229341ms
+SELECT id FROM data WHERE age >= 59 and workclass != 1 and education >= 6 and maritalstatus < 6 and occupation < 3 and capitalloss <= 44 and nativecountry < 12 
+compilation time: 1.16418ms
+Execution time: 0.247266ms
+SELECT id FROM data WHERE workclass > 0 and maritalstatus != 1 and occupation <= 2 and race > 2 and nativecountry != 14 
+compilation time: 0.836129ms
+Execution time: 0.396186ms
+SELECT id FROM data WHERE education >= 7 and maritalstatus < 6 and capitalloss < 17 and hoursperweek <= 75 
+compilation time: 0.676373ms
+Execution time: 0.397146ms
+SELECT id FROM data WHERE workclass > 2 and occupation <= 10 
+compilation time: 0.333424ms
+Execution time: 0.205508ms
+SELECT id FROM data WHERE age = 64 and workclass != 2 and educationnum < 8 and relationship != 3 and nativecountry <= 40 
+compilation time: 0.82678ms
+Execution time: 0.229835ms
+SELECT id FROM data WHERE capitalloss <= 45 and educationnum < 9  
+compilation time: 0.316449ms
+Execution time: 0.200895ms
+SELECT id FROM data WHERE education = 1 and race != 4 and sex > 0 and capitalgain < 15 
+compilation time: 0.660972ms
+Execution time: 0.314427ms
+SELECT id FROM data WHERE workclass != 0 and education >= 11 and educationnum > 13 and relationship = 4 and hoursperweek > 68 
+compilation time: 0.939272ms
+Execution time: 0.363075ms
+SELECT id FROM data WHERE occupation != 7 and occupation != 10 and sex > 0 and educationnum > 1 and sex != 0  
+compilation time: 0.8587ms
+Execution time: 0.335445ms
+SELECT id FROM data WHERE race != 3 and capitalgain != 111 and capitalloss != 21 and nativecountry <= 15 
+compilation time: 0.69302ms
+Execution time: 0.316554ms
+SELECT id FROM data WHERE workclass > 0 and occupation != 0 and capitalgain != 1 and hoursperweek >= 55 
+compilation time: 0.653521ms
+Execution time: 0.264575ms
+SELECT id FROM data WHERE educationnum >= 6 and relationship >= 2  
+compilation time: 0.372683ms
+Execution time: 0.276656ms
+SELECT id FROM data WHERE education > 7 and educationnum < 1 and relationship != 2 and hoursperweek >= 54 and nativecountry != 14 
+compilation time: 0.853826ms
+Execution time: 0.343458ms
+SELECT id FROM data WHERE workclass = 1 and occupation != 10 and relationship = 3 and capitalgain <= 16 and hoursperweek >= 33 and nativecountry >= 9 
+compilation time: 1.07603ms
+Execution time: 0.346598ms
+SELECT id FROM data WHERE workclass = 6 and race > 4 and capitalgain < 5 and capitalloss = 42 and hoursperweek > 19 and nativecountry < 36 
+compilation time: 1.09262ms
+Execution time: 0.344108ms
+SELECT id FROM data WHERE maritalstatus <= 2 and capitalgain > 113 and capitalloss >= 35 
+compilation time: 0.524399ms
+Execution time: 0.322151ms
+SELECT id FROM data WHERE workclass > 6 and maritalstatus > 1 and nativecountry != 14 
+compilation time: 0.524737ms
+Execution time: 0.338141ms
+SELECT id FROM data WHERE nativecountry >= 31 and relationship > 0 and sex = 0  
+compilation time: 0.521501ms
+Execution time: 0.197679ms
+SELECT id FROM data WHERE age < 44 and education <= 13 and relationship != 3 and race > 3 
+compilation time: 0.668745ms
+Execution time: 0.259151ms
+SELECT id FROM data WHERE education <= 2 and maritalstatus = 4 and relationship = 4 
+compilation time: 0.494416ms
+Execution time: 0.224577ms
+SELECT id FROM data WHERE educationnum <= 12 and relationship < 0 and nativecountry < 11 
+compilation time: 0.563344ms
+Execution time: 0.385693ms
+SELECT id FROM data WHERE education > 12  
+compilation time: 0.147668ms
+Execution time: 0.330801ms
+SELECT id FROM data WHERE workclass = 4 and relationship <= 1 and capitalgain >= 1 
+compilation time: 0.513317ms
+Execution time: 0.321871ms
+SELECT id FROM data WHERE age < 70 and education >= 3 and maritalstatus = 3 and sex <= 1 and hoursperweek < 49 
+compilation time: 0.918568ms
+Execution time: 0.33903ms
+SELECT id FROM data WHERE age <= 73 and education = 13 and educationnum = 1 and nativecountry = 37 
+compilation time: 0.688672ms
+Execution time: 0.324501ms
+SELECT id FROM data WHERE educationnum != 2 and race < 0 and capitalgain = 18 and capitalloss <= 53 and nativecountry < 16 
+compilation time: 0.849167ms
+Execution time: 0.328404ms
+SELECT id FROM data WHERE workclass > 1 and educationnum != 5 and maritalstatus <= 1 and race = 1 and capitalgain = 40 and capitalloss >= 49 
+compilation time: 0.998542ms
+Execution time: 0.252862ms
+SELECT id FROM data WHERE education != 13 and educationnum >= 14 and maritalstatus > 6 and occupation > 14 and sex != 1 and hoursperweek > 63 
+compilation time: 0.990834ms
+Execution time: 0.240079ms
+SELECT id FROM data WHERE relationship <= 4 and sex <= 1 
+compilation time: 0.312672ms
+Execution time: 0.221106ms
+SELECT id FROM data WHERE age = 0 and educationnum < 3 and relationship > 3 and race > 4 and capitalloss < 62 and nativecountry != 22 
+compilation time: 1.0137ms
+Execution time: 0.249074ms
+SELECT id FROM data WHERE relationship != 0 and race != 3 and capitalgain != 83 
+compilation time: 0.500597ms
+Execution time: 0.26218ms
+SELECT id FROM data WHERE workclass = 0 and occupation < 4 and relationship < 4 and sex > 0 
+compilation time: 0.699866ms
+Execution time: 0.230625ms
+SELECT id FROM data WHERE relationship != 3 and sex = 0 and hoursperweek >= 50 
+compilation time: 0.563574ms
+Execution time: 0.227438ms
+SELECT id FROM data WHERE educationnum > 10 and maritalstatus != 2 and occupation = 4 
+compilation time: 0.494126ms
+Execution time: 0.228622ms
+SELECT id FROM data WHERE age = 35 and workclass = 0 and educationnum <= 8 and relationship > 4 
+compilation time: 0.673067ms
+Execution time: 0.257674ms
+SELECT id FROM data WHERE age > 33 and maritalstatus <= 3 and race = 0 
+compilation time: 0.499628ms
+Execution time: 0.269421ms
+SELECT id FROM data WHERE age <= 5 and maritalstatus = 2 and relationship <= 4 and capitalgain < 12 
+compilation time: 0.666567ms
+Execution time: 0.233426ms
+SELECT id FROM data WHERE nativecountry != 23 and sex > 0 and capitalgain != 32 and occupation > 8 and age != 28  
+compilation time: 0.836234ms
+Execution time: 0.243289ms
+SELECT id FROM data WHERE age > 64 and education > 7 and relationship != 2 and race != 4 and capitalgain <= 44 and nativecountry <= 22 
+compilation time: 1.0101ms
+Execution time: 0.229065ms
+SELECT id FROM data WHERE age = 48 and education != 9 and capitalgain > 18 and hoursperweek >= 60 
+compilation time: 0.741289ms
+Execution time: 0.232897ms
+SELECT id FROM data WHERE age > 11 and nativecountry > 4 and education != 10 and sex != 0  
+compilation time: 0.673126ms
+Execution time: 0.237244ms
+SELECT id FROM data WHERE occupation > 9  
+compilation time: 0.145937ms
+Execution time: 0.199347ms
+SELECT id FROM data WHERE educationnum >= 10  
+compilation time: 0.146124ms
+Execution time: 0.204138ms
+SELECT id FROM data WHERE education >= 14 
+compilation time: 0.146503ms
+Execution time: 0.199164ms
+SELECT id FROM data WHERE maritalstatus <= 4 and capitalgain <= 2 and hoursperweek <= 90 and nativecountry > 11 
+compilation time: 0.669515ms
+Execution time: 0.236081ms
+SELECT id FROM data WHERE educationnum >= 15 and race = 4 and sex < 1 
+compilation time: 0.523877ms
+Execution time: 0.273697ms
+SELECT id FROM data WHERE workclass <= 1 and educationnum <= 4 and race <= 0 and capitalgain > 23 and hoursperweek != 93 and nativecountry >= 35 
+compilation time: 1.01649ms
+Execution time: 0.312349ms
+SELECT id FROM data WHERE education <= 15 and occupation > 3 and relationship >= 5 and capitalloss <= 91 and nativecountry <= 37 
+compilation time: 0.864518ms
+Execution time: 0.344054ms
+SELECT id FROM data WHERE age >= 73 and maritalstatus >= 0 and race = 1 and capitalgain = 115 and capitalloss != 73 and hoursperweek <= 91 
+compilation time: 1.02459ms
+Execution time: 0.406617ms
+SELECT id FROM data WHERE workclass = 0 and capitalgain = 19 and hoursperweek = 89 
+compilation time: 0.512498ms
+Execution time: 0.197225ms
+SELECT id FROM data WHERE workclass > 5 and education >= 13 and educationnum != 9 and sex < 0 and capitalgain <= 54 and capitalloss >= 87 and nativecountry > 1 
+compilation time: 1.15694ms
+Execution time: 0.354178ms
+SELECT id FROM data WHERE age < 50 and educationnum > 15 and occupation < 13 and relationship < 0 and capitalloss = 91 
+compilation time: 0.864798ms
+Execution time: 0.34057ms
+SELECT id FROM data WHERE educationnum < 13 and maritalstatus >= 3 and occupation > 4 and race >= 4 and sex < 1 
+compilation time: 0.880447ms
+Execution time: 0.351042ms
+SELECT id FROM data WHERE education <= 0 and race < 1 and sex < 0 and capitalgain > 57 and nativecountry != 27 
+compilation time: 0.890206ms
+Execution time: 0.287956ms
+SELECT id FROM data WHERE age >= 24 and occupation != 2 and relationship <= 5 and capitalgain >= 62 and capitalloss >= 36 
+compilation time: 0.90023ms
+Execution time: 0.347488ms
+SELECT id FROM data WHERE age >= 26 and occupation != 9 and hoursperweek >= 42 
+compilation time: 0.597931ms
+Execution time: 0.32557ms
+SELECT id FROM data WHERE workclass != 3 and educationnum >= 1 and maritalstatus = 1 
+compilation time: 0.511288ms
+Execution time: 0.198089ms
+SELECT id FROM data WHERE educationnum != 10 and relationship <= 4 and race != 4 and capitalloss = 77 and hoursperweek < 12 and nativecountry != 18 
+compilation time: 0.996588ms
+Execution time: 0.34458ms
+SELECT id FROM data WHERE occupation > 0 and relationship <= 2 and race < 4 and sex = 0 and capitalgain <= 39 and capitalloss <= 69 
+compilation time: 1.01414ms
+Execution time: 0.315581ms
+SELECT id FROM data WHERE educationnum >= 8 and sex > 0 and capitalloss = 78 
+compilation time: 0.540925ms
+Execution time: 0.199685ms
+SELECT id FROM data WHERE workclass <= 7 and hoursperweek >= 44 and nativecountry >= 23 
+compilation time: 0.488404ms
+Execution time: 0.313917ms
+SELECT id FROM data WHERE age != 5 and education >= 2 and educationnum != 6 and occupation >= 1 and race <= 0 
+compilation time: 0.856015ms
+Execution time: 0.340098ms
+SELECT id FROM data WHERE educationnum <= 13 and occupation > 12 and race = 1 and capitalloss < 8 and nativecountry < 13 
+compilation time: 0.855562ms
+Execution time: 0.305839ms
+SELECT id FROM data WHERE relationship < 5 and race > 0 
+compilation time: 0.371698ms
+Execution time: 0.260878ms
+SELECT id FROM data WHERE age >= 61 and educationnum <= 1 and maritalstatus != 4 and relationship > 0 and race <= 2 and hoursperweek > 78 
+compilation time: 1.01642ms
+Execution time: 0.209019ms
+SELECT id FROM data WHERE age != 52 and workclass = 7 and nativecountry <= 9 
+compilation time: 0.506485ms
+Execution time: 0.337639ms
+SELECT id FROM data WHERE workclass >= 5 and education <= 8 and educationnum > 9 and occupation != 5 and relationship >= 3 and nativecountry < 6 
+compilation time: 1.0193ms
+Execution time: 0.263924ms
+SELECT id FROM data WHERE occupation >= 2 and capitalgain = 73 and hoursperweek = 79 
+compilation time: 0.556905ms
+Execution time: 0.327896ms
+SELECT id FROM data WHERE educationnum >= 5 and occupation <= 6 and capitalgain <= 104 
+compilation time: 0.510669ms
+Execution time: 0.304921ms
+SELECT id FROM data WHERE age >= 17 and capitalloss < 91 and education > 9 and maritalstatus > 0 and nativecountry != 27  
+compilation time: 0.860612ms
+Execution time: 0.22888ms
+SELECT id FROM data WHERE education > 13  
+compilation time: 0.147831ms
+Execution time: 0.295215ms
+SELECT id FROM data WHERE education = 7 and occupation > 4 and race != 0 and hoursperweek != 91 
+compilation time: 0.763176ms
+Execution time: 0.342803ms
+SELECT id FROM data WHERE age > 35 and education < 6 and maritalstatus = 2 and occupation <= 13 and relationship <= 3 and sex != 0 and nativecountry >= 17 
+compilation time: 1.18728ms
+Execution time: 0.35408ms
+SELECT id FROM data WHERE workclass <= 6 and education = 14 and maritalstatus != 0 and occupation != 0 and relationship = 4 
+compilation time: 0.855695ms
+Execution time: 0.335624ms
+SELECT id FROM data WHERE capitalgain != 73 
+compilation time: 0.184115ms
+Execution time: 0.287256ms
+SELECT id FROM data WHERE race > 1 and sex != 0 and capitalloss <= 10 and hoursperweek < 85 
+compilation time: 0.747665ms
+Execution time: 0.312763ms
+SELECT id FROM data WHERE educationnum < 1 
+compilation time: 0.175872ms
+Execution time: 0.173249ms
+SELECT id FROM data WHERE age != 49 and education < 3 and race = 0 and capitalgain > 54 
+compilation time: 0.653298ms
+Execution time: 0.328653ms
+SELECT id FROM data WHERE education = 2 and maritalstatus = 6 and capitalgain < 121 and nativecountry >= 35 
+compilation time: 0.673433ms
+Execution time: 0.321466ms
+SELECT id FROM data WHERE age = 64 and education >= 5 and relationship > 3 and sex <= 0 
+compilation time: 0.676834ms
+Execution time: 0.350862ms
+SELECT id FROM data WHERE education != 13 and race >= 4 and sex != 0 and capitalloss = 23 
+compilation time: 0.673434ms
+Execution time: 0.322369ms
+SELECT id FROM data WHERE occupation = 9 and relationship < 0 and sex < 0 
+compilation time: 0.51027ms
+Execution time: 0.199189ms
+SELECT id FROM data WHERE maritalstatus >= 5 and relationship < 1 and nativecountry <= 28 
+compilation time: 0.479922ms
+Execution time: 0.307954ms
+SELECT id FROM data WHERE age != 25 and education <= 10 and educationnum >= 15 and occupation <= 11 and relationship = 5 
+compilation time: 0.840622ms
+Execution time: 0.327904ms
+SELECT id FROM data WHERE educationnum != 4 and relationship < 1 and race = 3 and sex = 0 
+compilation time: 0.693082ms
+Execution time: 0.302547ms
+SELECT id FROM data WHERE workclass >= 7 and educationnum > 8 and capitalloss < 70 
+compilation time: 0.509162ms
+Execution time: 0.327885ms
+SELECT id FROM data WHERE educationnum = 4 and capitalgain > 97 and hoursperweek < 11 and nativecountry = 38 
+compilation time: 0.672419ms
+Execution time: 0.218138ms
+SELECT id FROM data WHERE capitalloss != 96 and education != 4 and sex <= 0 and occupation > 1  
+compilation time: 0.656805ms
+Execution time: 0.244739ms
+SELECT id FROM data WHERE workclass >= 1 and education = 5 and maritalstatus > 3 and relationship > 2 and race != 1 and capitalloss <= 26 and nativecountry != 38 
+compilation time: 1.20608ms
+Execution time: 0.234994ms
+SELECT id FROM data WHERE education != 7 and age > 21 and nativecountry > 35  
+compilation time: 0.487085ms
+Execution time: 0.32057ms
+SELECT id FROM data WHERE education >= 7 and maritalstatus <= 5 and occupation <= 1 and race < 0 and capitalloss = 12 and hoursperweek != 77 
+compilation time: 1.00877ms
+Execution time: 0.320546ms
+SELECT id FROM data WHERE workclass > 7 and education <= 12 and educationnum >= 4 and relationship <= 2 and race <= 2 and capitalloss <= 23 and hoursperweek >= 2 
+compilation time: 1.27219ms
+Execution time: 0.342486ms
+SELECT id FROM data WHERE workclass = 2 and occupation > 0 and relationship < 1 and race < 1 
+compilation time: 0.677592ms
+Execution time: 0.318171ms
+SELECT id FROM data WHERE relationship >= 4 and sex != 1 
+compilation time: 0.350061ms
+Execution time: 0.189925ms
+SELECT id FROM data WHERE workclass < 0 and education != 14 and maritalstatus >= 0 and occupation < 0 and relationship >= 3 and sex < 0 and capitalgain >= 12 
+compilation time: 1.34762ms
+Execution time: 0.348682ms
+SELECT id FROM data WHERE maritalstatus != 0 and relationship < 3 and capitalgain != 110 and capitalloss != 83 
+compilation time: 0.703543ms
+Execution time: 0.309597ms
+SELECT id FROM data WHERE capitalloss <= 23 
+compilation time: 0.159925ms
+Execution time: 0.221297ms
+SELECT id FROM data WHERE capitalgain > 41 
+compilation time: 0.163049ms
+Execution time: 0.221347ms
+SELECT id FROM data WHERE workclass = 5 and education != 14 and maritalstatus != 3 and race < 4 and capitalgain = 100 
+compilation time: 0.831617ms
+Execution time: 0.195771ms
+SELECT id FROM data WHERE occupation = 9 and sex >= 1 and capitalgain < 115 
+compilation time: 0.47643ms
+Execution time: 0.172061ms
+SELECT id FROM data WHERE education >= 4 and race >= 4 and capitalgain > 96 and capitalloss > 68 
+compilation time: 0.69424ms
+Execution time: 0.18359ms
+SELECT id FROM data WHERE education > 6 and occupation != 2 and sex <= 1 and capitalgain < 28 and capitalloss < 20 
+compilation time: 0.8224ms
+Execution time: 0.272046ms
+SELECT id FROM data WHERE age <= 34 and workclass < 4 and education = 13 and maritalstatus < 1 and sex < 1 and capitalloss > 74 and nativecountry <= 28 
+compilation time: 1.18245ms
+Execution time: 0.209663ms
+SELECT id FROM data WHERE age >= 17 and age != 40 and maritalstatus >= 0  
+compilation time: 0.490131ms
+Execution time: 0.316646ms
+SELECT id FROM data WHERE sex <= 0 and relationship != 1  
+compilation time: 0.325967ms
+Execution time: 0.260172ms
+SELECT id FROM data WHERE education <= 12 and educationnum > 11 and race <= 0 and nativecountry > 17 
+compilation time: 0.661432ms
+Execution time: 0.18738ms
+SELECT id FROM data WHERE occupation < 13 and race <= 0 and capitalloss = 1 and hoursperweek < 87 
+compilation time: 0.648028ms
+Execution time: 0.183333ms
+SELECT id FROM data WHERE educationnum = 14 and occupation < 9 and sex <= 0 and capitalloss >= 14 
+compilation time: 0.647363ms
+Execution time: 0.179374ms
+SELECT id FROM data WHERE maritalstatus < 4 and occupation < 2 and sex > 1 and capitalloss < 75 
+compilation time: 0.718637ms
+Execution time: 0.18071ms
+SELECT id FROM data WHERE workclass > 0 and education != 11 and hoursperweek = 11 and nativecountry <= 6 
+compilation time: 0.678875ms
+Execution time: 0.18108ms
+SELECT id FROM data WHERE workclass > 2 and education >= 13 and capitalgain <= 112 
+compilation time: 0.462261ms
+Execution time: 0.170494ms
+SELECT id FROM data WHERE age < 46 and educationnum < 12 and relationship <= 5 and race <= 2 and sex < 1 and nativecountry < 22 
+compilation time: 0.969575ms
+Execution time: 0.221665ms
+SELECT id FROM data WHERE workclass != 5 and education > 2 and maritalstatus >= 6 and capitalgain > 107 and hoursperweek > 16 
+compilation time: 0.821354ms
+Execution time: 0.277253ms
+SELECT id FROM data WHERE age <= 40 and occupation = 9 
+compilation time: 0.30849ms
+Execution time: 0.188926ms
+SELECT id FROM data WHERE workclass <= 5 and capitalgain <= 89 and nativecountry <= 23 
+compilation time: 0.473644ms
+Execution time: 0.169267ms
+SELECT id FROM data WHERE hoursperweek = 81 
+compilation time: 0.10435ms
+Execution time: 0.169354ms
+SELECT id FROM data WHERE workclass > 8 and education = 1 and maritalstatus < 4 and occupation < 8 and relationship > 0 and nativecountry >= 17 
+compilation time: 1.42077ms
+Execution time: 0.356455ms
+SELECT id FROM data WHERE relationship = 4 and race >= 4 and sex < 1 
+compilation time: 0.869778ms
+Execution time: 0.364687ms
+SELECT id FROM data WHERE educationnum > 0 and occupation >= 7 and relationship < 5 and capitalgain = 32 and capitalloss >= 59 and hoursperweek >= 54 
+compilation time: 2.08324ms
+Execution time: 0.521943ms
+SELECT id FROM data WHERE workclass != 6 and relationship = 3 and sex < 0 and hoursperweek < 61 and nativecountry != 39 
+compilation time: 1.80891ms
+Execution time: 0.346799ms
+SELECT id FROM data WHERE workclass < 7 and education > 6 and maritalstatus <= 1 and relationship < 5 and race < 1 and capitalloss < 8 
+compilation time: 2.14222ms
+Execution time: 0.423907ms
+SELECT id FROM data WHERE workclass >= 5 and occupation > 4 and race = 4 
+compilation time: 0.920219ms
+Execution time: 0.3629ms
+SELECT id FROM data WHERE education = 5 and maritalstatus > 5 and sex != 0 and hoursperweek <= 60 and nativecountry > 16 
+compilation time: 0.860204ms
+Execution time: 0.338121ms
+SELECT id FROM data WHERE educationnum < 15 and race >= 4 and capitalgain >= 44 and hoursperweek < 33 and nativecountry != 19 
+compilation time: 0.856101ms
+Execution time: 0.248068ms
+SELECT id FROM data WHERE age >= 23 and workclass != 4 and educationnum >= 2 and maritalstatus < 6 and occupation >= 4 and relationship > 2 and capitalgain != 106 and nativecountry >= 39 
+compilation time: 1.48636ms
+Execution time: 0.252415ms
+SELECT id FROM data WHERE age = 42 and race >= 4 and sex < 1 
+compilation time: 0.485258ms
+Execution time: 0.222292ms
+SELECT id FROM data WHERE age < 71 and maritalstatus >= 6 and race <= 1 
+compilation time: 0.503626ms
+Execution time: 0.270492ms
+SELECT id FROM data WHERE educationnum < 8 and occupation <= 13 and hoursperweek = 49 
+compilation time: 0.485198ms
+Execution time: 0.236689ms
+SELECT id FROM data WHERE educationnum = 11 and capitalgain < 56 and hoursperweek <= 63 and nativecountry > 10 
+compilation time: 0.698613ms
+Execution time: 0.217885ms
+SELECT id FROM data WHERE maritalstatus != 5 and relationship > 3 and race < 2 
+compilation time: 0.490014ms
+Execution time: 0.302984ms
+SELECT id FROM data WHERE workclass != 3 and education = 14 and educationnum >= 2 and capitalloss >= 71 and hoursperweek < 26 
+compilation time: 0.855346ms
+Execution time: 0.286075ms
+SELECT id FROM data WHERE age < 17 and relationship >= 5 and hoursperweek != 58 
+compilation time: 0.520901ms
+Execution time: 0.290156ms
+SELECT id FROM data WHERE maritalstatus = 5 and relationship != 3 
+compilation time: 0.362894ms
+Execution time: 0.309992ms
+SELECT id FROM data WHERE educationnum = 5 and capitalgain >= 98 and hoursperweek = 8 
+compilation time: 0.50461ms
+Execution time: 0.320989ms
+SELECT id FROM data WHERE relationship < 2 and race >= 2 and age != 66 and nativecountry != 24 and maritalstatus >= 2 and educationnum < 9  
+compilation time: 1.02832ms
+Execution time: 0.227338ms
+SELECT id FROM data WHERE education = 4 and maritalstatus >= 3 and occupation <= 13 and race != 2 and capitalloss > 56 and nativecountry = 6 
+compilation time: 0.989604ms
+Execution time: 0.273687ms
+SELECT id FROM data WHERE age < 65 and education != 7 and educationnum < 5 and maritalstatus >= 0 and race > 1 and capitalloss = 55 and hoursperweek >= 24 and nativecountry <= 30 
+compilation time: 1.38146ms
+Execution time: 0.32699ms
+SELECT id FROM data WHERE age >= 26 and workclass > 1 and education = 0 and educationnum < 13 and maritalstatus = 0 and occupation <= 13 and race = 0 and capitalgain < 23 and nativecountry != 7 
+compilation time: 1.51894ms
+Execution time: 0.36767ms
+SELECT id FROM data WHERE workclass <= 8 and race < 0 and capitalloss < 34 
+compilation time: 0.568581ms
+Execution time: 0.210101ms
+SELECT id FROM data WHERE race = 2 and capitalloss > 20 and hoursperweek >= 7 
+compilation time: 0.48322ms
+Execution time: 0.319432ms
+SELECT id FROM data WHERE educationnum >= 6 and occupation != 4 and relationship >= 2 and sex <= 0 and nativecountry < 1 
+compilation time: 0.86398ms
+Execution time: 0.304583ms
+SELECT id FROM data WHERE occupation = 1 and relationship > 5 and capitalgain != 103 
+compilation time: 0.513196ms
+Execution time: 0.19881ms
+SELECT id FROM data WHERE age = 21 and maritalstatus = 6 and relationship < 1 
+compilation time: 0.481311ms
+Execution time: 0.27762ms
+SELECT id FROM data WHERE relationship < 4 and race >= 3 
+compilation time: 0.371513ms
+Execution time: 0.292679ms
+SELECT id FROM data WHERE workclass >= 8 and education < 9 and relationship > 1 and hoursperweek != 83 
+compilation time: 0.677736ms
+Execution time: 0.323866ms
+SELECT id FROM data WHERE workclass <= 7 and relationship != 3 and capitalgain >= 87 
+compilation time: 0.489204ms
+Execution time: 0.264888ms
+SELECT id FROM data WHERE age = 58 and occupation < 11 and relationship <= 1 
+compilation time: 0.506805ms
+Execution time: 0.321556ms
+SELECT id FROM data WHERE workclass < 7 and education != 2 and educationnum > 6 and occupation != 6 and race < 4 and capitalloss <= 31 and hoursperweek >= 92 and nativecountry <= 19 
+compilation time: 1.40678ms
+Execution time: 0.361682ms
+SELECT id FROM data WHERE maritalstatus >= 6 and relationship > 1 and capitalgain > 45 and nativecountry > 2 
+compilation time: 0.693316ms
+Execution time: 0.328607ms
+SELECT id FROM data WHERE workclass = 6 and relationship > 0 and capitalloss >= 27 and nativecountry >= 3 
+compilation time: 0.680642ms
+Execution time: 0.279716ms
+SELECT id FROM data WHERE sex = 0 and race != 1  
+compilation time: 0.342379ms
+Execution time: 0.276423ms
+SELECT id FROM data WHERE educationnum < 1 
+compilation time: 0.170329ms
+Execution time: 0.163873ms
+SELECT id FROM data WHERE educationnum <= 0 and capitalgain > 64 
+compilation time: 0.350979ms
+Execution time: 0.178971ms
+SELECT id FROM data WHERE workclass < 0 and educationnum > 6 and maritalstatus != 2 and occupation < 12 and hoursperweek > 83 and nativecountry < 6 
+compilation time: 0.979381ms
+Execution time: 0.324677ms
+SELECT id FROM data WHERE age > 17 and maritalstatus = 1 and occupation >= 14 and relationship = 2 and race = 1 and sex != 0 and capitalgain != 28 and capitalloss >= 96 
+compilation time: 1.35362ms
+Execution time: 0.335719ms
+SELECT id FROM data WHERE relationship <= 3 and capitalgain != 119 and capitalloss >= 92 
+compilation time: 0.580877ms
+Execution time: 0.202376ms
+SELECT id FROM data WHERE relationship <= 4 and sex > 1 and capitalgain = 84 and capitalloss < 21 and hoursperweek >= 68 and nativecountry < 23 
+compilation time: 0.995781ms
+Execution time: 0.35853ms
+SELECT id FROM data WHERE age < 32 and workclass > 1 and occupation > 11 and capitalgain != 0 and nativecountry = 21 
+compilation time: 0.852438ms
+Execution time: 0.299954ms
+SELECT id FROM data WHERE education <= 0 and maritalstatus != 5 and occupation > 5 and relationship <= 4 
+compilation time: 0.686563ms
+Execution time: 0.20662ms
+SELECT id FROM data WHERE capitalloss != 12 and sex = 0 and nativecountry > 6 and education > 5  
+compilation time: 0.698754ms
+Execution time: 0.329265ms
+SELECT id FROM data 
+compilation time: 0.000595ms
+Execution time: 0.410879ms
+SELECT id FROM data WHERE occupation = 3 and sex = 1 and capitalgain > 114 and nativecountry < 28 
+compilation time: 0.639512ms
+Execution time: 0.270447ms
+SELECT id FROM data WHERE age <= 15 and workclass = 4 and education = 7 and educationnum >= 3 and occupation != 8 
+compilation time: 0.825872ms
+Execution time: 0.276681ms
+SELECT id FROM data WHERE educationnum = 0 and relationship <= 1 and sex != 0 and hoursperweek != 52 
+compilation time: 0.718844ms
+Execution time: 0.204322ms
+SELECT id FROM data WHERE educationnum < 6 and sex >= 1 and nativecountry >= 33 
+compilation time: 0.486496ms
+Execution time: 0.316586ms
+SELECT id FROM data WHERE age = 19 and workclass = 1 and educationnum <= 0 and occupation > 2 and race > 2 and capitalloss > 21 and hoursperweek > 39 
+compilation time: 1.18337ms
+Execution time: 0.353409ms
+SELECT id FROM data WHERE workclass >= 4 and relationship > 1 and race != 3 and hoursperweek < 27 
+compilation time: 0.691167ms
+Execution time: 0.259515ms
+SELECT id FROM data WHERE occupation <= 6 and relationship >= 1 and maritalstatus > 0  
+compilation time: 0.56677ms
+Execution time: 0.337772ms
+SELECT id FROM data WHERE workclass = 2 
+compilation time: 0.162658ms
+Execution time: 0.297572ms
+SELECT id FROM data WHERE nativecountry >= 6 and occupation > 5 and occupation < 11 and relationship >= 1  
+compilation time: 0.681682ms
+Execution time: 0.330416ms
+SELECT id FROM data WHERE workclass > 0 and educationnum > 9 and maritalstatus < 0 and occupation <= 9 and nativecountry = 8 
+compilation time: 0.865097ms
+Execution time: 0.311532ms
+SELECT id FROM data WHERE age > 32 and workclass != 3 and education != 6 and educationnum <= 12 and relationship > 0 and nativecountry = 16 
+compilation time: 1.09235ms
+Execution time: 0.327376ms
+SELECT id FROM data WHERE maritalstatus = 0 and capitalgain <= 101 and capitalloss >= 31 
+compilation time: 0.522872ms
+Execution time: 0.320192ms
+SELECT id FROM data WHERE age < 24 and workclass >= 1 and education < 5 and relationship > 4 and sex < 1 
+compilation time: 0.855814ms
+Execution time: 0.226684ms
+SELECT id FROM data WHERE workclass = 1 and race > 4 and sex > 1 and capitalloss != 51 and hoursperweek > 90 
+compilation time: 0.833493ms
+Execution time: 0.273262ms
+SELECT id FROM data WHERE sex <= 0 and capitalgain < 61 and capitalloss >= 44 and hoursperweek <= 43 
+compilation time: 0.694941ms
+Execution time: 0.209034ms
+SELECT id FROM data WHERE relationship >= 4 and race >= 4 and hoursperweek > 15 
+compilation time: 0.487846ms
+Execution time: 0.194332ms
+SELECT id FROM data WHERE workclass < 7 and educationnum > 12 and occupation > 6 and race <= 3 and hoursperweek != 95 
+compilation time: 0.833555ms
+Execution time: 0.217368ms
+SELECT id FROM data WHERE educationnum != 7 and relationship < 4 and race < 2 and sex >= 0 and capitalloss >= 30 
+compilation time: 0.829594ms
+Execution time: 0.233365ms
+SELECT id FROM data WHERE age != 72 and education > 12 and occupation = 12 and capitalgain <= 118 and capitalloss <= 47 and nativecountry >= 17 
+compilation time: 1.05187ms
+Execution time: 0.249213ms
+SELECT id FROM data WHERE workclass < 2 and relationship != 1 and race < 4 and sex > 0 and nativecountry >= 14 
+compilation time: 0.843461ms
+Execution time: 0.242483ms
+SELECT id FROM data WHERE workclass > 4 and maritalstatus >= 5 and relationship < 4 and sex < 0 
+compilation time: 0.712301ms
+Execution time: 0.262192ms
+SELECT id FROM data WHERE maritalstatus > 0 and occupation > 4 and sex != 1 and capitalgain < 59 and hoursperweek <= 6 
+compilation time: 0.844807ms
+Execution time: 0.309996ms
+SELECT id FROM data WHERE workclass < 8 and relationship >= 1 
+compilation time: 0.330579ms
+Execution time: 0.219347ms
+SELECT id FROM data WHERE education = 10 and maritalstatus > 5 and sex = 0 
+compilation time: 0.498105ms
+Execution time: 0.329134ms
+SELECT id FROM data WHERE sex <= 0 and capitalgain != 112 
+compilation time: 0.352195ms
+Execution time: 0.190397ms
+SELECT id FROM data WHERE maritalstatus < 5 and capitalloss <= 78 and occupation <= 3  
+compilation time: 0.494691ms
+Execution time: 0.222915ms
+SELECT id FROM data WHERE age = 30 and education < 9 and educationnum != 12 and occupation <= 5 and race < 1 and capitalloss <= 40 
+compilation time: 1.06708ms
+Execution time: 0.276598ms
+SELECT id FROM data WHERE sex > 0 and occupation >= 8 and maritalstatus <= 5  
+compilation time: 0.502481ms
+Execution time: 0.223827ms
+SELECT id FROM data WHERE age = 15 and workclass > 4 and educationnum > 10 and maritalstatus = 3 and capitalloss <= 76 
+compilation time: 0.837569ms
+Execution time: 0.304906ms
+SELECT id FROM data WHERE educationnum <= 14 and age < 18 and education > 6  
+compilation time: 0.507947ms
+Execution time: 0.226238ms
+SELECT id FROM data WHERE workclass > 7 and education <= 8 and educationnum = 6 and occupation > 7 and relationship < 0 and race <= 4 and capitalgain >= 11 and capitalloss = 32 
+compilation time: 1.42768ms
+Execution time: 0.26481ms
+SELECT id FROM data WHERE race <= 0 and sex = 1 
+compilation time: 0.327219ms
+Execution time: 0.21503ms
+SELECT id FROM data WHERE workclass >= 2 and educationnum != 6 and maritalstatus < 3 and capitalloss = 17 and nativecountry > 10 
+compilation time: 0.838012ms
+Execution time: 0.349028ms
+SELECT id FROM data WHERE relationship = 1 and capitalloss < 51 and maritalstatus < 5  
+compilation time: 0.523363ms
+Execution time: 0.318442ms
+SELECT id FROM data WHERE age != 45 and workclass <= 7 and educationnum > 0 and capitalloss = 51 
+compilation time: 0.737181ms
+Execution time: 0.378494ms
+SELECT id FROM data WHERE age != 53 and maritalstatus > 1 and capitalloss > 32 and hoursperweek < 11 
+compilation time: 0.669067ms
+Execution time: 0.217973ms
+SELECT id FROM data WHERE age > 32 and workclass >= 1 and capitalloss = 21 and hoursperweek >= 71 
+compilation time: 0.661918ms
+Execution time: 0.332307ms
+SELECT id FROM data WHERE educationnum = 9 and sex <= 0 and nativecountry > 20 
+compilation time: 0.526732ms
+Execution time: 0.200573ms
+SELECT id FROM data WHERE age >= 57 and sex > 1 and nativecountry != 28 
+compilation time: 0.484905ms
+Execution time: 0.233065ms
+SELECT id FROM data WHERE age < 61 and workclass != 2 and occupation <= 14 and sex != 1 
+compilation time: 0.696526ms
+Execution time: 0.331601ms
+SELECT id FROM data WHERE age > 19 and occupation != 5 and relationship >= 2 and nativecountry >= 39 
+compilation time: 0.690047ms
+Execution time: 0.207228ms
+SELECT id FROM data WHERE age >= 35 and education != 15 and maritalstatus >= 5 and relationship <= 4 and race <= 4 and capitalloss = 72 and nativecountry > 30 
+compilation time: 1.16541ms
+Execution time: 0.354101ms
+SELECT id FROM data WHERE workclass > 6 and occupation = 11 and race = 1 and capitalgain > 7 and hoursperweek < 44 and nativecountry >= 4 
+compilation time: 1.08771ms
+Execution time: 0.307504ms
+SELECT id FROM data WHERE age > 20 and race >= 3  
+compilation time: 0.35876ms
+Execution time: 0.327558ms
+SELECT id FROM data WHERE age <= 27 and workclass > 2 and occupation >= 0 and capitalloss != 13 
+compilation time: 0.692891ms
+Execution time: 0.23481ms
+SELECT id FROM data WHERE workclass != 0 and education <= 2 and maritalstatus < 3 and relationship <= 4 and sex > 1 and hoursperweek > 45 
+compilation time: 1.01207ms
+Execution time: 0.237597ms
+SELECT id FROM data WHERE age < 45 and educationnum >= 6 and maritalstatus < 0 and sex < 1 and capitalloss > 74 and hoursperweek > 56 and nativecountry = 40 
+compilation time: 1.21979ms
+Execution time: 0.244587ms
+SELECT id FROM data WHERE race != 3 and age >= 1 and education > 1 and educationnum = 8 and age >= 5  
+compilation time: 0.834924ms
+Execution time: 0.357965ms
+SELECT id FROM data WHERE education < 5 and occupation <= 3 and race > 2 and capitalloss = 43 
+compilation time: 0.746206ms
+Execution time: 0.332736ms
+SELECT id FROM data WHERE age < 27 and maritalstatus >= 2 and relationship > 3 and sex != 0 and capitalgain > 22 and hoursperweek >= 52 
+compilation time: 1.08817ms
+Execution time: 0.345777ms
+SELECT id FROM data WHERE maritalstatus >= 3 and sex != 0  
+compilation time: 0.350702ms
+Execution time: 0.329129ms
+SELECT id FROM data WHERE education <= 0 and occupation > 8 
+compilation time: 0.344409ms
+Execution time: 0.189179ms
+SELECT id FROM data WHERE workclass >= 0 and capitalgain > 73 
+compilation time: 0.323304ms
+Execution time: 0.31168ms
+SELECT id FROM data WHERE age <= 73 and education != 7 and relationship = 5 
+compilation time: 0.50513ms
+Execution time: 0.209759ms
+SELECT id FROM data WHERE age < 69 and education >= 9 and race <= 1 and sex < 1 and hoursperweek != 27 and nativecountry >= 25 
+compilation time: 1.08177ms
+Execution time: 0.24707ms
+SELECT id FROM data WHERE relationship < 4 and race = 1 and sex != 0 and hoursperweek <= 84 
+compilation time: 0.699578ms
+Execution time: 0.246153ms
+SELECT id FROM data WHERE educationnum != 13 and maritalstatus > 0 and relationship != 4 and sex > 0 
+compilation time: 0.77582ms
+Execution time: 0.235984ms
+SELECT id FROM data WHERE education <= 14 and relationship > 1 and race <= 2 and capitalloss != 65 and hoursperweek <= 22 and nativecountry >= 35 
+compilation time: 1.07372ms
+Execution time: 0.249109ms
+SELECT id FROM data WHERE capitalgain > 106 
+compilation time: 0.147828ms
+Execution time: 0.234805ms
+SELECT id FROM data WHERE relationship >= 0 and capitalgain = 7 and capitalloss = 98 and hoursperweek = 84 
+compilation time: 0.691831ms
+Execution time: 0.336633ms
+SELECT id FROM data WHERE sex < 0 and capitalloss != 21 
+compilation time: 0.354669ms
+Execution time: 0.189546ms
+SELECT id FROM data WHERE age = 54 and workclass >= 8 and education <= 11 and occupation = 1 
+compilation time: 0.657621ms
+Execution time: 0.220519ms
+SELECT id FROM data WHERE workclass != 2 and relationship > 5 and hoursperweek >= 30 and nativecountry != 16 
+compilation time: 0.668943ms
+Execution time: 0.258576ms
+SELECT id FROM data WHERE age != 2 and relationship <= 2 and sex < 1 
+compilation time: 0.48986ms
+Execution time: 0.201298ms
+SELECT id FROM data WHERE race > 1 and capitalgain < 65 
+compilation time: 0.31313ms
+Execution time: 0.349014ms
+SELECT id FROM data WHERE workclass != 6 and maritalstatus > 3 and capitalgain = 45 and capitalloss < 92 and hoursperweek = 14 
+compilation time: 0.841218ms
+Execution time: 0.339997ms
+SELECT id FROM data WHERE educationnum != 3 and relationship > 5 and capitalgain != 45 and capitalloss >= 94 
+compilation time: 0.691856ms
+Execution time: 0.211454ms
+SELECT id FROM data WHERE workclass != 6 and maritalstatus < 5 and race < 4 
+compilation time: 0.53078ms
+Execution time: 0.324212ms
+SELECT id FROM data WHERE race <= 1 and capitalloss = 7 and nativecountry != 10 
+compilation time: 0.506704ms
+Execution time: 0.197739ms
+SELECT id FROM data WHERE education = 12 and educationnum > 13 and race > 1 and capitalgain < 110 and capitalloss < 5 
+compilation time: 0.822477ms
+Execution time: 0.21255ms
+SELECT id FROM data WHERE education <= 13 and capitalloss = 7 
+compilation time: 0.313032ms
+Execution time: 0.18929ms
+SELECT id FROM data WHERE age > 70 and workclass != 7 and capitalgain >= 114 and capitalloss = 19 
+compilation time: 0.657372ms
+Execution time: 0.233753ms
+SELECT id FROM data WHERE occupation != 11 
+compilation time: 0.152879ms
+Execution time: 0.204227ms
+SELECT id FROM data WHERE age > 14 
+compilation time: 0.146029ms
+Execution time: 0.20345ms
+SELECT id FROM data WHERE occupation <= 6 and occupation <= 9 and race != 2  
+compilation time: 0.504432ms
+Execution time: 0.228573ms
+SELECT id FROM data WHERE workclass > 3 and education <= 9 and sex >= 0 and nativecountry >= 23  
+compilation time: 0.674143ms
+Execution time: 0.235958ms
+SELECT id FROM data WHERE education != 4 and educationnum = 0 and relationship > 5 and capitalgain >= 68 and hoursperweek > 66 
+compilation time: 0.84165ms
+Execution time: 0.241022ms
+SELECT id FROM data WHERE maritalstatus != 0 and hoursperweek >= 56 and nativecountry > 20 
+compilation time: 0.531416ms
+Execution time: 0.341675ms
+SELECT id FROM data WHERE workclass < 4 and occupation > 2 and race >= 3 and hoursperweek < 76 and nativecountry = 9 
+compilation time: 0.858476ms
+Execution time: 0.341331ms
+SELECT id FROM data WHERE relationship > 4 and capitalgain < 63 and hoursperweek != 25 
+compilation time: 0.521269ms
+Execution time: 0.323154ms
+SELECT id FROM data WHERE age >= 68 and educationnum >= 3 and nativecountry <= 15 
+compilation time: 0.522258ms
+Execution time: 0.300664ms
+SELECT id FROM data WHERE workclass < 1 and maritalstatus > 6 and relationship <= 4 and sex >= 1 
+compilation time: 0.733887ms
+Execution time: 0.223289ms
+SELECT id FROM data WHERE maritalstatus > 5 and capitalgain < 42 and hoursperweek < 29 and nativecountry = 28 
+compilation time: 0.657722ms
+Execution time: 0.228996ms
+SELECT id FROM data WHERE workclass < 1 and education = 6 and educationnum < 11 and hoursperweek >= 37 and nativecountry != 31 
+compilation time: 0.840761ms
+Execution time: 0.242104ms
+SELECT id FROM data WHERE education != 1 and relationship = 5 and race != 2 and capitalloss = 30 
+compilation time: 0.663772ms
+Execution time: 0.241598ms
+SELECT id FROM data WHERE education > 12 and hoursperweek < 70 
+compilation time: 0.328587ms
+Execution time: 0.216612ms
+SELECT id FROM data WHERE education <= 4 and maritalstatus = 6 and occupation != 14 and capitalloss != 75 and nativecountry < 35 
+compilation time: 0.884049ms
+Execution time: 0.242701ms
+SELECT id FROM data WHERE workclass = 6 and capitalloss > 12 and hoursperweek < 47 
+compilation time: 0.498462ms
+Execution time: 0.224763ms
+SELECT id FROM data WHERE education >= 11 and maritalstatus != 3 and sex <= 0 and nativecountry = 29 
+compilation time: 0.672343ms
+Execution time: 0.259498ms
+SELECT id FROM data WHERE education != 6 and educationnum >= 15 and maritalstatus != 2 and occupation < 2 and sex < 1 and capitalloss >= 21 
+compilation time: 1.01447ms
+Execution time: 0.270227ms
+SELECT id FROM data WHERE education < 1 and maritalstatus > 5 and relationship < 4 and capitalgain > 81 and hoursperweek < 1 
+compilation time: 0.887811ms
+Execution time: 0.311027ms
+SELECT id FROM data WHERE age = 25 and education != 11 and educationnum = 1 and maritalstatus = 5 and race <= 2 and sex != 0 
+compilation time: 1.01294ms
+Execution time: 0.251479ms
+SELECT id FROM data WHERE occupation > 0 and capitalloss != 22 
+compilation time: 0.327596ms
+Execution time: 0.208224ms
+SELECT id FROM data WHERE educationnum != 1 and maritalstatus <= 3 and occupation >= 8 and race = 2 
+compilation time: 0.66525ms
+Execution time: 0.274751ms
+SELECT id FROM data WHERE workclass = 8 and education != 3 and maritalstatus < 2 and relationship > 3 and race < 4 and capitalloss >= 11 and nativecountry != 3 
+compilation time: 1.1494ms
+Execution time: 0.284911ms
+SELECT id FROM data WHERE occupation != 5 and hoursperweek != 83 
+compilation time: 0.328629ms
+Execution time: 0.313411ms
+SELECT id FROM data WHERE education != 6 and educationnum = 13 
+compilation time: 0.353054ms
+Execution time: 0.301463ms
+SELECT id FROM data WHERE age <= 65 and workclass >= 4 and maritalstatus = 4 and sex != 1 and hoursperweek != 56 
+compilation time: 0.827975ms
+Execution time: 0.237915ms
+SELECT id FROM data WHERE education >= 11 and occupation >= 4  
+compilation time: 0.405512ms
+Execution time: 0.293651ms
+SELECT id FROM data WHERE age > 73 and education = 4 and capitalgain <= 115 
+compilation time: 0.506758ms
+Execution time: 0.191645ms
+SELECT id FROM data WHERE workclass != 2 and occupation < 12 and relationship < 2 and sex < 1 and capitalloss > 59 
+compilation time: 0.80114ms
+Execution time: 0.320066ms
+SELECT id FROM data WHERE education = 11 and sex > 0  
+compilation time: 0.357213ms
+Execution time: 0.169274ms
+SELECT id FROM data WHERE occupation <= 3 and race = 2 and capitalloss <= 98 and hoursperweek = 45 
+compilation time: 0.640149ms
+Execution time: 0.249946ms
+SELECT id FROM data WHERE age >= 56 and maritalstatus = 6 and sex > 0 
+compilation time: 0.527683ms
+Execution time: 0.181302ms
+SELECT id FROM data WHERE capitalgain <= 36 and capitalgain < 85 and capitalloss != 68 and educationnum > 11  
+compilation time: 0.740532ms
+Execution time: 0.328722ms
+SELECT id FROM data WHERE age = 8 and workclass < 8 and occupation <= 10 and race >= 2 and sex != 1 and capitalgain < 66 
+compilation time: 1.06849ms
+Execution time: 0.268372ms
+SELECT id FROM data WHERE age = 42 and workclass > 3 and race > 3 and capitalloss < 78 
+compilation time: 0.658546ms
+Execution time: 0.268651ms
+SELECT id FROM data WHERE education != 7 and educationnum = 2 and sex != 1 and capitalgain = 51 
+compilation time: 0.662998ms
+Execution time: 0.235694ms
+SELECT id FROM data WHERE maritalstatus != 6 
+compilation time: 0.145368ms
+Execution time: 0.20237ms
+SELECT id FROM data WHERE educationnum > 7 and relationship < 4 and capitalgain = 71 and capitalloss = 65 and hoursperweek <= 51 and nativecountry >= 20 
+compilation time: 1.00723ms
+Execution time: 0.247913ms
+SELECT id FROM data WHERE age > 53 and sex != 0 and capitalloss > 97 and hoursperweek > 68 and nativecountry = 23 
+compilation time: 0.840762ms
+Execution time: 0.239473ms
+SELECT id FROM data WHERE age >= 64 and hoursperweek <= 17 
+compilation time: 0.400091ms
+Execution time: 0.247187ms
+SELECT id FROM data WHERE maritalstatus != 2 and occupation >= 5 and race >= 4 and hoursperweek = 55 and nativecountry >= 18 
+compilation time: 0.864862ms
+Execution time: 0.346187ms
+SELECT id FROM data WHERE age != 45 and relationship < 2 and race = 3 and capitalloss != 22 
+compilation time: 0.691772ms
+Execution time: 0.302872ms
+SELECT id FROM data WHERE age < 9 and education >= 15 and educationnum <= 0 and capitalgain > 112 and nativecountry != 9 
+compilation time: 0.845006ms
+Execution time: 0.306926ms
+SELECT id FROM data WHERE educationnum > 7 and occupation = 5 and capitalgain = 51 
+compilation time: 0.518855ms
+Execution time: 0.321292ms
+SELECT id FROM data WHERE occupation >= 6 and sex != 0 and capitalloss > 40 
+compilation time: 0.511156ms
+Execution time: 0.254832ms
+SELECT id FROM data WHERE educationnum < 2 and race <= 4 and capitalgain = 80 and capitalloss >= 34 
+compilation time: 0.67131ms
+Execution time: 0.232315ms
+SELECT id FROM data WHERE workclass < 8 and occupation >= 8 and hoursperweek = 72 and nativecountry > 41 
+compilation time: 0.673894ms
+Execution time: 0.231353ms
+SELECT id FROM data WHERE capitalgain = 89 
+compilation time: 0.143574ms
+Execution time: 0.199057ms
+SELECT id FROM data WHERE age > 12 and occupation < 0 and hoursperweek <= 2 and nativecountry = 11 
+compilation time: 0.723226ms
+Execution time: 0.339423ms
+SELECT id FROM data WHERE age = 69 and education >= 9 and educationnum != 4 and maritalstatus <= 5 and relationship < 5 and sex >= 1 and hoursperweek >= 49 
+compilation time: 1.18826ms
+Execution time: 0.354778ms
+SELECT id FROM data WHERE age != 34 and occupation > 1 and hoursperweek = 82 
+compilation time: 0.523849ms
+Execution time: 0.320556ms
+SELECT id FROM data WHERE education = 10 and occupation != 6 and capitalgain > 87 
+compilation time: 0.48323ms
+Execution time: 0.203521ms
+SELECT id FROM data WHERE age < 47 and workclass < 6 and maritalstatus >= 5 
+compilation time: 0.524137ms
+Execution time: 0.357676ms
+SELECT id FROM data WHERE workclass = 3 and race >= 1 and sex <= 1 and hoursperweek != 89 
+compilation time: 0.669408ms
+Execution time: 0.216082ms
+SELECT id FROM data WHERE age = 34 and maritalstatus != 2 and relationship = 0 and capitalgain <= 48 
+compilation time: 0.719825ms
+Execution time: 0.299563ms
+SELECT id FROM data WHERE race >= 0 and education <= 9 and occupation != 3 and nativecountry != 1 and occupation > 1  
+compilation time: 0.86075ms
+Execution time: 0.256539ms
+SELECT id FROM data WHERE relationship != 5 and race <= 0 and nativecountry > 17 
+compilation time: 0.530731ms
+Execution time: 0.302976ms
+SELECT id FROM data WHERE age >= 61 and workclass < 4 and sex <= 1 
+compilation time: 0.52396ms
+Execution time: 0.317113ms
+SELECT id FROM data WHERE workclass = 0 and educationnum != 3 and maritalstatus != 6 and occupation <= 8 and capitalgain <= 118 and capitalloss > 66 
+compilation time: 1.02319ms
+Execution time: 0.224129ms
+SELECT id FROM data WHERE workclass != 2 and educationnum <= 0 and race <= 4 and capitalgain = 121 and capitalloss >= 92 and hoursperweek >= 69 
+compilation time: 1.00777ms
+Execution time: 0.420701ms
+SELECT id FROM data WHERE educationnum < 9 and capitalloss < 88  
+compilation time: 0.355146ms
+Execution time: 0.308859ms
+SELECT id FROM data WHERE educationnum < 13 and maritalstatus = 0 and occupation <= 13 and relationship <= 0 and capitalgain = 51 
+compilation time: 0.853711ms
+Execution time: 0.218209ms
+SELECT id FROM data WHERE age = 26 and education <= 3 and educationnum < 7 and maritalstatus = 6 and relationship > 4 and capitalloss < 12 
+compilation time: 0.99271ms
+Execution time: 0.360367ms
+SELECT id FROM data WHERE workclass < 8 and maritalstatus >= 2 and occupation = 0 and sex < 0 and capitalloss < 30 
+compilation time: 0.901802ms
+Execution time: 0.339033ms
+SELECT id FROM data WHERE education < 5 and occupation >= 10 and relationship != 1 and race >= 4 and hoursperweek >= 69 
+compilation time: 0.85389ms
+Execution time: 0.336439ms
+SELECT id FROM data WHERE workclass >= 1 and education < 1 and educationnum < 2 and relationship < 2 and capitalloss < 90 and nativecountry < 41 
+compilation time: 1.0311ms
+Execution time: 0.34272ms
+SELECT id FROM data WHERE hoursperweek != 39 and relationship < 3 and workclass < 5  
+compilation time: 0.525913ms
+Execution time: 0.31761ms
+SELECT id FROM data WHERE age = 36 and education <= 5 and educationnum = 3 and race >= 0 and sex = 1 and capitalgain >= 13 
+compilation time: 0.986237ms
+Execution time: 0.300121ms
+SELECT id FROM data WHERE age != 25 and workclass >= 7 and educationnum > 10 and race > 2 and sex = 0 and capitalloss > 66 
+compilation time: 0.988766ms
+Execution time: 0.305539ms
+SELECT id FROM data WHERE education = 0 and educationnum = 8 and maritalstatus < 2 and race <= 3 and capitalloss < 8 and hoursperweek <= 14 
+compilation time: 0.996674ms
+Execution time: 0.412813ms
+SELECT id FROM data WHERE educationnum != 6 and capitalgain >= 54 and hoursperweek >= 17 and nativecountry > 2 
+compilation time: 0.718404ms
+Execution time: 0.235719ms
+SELECT id FROM data WHERE workclass != 7 and education > 6 and maritalstatus > 0 and sex != 1 
+compilation time: 0.655711ms
+Execution time: 0.228389ms
+SELECT id FROM data WHERE occupation <= 13 and maritalstatus < 4  
+compilation time: 0.329483ms
+Execution time: 0.216101ms
+SELECT id FROM data WHERE workclass <= 5 and capitalloss <= 20 
+compilation time: 0.330956ms
+Execution time: 0.204745ms
+SELECT id FROM data WHERE maritalstatus >= 4 and occupation < 13 and capitalloss = 80 
+compilation time: 0.492636ms
+Execution time: 0.224886ms
+SELECT id FROM data WHERE occupation != 0 and capitalgain >= 119 and hoursperweek >= 73 and nativecountry < 9 
+compilation time: 0.693943ms
+Execution time: 0.327366ms
+SELECT id FROM data WHERE relationship > 2 and educationnum >= 2 and age < 65  
+compilation time: 0.52262ms
+Execution time: 0.204005ms
+SELECT id FROM data WHERE age = 46 and workclass != 5 and educationnum <= 11 and relationship != 4 
+compilation time: 0.65261ms
+Execution time: 0.207109ms
+SELECT id FROM data WHERE maritalstatus = 4 and educationnum < 10 and hoursperweek <= 53  
+compilation time: 0.490523ms
+Execution time: 0.20108ms
+SELECT id FROM data WHERE educationnum >= 4 and maritalstatus < 5 and occupation != 9 
+compilation time: 0.486737ms
+Execution time: 0.2468ms
+SELECT id FROM data WHERE age >= 61 and education > 4 and maritalstatus >= 2 and occupation <= 8 and relationship = 1 and capitalloss >= 75 
+compilation time: 1.01593ms
+Execution time: 0.25343ms
+SELECT id FROM data WHERE age != 37 and maritalstatus = 5 and relationship != 1 and race = 2 and capitalgain > 12 and capitalloss != 22 and nativecountry < 32 
+compilation time: 1.18256ms
+Execution time: 0.297078ms
+SELECT id FROM data WHERE workclass != 1 and maritalstatus >= 5 and sex = 0 and capitalgain = 97 and capitalloss > 74 and hoursperweek != 68 
+compilation time: 1.06424ms
+Execution time: 0.348863ms
+SELECT id FROM data WHERE sex > 0 and capitalloss > 42 and hoursperweek = 52 and nativecountry >= 2 
+compilation time: 0.693972ms
+Execution time: 0.208272ms
+SELECT id FROM data WHERE workclass = 8 and capitalloss > 95 and nativecountry >= 33 
+compilation time: 0.487863ms
+Execution time: 0.318769ms
+SELECT id FROM data WHERE educationnum = 2 and maritalstatus <= 2 and race < 3 and hoursperweek < 1 
+compilation time: 0.684547ms
+Execution time: 0.327205ms
+SELECT id FROM data WHERE race = 1 
+compilation time: 0.171385ms
+Execution time: 0.330919ms
+SELECT id FROM data WHERE educationnum > 0 and relationship = 2 and hoursperweek >= 28 and nativecountry >= 38 
+compilation time: 0.728459ms
+Execution time: 0.210021ms
+SELECT id FROM data WHERE capitalloss < 24 and maritalstatus != 5 and maritalstatus >= 4 and capitalgain <= 27  
+compilation time: 0.656425ms
+Execution time: 0.348115ms
+SELECT id FROM data 
+compilation time: 0.000696ms
+Execution time: 0.328331ms
+SELECT id FROM data WHERE age <= 52 and workclass >= 4 and education >= 15 and maritalstatus < 1 and capitalgain <= 114 
+compilation time: 0.89837ms
+Execution time: 0.229316ms
+SELECT id FROM data WHERE education >= 2 and educationnum > 7 and maritalstatus >= 5 and race > 3 and sex < 1 and capitalgain != 56 and capitalloss < 12 and hoursperweek > 13 
+compilation time: 1.41249ms
+Execution time: 0.369134ms
+SELECT id FROM data WHERE age <= 56 and workclass <= 0 and nativecountry < 10 
+compilation time: 0.526362ms
+Execution time: 0.30361ms
+SELECT id FROM data WHERE workclass = 1 and maritalstatus < 0 and occupation < 1 and race < 2 and sex < 0 and capitalloss > 46 
+compilation time: 1.0173ms
+Execution time: 0.343377ms
+SELECT id FROM data WHERE workclass <= 2 and relationship <= 3 and race >= 1 and capitalloss >= 7 and nativecountry >= 27 
+compilation time: 0.916511ms
+Execution time: 0.301165ms
+SELECT id FROM data WHERE maritalstatus > 2 and sex != 0  
+compilation time: 0.38429ms
+Execution time: 0.339573ms
+SELECT id FROM data WHERE educationnum >= 7 and maritalstatus != 0 and relationship > 5 and race <= 4 and sex > 0 
+compilation time: 0.840517ms
+Execution time: 0.314631ms
+SELECT id FROM data WHERE workclass > 5 and education < 6 and relationship > 1 and capitalgain = 93 
+compilation time: 0.655229ms
+Execution time: 0.291844ms
+SELECT id FROM data WHERE age >= 56 and educationnum >= 9 and sex >= 0 
+compilation time: 0.583491ms
+Execution time: 0.318039ms
+SELECT id FROM data WHERE education <= 1 and educationnum > 12 and relationship >= 0 and sex >= 1 and hoursperweek != 57 
+compilation time: 0.857044ms
+Execution time: 0.336518ms
+SELECT id FROM data WHERE education != 4 and race = 4 
+compilation time: 0.363924ms
+Execution time: 0.327629ms
+SELECT id FROM data 
+compilation time: 0.000702ms
+Execution time: 0.265236ms
+SELECT id FROM data WHERE education < 10 and relationship < 4 
+compilation time: 0.309199ms
+Execution time: 0.244235ms
+SELECT id FROM data WHERE workclass < 5 and relationship < 2 and race > 3 and capitalloss > 88 
+compilation time: 0.709184ms
+Execution time: 0.299554ms
+SELECT id FROM data WHERE age < 61 and educationnum >= 13 and capitalgain >= 69 
+compilation time: 0.532596ms
+Execution time: 0.272422ms
+SELECT id FROM data WHERE occupation < 12 and relationship != 2 and capitalloss >= 0 and nativecountry = 28 
+compilation time: 0.656503ms
+Execution time: 0.379898ms
+SELECT id FROM data WHERE maritalstatus > 5 and occupation < 12 and race > 0 and sex = 1 and capitalloss = 70 and nativecountry = 2 
+compilation time: 1.01121ms
+Execution time: 0.243176ms
+SELECT id FROM data WHERE age > 56 and workclass > 2 and maritalstatus <= 1 and capitalloss != 19 and hoursperweek >= 80 and nativecountry >= 20 
+compilation time: 1.06438ms
+Execution time: 0.253333ms
+SELECT id FROM data WHERE age < 68 and maritalstatus >= 6 and occupation >= 6 and sex = 1 and capitalloss = 66 and hoursperweek = 28 and nativecountry = 35 
+compilation time: 1.19081ms
+Execution time: 0.259146ms
+SELECT id FROM data WHERE age <= 55 and education = 0 and capitalgain < 29 and nativecountry != 29 
+compilation time: 0.667989ms
+Execution time: 0.233296ms
+SELECT id FROM data WHERE maritalstatus = 4 and occupation != 2  
+compilation time: 0.326184ms
+Execution time: 0.255543ms
+SELECT id FROM data WHERE relationship = 0 and relationship != 2  
+compilation time: 0.327268ms
+Execution time: 0.350012ms
+SELECT id FROM data WHERE age != 55 and workclass > 0 and education > 11 and maritalstatus < 5 and relationship > 3 and capitalloss >= 19 
+compilation time: 1.02047ms
+Execution time: 0.318526ms
+SELECT id FROM data WHERE age <= 55 and capitalloss <= 18 and hoursperweek <= 91 
+compilation time: 0.925627ms
+Execution time: 0.360353ms
+SELECT id FROM data WHERE maritalstatus > 0 and relationship >= 5 
+compilation time: 0.321344ms
+Execution time: 0.36862ms
+SELECT id FROM data WHERE maritalstatus <= 0 and relationship <= 5 and race < 0 and capitalgain > 13 and hoursperweek >= 63 
+compilation time: 0.845083ms
+Execution time: 0.311449ms
+SELECT id FROM data WHERE occupation <= 1 and capitalgain != 95 
+compilation time: 0.337019ms
+Execution time: 0.329956ms
+SELECT id FROM data WHERE maritalstatus <= 0 and occupation = 3 and relationship > 3 and race > 0 
+compilation time: 0.692731ms
+Execution time: 0.33227ms
+SELECT id FROM data WHERE education >= 4 and capitalgain <= 23 and educationnum != 7 and occupation >= 7  
+compilation time: 0.663835ms
+Execution time: 0.197975ms
+SELECT id FROM data WHERE capitalloss != 13 
+compilation time: 0.17955ms
+Execution time: 0.260242ms
+SELECT id FROM data WHERE education > 7 and maritalstatus >= 3 and sex >= 1 and hoursperweek < 19 
+compilation time: 0.705548ms
+Execution time: 0.308829ms
+SELECT id FROM data WHERE education >= 9 and maritalstatus = 5 and capitalgain > 67 and hoursperweek > 86 
+compilation time: 0.665356ms
+Execution time: 0.289545ms
+SELECT id FROM data WHERE workclass > 2 and education > 6 and sex = 1 and hoursperweek = 74 
+compilation time: 0.663401ms
+Execution time: 0.306328ms
+SELECT id FROM data WHERE age < 30 and maritalstatus != 4 and hoursperweek = 74 
+compilation time: 0.49201ms
+Execution time: 0.359063ms
+SELECT id FROM data WHERE age >= 67 and workclass <= 1 and occupation = 9 and capitalgain <= 120 and capitalloss < 55 
+compilation time: 0.843478ms
+Execution time: 0.342478ms
+SELECT id FROM data WHERE relationship > 3 and capitalgain = 68 and capitalloss != 41 and hoursperweek != 85 and nativecountry >= 0 
+compilation time: 0.872613ms
+Execution time: 0.225824ms
+SELECT id FROM data WHERE workclass <= 8 and education <= 7 and race != 4 
+compilation time: 0.499249ms
+Execution time: 0.185066ms
+SELECT id FROM data WHERE workclass >= 1 and race <= 3 and sex > 0 and hoursperweek < 47 and nativecountry = 24 
+compilation time: 0.897505ms
+Execution time: 0.217504ms
+SELECT id FROM data WHERE workclass >= 6 and educationnum > 7 and maritalstatus <= 3 and sex != 0 and capitalgain != 18 and capitalloss = 85 
+compilation time: 0.982982ms
+Execution time: 0.349373ms
+SELECT id FROM data WHERE education < 6 and race < 1 and capitalgain > 67 
+compilation time: 0.533137ms
+Execution time: 0.200442ms
+SELECT id FROM data 
+compilation time: 0.000823ms
+Execution time: 0.304256ms
+SELECT id FROM data WHERE maritalstatus > 5 and occupation <= 8 and capitalgain >= 31 
+compilation time: 0.490939ms
+Execution time: 0.22123ms
+SELECT id FROM data WHERE workclass != 8 and education = 2 
+compilation time: 0.419532ms
+Execution time: 0.315621ms
+SELECT id FROM data WHERE age > 19 and maritalstatus < 6 and race != 2 and sex >= 0 
+compilation time: 0.672548ms
+Execution time: 0.349879ms
+SELECT id FROM data WHERE age != 65 and capitalgain != 4 
+compilation time: 0.318357ms
+Execution time: 0.329868ms
+SELECT id FROM data WHERE race != 0 and sex = 0 and capitalloss = 33 and nativecountry < 28 
+compilation time: 0.691372ms
+Execution time: 0.272979ms
+SELECT id FROM data WHERE occupation = 14 and hoursperweek >= 6 and nativecountry != 22 
+compilation time: 0.493658ms
+Execution time: 0.206746ms
+SELECT id FROM data WHERE relationship < 0 and hoursperweek = 70 
+compilation time: 0.32912ms
+Execution time: 0.315972ms
+SELECT id FROM data WHERE educationnum = 0 and maritalstatus >= 1 and capitalloss = 49 
+compilation time: 0.487118ms
+Execution time: 0.201659ms
+SELECT id FROM data WHERE age >= 66 and occupation < 10 and relationship < 2 and race < 0 and sex <= 1 and capitalgain != 49 and capitalloss < 10 
+compilation time: 1.14932ms
+Execution time: 0.356964ms
+SELECT id FROM data WHERE educationnum < 15 and capitalloss > 16 
+compilation time: 0.331535ms
+Execution time: 0.183264ms
+SELECT id FROM data WHERE educationnum != 12 and occupation != 11 and sex < 0 and capitalloss = 79 and hoursperweek <= 33 
+compilation time: 1.03505ms
+Execution time: 0.253413ms
+SELECT id FROM data WHERE sex >= 0 and relationship > 2 and capitalloss < 45 and workclass <= 4  
+compilation time: 0.775814ms
+Execution time: 0.334667ms
+SELECT id FROM data WHERE workclass != 0 and educationnum <= 6 and sex < 1 and capitalloss <= 56 and nativecountry < 35 
+compilation time: 1.23239ms
+Execution time: 0.380847ms
+SELECT id FROM data WHERE education <= 10 and occupation >= 10 
+compilation time: 0.577218ms
+Execution time: 0.230335ms
+SELECT id FROM data WHERE age <= 22 and workclass > 1 and capitalgain > 122 and capitalloss >= 86 and hoursperweek >= 38 and nativecountry = 24 
+compilation time: 1.91266ms
+Execution time: 0.339974ms
+SELECT id FROM data WHERE educationnum > 4 and capitalgain = 23 
+compilation time: 0.546388ms
+Execution time: 0.330858ms
+SELECT id FROM data WHERE maritalstatus = 6 and relationship < 4 and race <= 0 and hoursperweek < 23 
+compilation time: 1.20349ms
+Execution time: 0.372741ms
+SELECT id FROM data 
+compilation time: 0.001083ms
+Execution time: 0.201015ms
+SELECT id FROM data WHERE maritalstatus < 5 and occupation > 8 and capitalgain != 18 
+compilation time: 0.832156ms
+Execution time: 0.260408ms
+SELECT id FROM data WHERE education > 0 and educationnum < 5 and maritalstatus != 1 and relationship = 2 and race > 1 and sex < 0 and hoursperweek != 92 
+compilation time: 2.08283ms
+Execution time: 0.399557ms
+SELECT id FROM data WHERE age < 24 and relationship > 3 and race > 0 and nativecountry > 18 
+compilation time: 1.25488ms
+Execution time: 0.28249ms
+SELECT id FROM data WHERE capitalloss != 46 and educationnum >= 5 and age < 39 and workclass > 3 and maritalstatus = 4  
+compilation time: 1.55388ms
+Execution time: 0.406512ms
+SELECT id FROM data WHERE capitalgain >= 110 and capitalloss < 42 
+compilation time: 0.654709ms
+Execution time: 0.261801ms
+SELECT id FROM data WHERE educationnum != 14 and maritalstatus > 3 and relationship != 4 and race = 4 and capitalgain = 59 and hoursperweek = 50 and nativecountry != 35 
+compilation time: 2.1296ms
+Execution time: 0.431611ms
+SELECT id FROM data WHERE workclass < 3 and maritalstatus != 5 and occupation <= 9 and sex <= 0 and capitalloss < 98 
+compilation time: 1.31786ms
+Execution time: 0.341925ms
+SELECT id FROM data WHERE age > 40 and maritalstatus <= 0 and race <= 4 and capitalloss < 3 
+compilation time: 1.20948ms
+Execution time: 0.286983ms
+SELECT id FROM data WHERE age < 31 and occupation = 9 and relationship != 5 and race >= 2 and capitalloss >= 19 
+compilation time: 1.61861ms
+Execution time: 0.340412ms
+SELECT id FROM data WHERE age != 18 and education = 0 and occupation = 2 and race < 2 and sex <= 1 and hoursperweek <= 45 
+compilation time: 1.95853ms
+Execution time: 0.39768ms
+SELECT id FROM data WHERE workclass = 0 and occupation >= 10 and capitalgain != 19 and capitalloss < 65 and hoursperweek >= 86 
+compilation time: 1.64765ms
+Execution time: 0.401254ms
+SELECT id FROM data WHERE age <= 41 and maritalstatus > 5 and occupation = 0 and capitalgain >= 112 
+compilation time: 1.33146ms
+Execution time: 0.315678ms
+SELECT id FROM data WHERE educationnum = 13 
+compilation time: 0.205693ms
+Execution time: 0.172875ms
+SELECT id FROM data WHERE age >= 39 and workclass = 6 and race > 3 and nativecountry = 20 
+compilation time: 1.24571ms
+Execution time: 0.276943ms
+SELECT id FROM data WHERE maritalstatus >= 3 and relationship >= 1 and education > 3  
+compilation time: 0.889189ms
+Execution time: 0.288357ms
+SELECT id FROM data WHERE workclass >= 7 and maritalstatus = 1 and capitalloss != 9 and nativecountry >= 1 
+compilation time: 1.1736ms
+Execution time: 0.340224ms
+SELECT id FROM data WHERE age < 58 and maritalstatus <= 2 and relationship >= 3 and capitalloss < 20 and nativecountry != 15 
+compilation time: 0.913324ms
+Execution time: 0.233132ms
+SELECT id FROM data WHERE occupation >= 11  
+compilation time: 0.258199ms
+Execution time: 0.299413ms
+SELECT id FROM data WHERE age = 56 and workclass <= 3 and capitalgain > 25 and nativecountry <= 20 
+compilation time: 1.26376ms
+Execution time: 0.388203ms
+SELECT id FROM data WHERE workclass < 7 and relationship > 3 and sex > 1 and capitalgain > 37 and hoursperweek <= 38 
+compilation time: 1.00547ms
+Execution time: 0.234702ms
+SELECT id FROM data WHERE education <= 3 and maritalstatus = 0 and occupation < 7 and race != 4 
+compilation time: 0.744864ms
+Execution time: 0.249541ms
+SELECT id FROM data WHERE age = 61 and educationnum <= 2 and occupation >= 1 and sex > 1 and capitalgain != 12 and capitalloss = 14 and hoursperweek <= 35 
+compilation time: 2.16382ms
+Execution time: 0.334043ms
+SELECT id FROM data WHERE maritalstatus < 2 and capitalloss > 49 
+compilation time: 0.479573ms
+Execution time: 0.27511ms
+SELECT id FROM data WHERE workclass >= 3 and maritalstatus != 3 and relationship >= 0 and race > 4 and sex = 1 and nativecountry != 22 
+compilation time: 1.05179ms
+Execution time: 0.337978ms
+SELECT id FROM data WHERE education > 5 and educationnum = 15 and capitalloss > 69 and hoursperweek <= 67 
+compilation time: 1.24162ms
+Execution time: 0.375952ms
+SELECT id FROM data WHERE age >= 18 and age != 32  
+compilation time: 0.342026ms
+Execution time: 0.33179ms
+SELECT id FROM data WHERE educationnum < 5 and maritalstatus = 1 and race > 1 and capitalgain = 106 and nativecountry >= 36 
+compilation time: 0.840987ms
+Execution time: 0.322432ms
+SELECT id FROM data WHERE maritalstatus < 2 and relationship <= 2 and hoursperweek <= 32 and nativecountry <= 17 
+compilation time: 1.08073ms
+Execution time: 0.30251ms
+SELECT id FROM data WHERE workclass >= 5 and education != 9 and educationnum <= 4 and capitalloss = 79 
+compilation time: 0.750661ms
+Execution time: 0.310206ms
+SELECT id FROM data WHERE nativecountry >= 29 and maritalstatus > 3 and relationship != 3 and maritalstatus >= 2 and relationship != 3  
+compilation time: 0.917854ms
+Execution time: 0.340033ms
+SELECT id FROM data WHERE education > 12 and educationnum < 5 and maritalstatus = 6 and relationship = 1 and race = 4 and sex != 0 and nativecountry <= 27 
+compilation time: 1.39491ms
+Execution time: 0.245959ms
+SELECT id FROM data WHERE age = 38 and workclass != 0 and educationnum != 2 and maritalstatus != 4 
+compilation time: 0.783005ms
+Execution time: 0.216568ms
+SELECT id FROM data WHERE educationnum <= 9 and maritalstatus > 3 and relationship = 0 and nativecountry <= 0 
+compilation time: 0.776975ms
+Execution time: 0.248569ms
+SELECT id FROM data WHERE age = 15 and relationship > 1 and race < 1 and sex < 1 
+compilation time: 0.711246ms
+Execution time: 0.281622ms
+SELECT id FROM data WHERE age >= 28 and workclass >= 8 and educationnum < 15 and maritalstatus = 2 and nativecountry > 31 
+compilation time: 0.855544ms
+Execution time: 0.349634ms
+SELECT id FROM data WHERE age != 3 and maritalstatus < 1 
+compilation time: 0.343964ms
+Execution time: 0.195527ms
+SELECT id FROM data WHERE capitalgain != 59 and nativecountry <= 18 
+compilation time: 0.301951ms
+Execution time: 0.295121ms
+SELECT id FROM data WHERE education > 14 and maritalstatus = 4 and race >= 2 and sex > 0 
+compilation time: 0.667337ms
+Execution time: 0.296302ms
+SELECT id FROM data WHERE education = 3 and occupation >= 12 and capitalgain < 94 and capitalloss >= 82 
+compilation time: 1.21809ms
+Execution time: 0.310405ms
+SELECT id FROM data WHERE relationship >= 3 and hoursperweek <= 54  
+compilation time: 0.376291ms
+Execution time: 0.211984ms
+SELECT id FROM data WHERE education = 11 and relationship != 4 and capitalloss < 92 and hoursperweek >= 52 and nativecountry > 6 
+compilation time: 0.841499ms
+Execution time: 0.241632ms
+SELECT id FROM data WHERE age != 10 and education != 6 and maritalstatus >= 1 and occupation = 3 and capitalloss <= 5 and nativecountry > 17 
+compilation time: 1.01626ms
+Execution time: 0.250122ms
+SELECT id FROM data WHERE workclass >= 8 and education = 6 and maritalstatus <= 3 and occupation > 6 and capitalgain <= 32 and nativecountry > 10 
+compilation time: 1.0234ms
+Execution time: 0.317535ms
+SELECT id FROM data WHERE sex >= 0 and maritalstatus >= 3 and age < 55  
+compilation time: 0.502004ms
+Execution time: 0.231381ms
+SELECT id FROM data WHERE workclass <= 8 and education <= 1 and educationnum > 9 and relationship < 2 
+compilation time: 0.674281ms
+Execution time: 0.329846ms
+SELECT id FROM data WHERE educationnum = 7 and maritalstatus = 4 and relationship != 1 and race >= 1 
+compilation time: 0.698864ms
+Execution time: 0.324772ms
+SELECT id FROM data WHERE age != 71 and educationnum < 9 and maritalstatus = 1 and occupation > 12 and race < 2 and capitalgain >= 2 
+compilation time: 1.12888ms
+Execution time: 0.353022ms
+SELECT id FROM data WHERE sex > 1 and capitalgain = 106 
+compilation time: 0.359541ms
+Execution time: 0.302731ms
+SELECT id FROM data WHERE education <= 9  
+compilation time: 0.171633ms
+Execution time: 0.350287ms
+SELECT id FROM data WHERE occupation > 7 and capitalgain < 98  
+compilation time: 0.32399ms
+Execution time: 0.21325ms
+SELECT id FROM data WHERE workclass > 7 and educationnum = 10 and relationship != 1 
+compilation time: 0.482067ms
+Execution time: 0.225838ms
+SELECT id FROM data WHERE age <= 34 and maritalstatus >= 6 and occupation = 14 and race >= 2 and capitalgain <= 17 and capitalloss != 33 
+compilation time: 1.0804ms
+Execution time: 0.259257ms
+SELECT id FROM data WHERE workclass > 4 and occupation <= 0 and relationship <= 0 and capitalgain >= 69 and capitalloss > 55 
+compilation time: 0.842305ms
+Execution time: 0.242931ms
+SELECT id FROM data WHERE age >= 45 and education >= 9 and occupation <= 11 and relationship <= 2 and capitalgain <= 72 and capitalloss <= 8 and hoursperweek != 76 
+compilation time: 1.1865ms
+Execution time: 0.355061ms
+SELECT id FROM data WHERE age > 20 and workclass <= 7 and occupation < 4 and sex >= 1 and capitalloss > 40 and nativecountry <= 13 
+compilation time: 1.40428ms
+Execution time: 0.457258ms
+SELECT id FROM data WHERE workclass = 6 and educationnum >= 5 and relationship >= 3 and capitalloss != 14 
+compilation time: 1.18571ms
+Execution time: 0.367234ms
+SELECT id FROM data WHERE capitalloss > 63 
+compilation time: 0.250322ms
+Execution time: 0.202947ms
+SELECT id FROM data WHERE educationnum > 6 and maritalstatus != 6 and occupation < 2 and race <= 2 and sex = 1 
+compilation time: 1.2629ms
+Execution time: 0.228744ms
+SELECT id FROM data WHERE capitalloss != 25 and occupation <= 5  
+compilation time: 0.32225ms
+Execution time: 0.211844ms
+SELECT id FROM data WHERE relationship < 2 and workclass != 4  
+compilation time: 0.318525ms
+Execution time: 0.208668ms
+SELECT id FROM data WHERE race > 4 and nativecountry = 5 
+compilation time: 0.314324ms
+Execution time: 0.200577ms
+SELECT id FROM data WHERE educationnum > 2 and maritalstatus < 3 and sex < 0 
+compilation time: 0.491111ms
+Execution time: 0.213611ms
+SELECT id FROM data WHERE education >= 7 and hoursperweek <= 37 and nativecountry > 0 
+compilation time: 0.492725ms
+Execution time: 0.213235ms
+SELECT id FROM data WHERE occupation > 5 and sex > 1 and nativecountry < 25 
+compilation time: 0.546335ms
+Execution time: 0.324795ms
+SELECT id FROM data WHERE maritalstatus != 5 and occupation = 8 
+compilation time: 0.347118ms
+Execution time: 0.191496ms
+SELECT id FROM data WHERE maritalstatus > 0 and occupation = 12 and capitalloss <= 77 and hoursperweek >= 2 and nativecountry < 28 
+compilation time: 0.836008ms
+Execution time: 0.33909ms
+SELECT id FROM data WHERE maritalstatus != 3 and hoursperweek = 29 and nativecountry > 27 
+compilation time: 0.517486ms
+Execution time: 0.301292ms
+SELECT id FROM data WHERE age <= 62 and educationnum >= 6 and hoursperweek != 16 and nativecountry > 18 
+compilation time: 0.694375ms
+Execution time: 0.278924ms
+SELECT id FROM data WHERE maritalstatus < 6 and occupation = 1 and race > 4 and capitalgain >= 107 
+compilation time: 0.679081ms
+Execution time: 0.236025ms
+SELECT id FROM data WHERE workclass >= 3 and educationnum < 8 and race > 4 
+compilation time: 0.505179ms
+Execution time: 0.225814ms
+SELECT id FROM data WHERE age >= 44 and occupation > 3 and relationship < 1 and race < 3 and sex <= 1 and hoursperweek = 87 and nativecountry >= 6 
+compilation time: 1.19301ms
+Execution time: 0.321218ms
+SELECT id FROM data WHERE age > 13 and workclass >= 3 and education >= 5 and educationnum > 3 and maritalstatus = 1 
+compilation time: 0.938752ms
+Execution time: 0.343464ms
+SELECT id FROM data WHERE workclass > 2 and educationnum != 8 and occupation != 8 and capitalloss > 83 
+compilation time: 0.691296ms
+Execution time: 0.341207ms
+SELECT id FROM data WHERE age > 70 and education <= 13 and maritalstatus >= 0 and occupation >= 2 and relationship >= 2 and sex >= 1 and nativecountry = 23 
+compilation time: 1.20779ms
+Execution time: 0.356127ms
+SELECT id FROM data WHERE workclass >= 3 and nativecountry != 31 
+compilation time: 0.353759ms
+Execution time: 0.238253ms
+SELECT id FROM data WHERE workclass > 6 and maritalstatus <= 1 and sex < 1 and capitalloss > 46 and hoursperweek >= 60 
+compilation time: 0.870375ms
+Execution time: 0.350869ms
+SELECT id FROM data WHERE educationnum > 5 and sex = 0 
+compilation time: 0.540887ms
+Execution time: 0.348789ms
+SELECT id FROM data WHERE hoursperweek = 69 
+compilation time: 0.187379ms
+Execution time: 0.312064ms
+SELECT id FROM data WHERE age <= 63 and workclass > 1 and education != 2 and nativecountry < 19 
+compilation time: 0.794251ms
+Execution time: 0.33042ms
+SELECT id FROM data WHERE maritalstatus != 3 and race > 4 and capitalgain != 71 and hoursperweek < 35 
+compilation time: 0.730617ms
+Execution time: 0.28422ms
+SELECT id FROM data WHERE race > 1 
+compilation time: 0.141223ms
+Execution time: 0.26061ms
+SELECT id FROM data WHERE age != 10 and workclass <= 0 and education > 1 and nativecountry < 33 
+compilation time: 0.651768ms
+Execution time: 0.279712ms
+SELECT id FROM data WHERE workclass != 4 and nativecountry = 39  
+compilation time: 0.485378ms
+Execution time: 0.218245ms
+SELECT id FROM data WHERE workclass <= 7 and maritalstatus != 0 and occupation >= 10 and race = 2 and sex <= 0 and capitalloss <= 81 and hoursperweek < 68 
+compilation time: 1.24069ms
+Execution time: 0.308671ms
+SELECT id FROM data WHERE relationship <= 0 and race > 3  
+compilation time: 0.323309ms
+Execution time: 0.262233ms
+SELECT id FROM data WHERE hoursperweek != 39 and nativecountry > 25  
+compilation time: 0.312289ms
+Execution time: 0.207157ms
+SELECT id FROM data WHERE educationnum > 11 and capitalgain > 14 
+compilation time: 0.3206ms
+Execution time: 0.293201ms
+SELECT id FROM data WHERE age > 65 and education <= 6 and sex != 0 
+compilation time: 0.480811ms
+Execution time: 0.26718ms
+SELECT id FROM data WHERE age > 44 and education < 11 and maritalstatus = 2 and relationship > 1 and sex = 0 and capitalgain <= 91 and hoursperweek = 61 
+compilation time: 1.19704ms
+Execution time: 0.31437ms
+SELECT id FROM data WHERE workclass < 0 and educationnum < 11 and capitalgain = 22 and nativecountry <= 24 
+compilation time: 0.665655ms
+Execution time: 0.213552ms
+SELECT id FROM data WHERE educationnum = 13 and race >= 0 and sex = 1 and capitalgain <= 117 and capitalloss = 42 and hoursperweek = 5 and nativecountry >= 31 
+compilation time: 1.17434ms
+Execution time: 0.310665ms
+SELECT id FROM data WHERE maritalstatus >= 3  
+compilation time: 0.13796ms
+Execution time: 0.258798ms
+SELECT id FROM data WHERE maritalstatus >= 3 and age <= 63 and sex > 0  
+compilation time: 0.491171ms
+Execution time: 0.282714ms
+SELECT id FROM data WHERE education >= 14 and maritalstatus < 4 and race != 2 and sex = 1 and capitalgain = 36 
+compilation time: 0.827565ms
+Execution time: 0.285522ms
+SELECT id FROM data WHERE occupation > 9  
+compilation time: 0.133808ms
+Execution time: 0.252003ms
+SELECT id FROM data WHERE sex = 0  
+compilation time: 0.162511ms
+Execution time: 0.273705ms
